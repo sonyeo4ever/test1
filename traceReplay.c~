@@ -1,0 +1,176 @@
+#include <stdio.h>
+#include <string.h>
+#include <stdlib.h>
+#include <unistd.h>
+#include <fcntl.h>
+#include <errno.h>
+#include <limits.h>
+
+#include "cJSON.h"
+#include "traceReplay.h"
+
+
+struct Config *config;
+
+int parse_config(char *config_name);
+static int trace_replay(char *config_name, int day);
+
+void print_help()
+{
+	printf("traceReplay 0.1 Version\n");
+}
+
+int main (int argc, char *argv[])
+{
+	FILE* init_fp;
+	int opt, i;
+	int day = DEFALUT_DAY;
+
+	while ((opt = getopt(argc, argv, "hd:")) != EOF) {
+		switch (opt) {
+		case 'h':
+			print_help();
+			goto out;
+		case 'd': 
+			day = atoi(optarg);
+			break;
+		default:
+			print_help();
+			goto out;
+		}
+	}
+
+	if ((argc-optind) != 1) {
+		print_help();
+		goto out;
+	}
+
+	trace_replay(argv[optind], day);
+
+out:
+	return 0;
+}
+
+static int trace_replay(char *config_name, int day)
+{
+	config = malloc(sizeof(struct Config));
+
+	parse_config(config_name);
+// parse_config
+
+// init
+
+// do_trace_replay
+	free(config);
+}
+
+int parse_config(char *config_name)
+{
+	FILE *config_fp;
+	long len = 0;
+	char *config_data;
+	int ret = 0;
+	cJSON *root_obj;
+	cJSON *init_filemap_obj;
+	cJSON *multimedia_obj;
+	cJSON *basic_app_obj;
+	cJSON *normal_app_obj;
+
+	config_fp = fopen(config_name, "r");
+	if (config_fp == NULL) {
+		printf("error: cannot read %s\n", config_name);
+		ret = -1;
+		return -1;
+	}
+	
+	fseek(config_fp, 0, SEEK_END);
+	len = ftell(config_fp);
+	fseek(config_fp, 0, SEEK_SET);
+
+	config_data = (char *)malloc(len);
+	if (config_data == NULL) {
+		printf("error: failed malloc\n");
+		fclose(config_fp);
+		return -1;
+	}
+	fread(config_data, sizeof(char), len, config_fp);
+
+	root_obj = cJSON_Parse(config_data);
+	if (root_obj == NULL) {
+		printf("error: %s\n", cJSON_GetErrorPtr());
+		ret = -1;
+		goto out;
+	}
+
+	// INIT_FILEMAP
+	memset(config->INIT_FILEMAP, 0, PATH_MAX);
+	init_filemap_obj = cJSON_GetObjectItem(root_obj, "INIT_FILEMAP");
+	if (init_filemap_obj == NULL) {
+		sprintf(config->INIT_FILEMAP, "NULL");
+	} else {
+		sprintf(config->INIT_FILEMAP, "%s", init_filemap_obj->valuestring);
+	}
+	printf("%s\n", config->INIT_FILEMAP);
+
+	// MULTIMEDIA
+	multimedia_obj = cJSON_GetObjectItem(root_obj, "MULTIMEDIA");
+	if (multimedia_obj == NULL) {
+		printf("error: Parse JSON file, No MULTIMEDIA\n");
+		ret = -1;
+		goto out;
+	} else {
+//		ret = parse_multimedia(multimedia_obj);
+		if (ret == -1)
+			goto out;
+	}
+
+	basic_app_obj = cJSON_GetObjectItem(json_root, BASIC_APP);
+	if (basic_app_obj == NULL) {
+		printf("error: Parse JSON file, No BASIC_APP\n");
+		ret = -1;
+		goto out;
+	} else {
+		ret = parse_basic_app(basic_app_obj);
+		if (ret == -1)
+			goto out;
+	}
+
+	normal_app_obj = cJSON_GetObjectItem(json_root, NORMAL_APP);
+	if (normal_app_obj == NULL) {
+		printf("error: Parse JSON file, No NORMAL_APP\n");
+		ret = -1;
+		goto out;
+	} else {
+		ret = parse_basic_app(normal_app_obj);
+		if (ret == -1)
+			goto out;
+	}
+
+//	valuestring
+//	valueint
+
+out:
+	fclose(config_fp);
+	free(config_data);
+	return ret;
+}
+
+static int parse_multimedia(cJSON *multi_obj)
+{
+}
+
+static int parse_basic_app(cJSON *basic_obj)
+{
+	
+
+}
+
+static int parse_normal_app(cJSON *normal_obj)
+{
+}
+
+
+
+
+
+

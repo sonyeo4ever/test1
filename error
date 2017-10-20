@@ -1,0 +1,76 @@
+Replay trace-new/clashroyale/TRACE_clash_install.input TRACE
+W: Failed Open, Try file create:data/user/0/com.google.android.gms/files/places_PlatformKey
+CR: Retry mkdir_all_path: data/user/0/com.google.android.gms/files/places_PlatformKey
+W: Failed Open, Try file create:data/data/com.google.android.gms/app_place_inference_data_index/l1/000046.log
+W: Failed Open, Try file create:data/data/com.google.android.gms/app_place_inference_data_index/l2/000046.log
+CR: Retry mkdir_all_path: data/media/0/Android/data/com.google.android.youtube/cache/cache-444305093probe
+FS: Fail Open: data/data/com.google.android.youtube/cache/1496809943795.dex.flock
+W: Failed Open, Try file create:data/data/com.google.android.youtube/databases/com.google.android.libraries.youtube.net.delayedevents.DelayedEventStore-journal
+W: Failed Open, Try file create:data/data/com.google.android.youtube/databases/com.google.android.libraries.youtube.net.delayedevents.DelayedEventStore
+W: Failed Open, Try file create:data/system/sync/pending.xml
+W: Failed Open, Try file create:data/user/0/com.android.vending/cache/logs/com.google.eslabskku%40gmail.com.metalog/play_metalog.log
+CR: Retry mkdir_all_path: data/user/0/com.android.vending/cache/logs/com.google.eslabskku%40gmail.com.metalog/play_metalog.log
+W: Failed Open, Try file create:data/user/0/com.android.vending/cache/logs/com.google.eslabskku%40gmail.com.metalog/logs_upload_attempt.log
+W: Failed Open, Try file create:data/user/0/com.google.android.gms/files/auth.authzen.store.transactions_v2
+W: Failed Open, Try file create:data/user/0/com.google.android.gm/files/persisted_config
+CR: Retry mkdir_all_path: data/user/0/com.google.android.gm/files/persisted_config
+W: Failed Open, Try file create:data/data/com.google.android.gms/databases/phenotype.db-wal
+W: Failed Open, Try file create:data/user/0/com.facebook.katana/app_analytics_beacon/normal/beacon_id
+CR: Retry mkdir_all_path: data/user/0/com.facebook.katana/app_analytics_beacon/normal/beacon_id
+UN: Failed unlink file: data/data/com.google.android.gms/files/nearby-discovery/nearby_discovery_item_cache.db/000201.log
+UN: Failed unlink file: data/data/com.google.android.gms/files/nearby-discovery/nearby_discovery_item_cache.db/MANIFEST-000200
+UN: Failed unlink file: data/data/com.google.android.gms/cache/beacon_message_cache.db/000003.log
+UN: Failed unlink file: data/data/com.google.android.gms/cache/beacon_message_cache.db/LOCK
+W: Failed Open, Try file create:data/user/0/com.google.android.gms/app_sslcache/playatoms-pa.googleapis.com.443
+CR: Retry mkdir_all_path: data/user/0/com.google.android.gms/app_sslcache/playatoms-pa.googleapis.com.443
+W: Failed Open, Try file create:data/data/com.google.android.gms/app_ulr_db/000235.log
+W: Failed Open, Try file create:data/data/com.google.android.gms/app_instantapps/domainFilterInfoDb/000161.log
+CR: Retry mkdir_all_path: data/data/com.facebook.katana/dex/config.tmp
+W: Failed Open, Try file create:data/data/com.facebook.katana/app_fbacore/beacon.regular
+CR: Retry mkdir_all_path: data/data/com.facebook.katana/app_fbacore/beacon.regular
+W: Failed Open, Try file create:data/user/0/com.facebook.katana/app_preconnection/preconnection_data
+CR: Retry mkdir_all_path: data/user/0/com.facebook.katana/app_preconnection/preconnection_data
+W: Failed Open, Try file create:data/user/0/com.google.android.gsf/files/security_token
+CR: Retry mkdir_all_path: data/user/0/com.google.android.gsf/files/security_token
+CR: Retry mkdir_all_path: data/data/com.facebook.katana/files/LoomInitFileConfig-1733150235.tmp
+RN: Failed Rename, Retry File Create path 1:data/data/com.facebook.katana/files/LoomInitFileConfig-1733150235.tmp
+CR: Retry mkdir_all_path: data/data/com.facebook.katana/files/LoomInitFileConfig-1733150235.tmp
+CR: Failed Create file: data/data/com.facebook.katana/files/LoomInitFileConfig-1733150235.tmp
+CR: Retry mkdir_all_path: data//data/com.facebook.katana/cache/LoomInitFileConfig
+RN: Failed Rename, Retry File Create path 2:data//data/com.facebook.katana/cache/LoomInitFileConfig
+RN: Failed Rename, Retry File Create path 1:data/data/com.facebook.katana/shared_prefs/rti.mqtt.flags.xml
+CR: Retry mkdir_all_path: data/data/com.facebook.katana/shared_prefs/rti.mqtt.flags.xml
+RN: Failed Rename, Retry File Create path 1:data/data/com.facebook.katana/shared_prefs/rti.mqtt.analytics.xml
+W: Failed Open, Try file create:data/user/0/com.facebook.katana/databases/prefs_db-journal
+CR: Retry mkdir_all_path: data/user/0/com.facebook.katana/databases/prefs_db-journal
+W: Failed Open, Try file create:data/data/com.facebook.katana/databases/prefs_db
+CR: Retry mkdir_all_path: data/data/com.facebook.katana/databases/prefs_db
+W: Failed Open, Try file create:data/user/0/com.google.android.gms/files/appdatasearch_usage
+W: Failed Open, Try file create:data/user/0/com.google.android.videos/cache/applogcat/log_1
+CR: Retry mkdir_all_path: data/user/0/com.google.android.videos/cache/applogcat/log_1
+W: Failed Open, Try file create:data/data/com.google.android.videos/cache/applogcat/log_2
+CR: Retry mkdir_all_path: data/data/com.google.android.instantapps.supervisor/files/aia-native-crashes/0-15f055b0d30.dump
+W: Failed Open, Try file create:data/user/0/com.google.android.videos/cache/logs_v2/com.google.eslabskku%40gmail.com.metalog/play_metalog.log
+CR: Retry mkdir_all_path: data/user/0/com.google.android.videos/cache/logs_v2/com.google.eslabskku%40gmail.com.metalog/play_metalog.log
+W: Failed Open, Try file create:data/user/0/com.google.android.videos/cache/logs_v2/com.google.eslabskku%40gmail.com.metalog/logs_upload_attempt.log
+W: Failed Open, Try file create:data/user/0/com.google.android.instantapps.supervisor/cache/logs/null_account.metalog/play_metalog.log
+CR: Retry mkdir_all_path: data/user/0/com.google.android.instantapps.supervisor/cache/logs/null_account.metalog/play_metalog.log
+W: Failed Open, Try file create:data/user/0/com.google.android.instantapps.supervisor/cache/logs/null_account.metalog/logs_upload_attempt.log
+UN: Failed unlink file: data/data/com.google.android.apps.maps/files/DATA_ShortTermStorage_consumed_subscriber_state_Version
+W: Failed Open, Try file create:data/user/0/com.google.android.apps.maps/files/DATA_ShortTermStorage_consumed_subscriber_state
+CR: Retry mkdir_all_path: data/user/0/com.google.android.apps.maps/files/DATA_ShortTermStorage_consumed_subscriber_state
+UN: Failed unlink file: data/data/com.google.android.apps.maps/files/DATA_ShortTermStorage_nearby_alert_state_Version
+W: Failed Open, Try file create:data/user/0/com.google.android.apps.maps/files/DATA_ShortTermStorage_nearby_alert_state
+UN: Failed unlink file: data/data/com.google.android.apps.maps/files/DATA_ShortTermStorage_nearby_places_maintainer_state_Version
+W: Failed Open, Try file create:data/user/0/com.google.android.apps.maps/files/DATA_ShortTermStorage_nearby_places_maintainer_state
+W: Failed Open, Try file create:data/user/0/com.google.android.apps.maps/files/DATA_ShortTermStorage_gmm_notification_status_active
+RD: Failed rmdir file: data/data/com.google.android.apps.maps/files/users/paint/116558891519906647334
+RD: Failed rmdir file: data/data/com.google.android.apps.maps/files/users/search/116558891519906647334
+UN: Failed unlink file: data/data/com.google.android.gms/files/appdatasearch_usage
+RN: Failed Rename, Retry File Create path 1:data/data/com.google.android.gms/shared_prefs/usage_stats_manager_prefs.xml
+W: Failed Open, Try file create:data/user/0/com.google.android.gms/files/AppDataSearch/main/AppDataSearch-main-config-corpus-scratch-data.tmp
+CR: Retry mkdir_all_path: data/user/0/com.google.android.gms/files/AppDataSearch/main/AppDataSearch-main-config-corpus-scratch-data.tmp
+W: Failed Open, Try file create:data/user/0/com.google.android.apps.maps/cache/cronet-cache-40719148/disk_cache/ba8bd13f30df7933_0
+CR: Retry mkdir_all_path: data/user/0/com.google.android.apps.maps/cache/cronet-cache-40719148/disk_cache/ba8bd13f30df7933_0
+CR: Retry mkdir_all_path: data/data/com.google.android.apps.maps/cache/cronet-cache-40719148/disk_cache/index-dir/temp-index
+W: Failed Open, Try file create:data/data/com.google.android.videos/cache/logs_v2/com.google.eslabskku%40gmail.com/eventlog.store110

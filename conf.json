@@ -1,0 +1,35 @@
+{
+	"INIT_FILEMAP": "init-file/init",
+	"MULTIMEDIA":
+	{
+		"CAMERA":
+		{
+			"PATH": "trace-new/camera", "MULTIMEDIA_PATH": "media/0/DCIM",
+			"TAKE_COUNT":2, "DELETE_COUNT":1
+		}
+	},
+	"BASIC_APP":
+	{
+		"DEFAULT_UPDATE_CYCLE": 7,
+		"DEFAULT_LOADING_CYCLE": 1.5,
+		"APPS":
+			[
+				{"NAME": "youtube", "PATH": "trace-new/youtube", 
+				"UPDATE_CYCLE":12, "LOADING_CYCLE": 2},
+				{"NAME": "facebook", "PATH": "trace-new/facebook"}
+			]
+	},
+	"NORMAL_APP":
+	{
+		"APP_INSTALL_CYCLE": 3,
+		"APP_UNINSTALL_CYCLE": 7,
+		"DEFAULT_UPDATE_CYCLE": 7,
+		"DEFAULT_LOADING_CYCLE": 1,
+		"APPS":
+			[
+				{"NAME": "climb", "PATH": "trace-new/climb", 
+				"UPDATE_CYCLE":5, "LOADING_CYCLE": 1},
+				{"NAME": "clash", "PATH": "trace-new/clash"}
+			]
+	}
+}
