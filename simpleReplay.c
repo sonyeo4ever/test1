@@ -28,7 +28,8 @@ struct trace_stat
 	int rmdir;
 	int fsync;
 	int rename;
-	int write;
+	int write_overwrite;
+	int write_append;
 };
 
 void print_help()
@@ -42,7 +43,7 @@ int main (int argc, char *argv[])
 	char init_name[MAX_NAME];
 	int opt, i;
 
-	while ((opt = getopt(argc, argv, "hi:")) != EOF) {
+	while ((opt = getopt(argc, argv, "hi:c:r:")) != EOF) {
 		switch (opt) {
 		case 'h':
 			print_help();
@@ -247,7 +248,7 @@ double trace_replay(char *input_name)
 			if (file_rename(path, path2) == 0)
 				Stat.rename++;
 		}
-		else if (strncmp(type, "[W]", 4) == 0)
+		else if (strncmp(type, "[WO]", 4) == 0)
 		{
 			long long int write_off;
 			long long int write_size;
@@ -266,18 +267,39 @@ double trace_replay(char *input_name)
 				continue;
 			file_size = atoll(ptr);
 			if (file_write(path, write_off, write_size, file_size) == 0)
-				Stat.write++;
+				Stat.write_overwrite++;
+		}
+		else if (strncmp(type, "[WA]", 4) == 0)
+		{
+			long long int write_off;
+			long long int write_size;
+			long long int file_size;
+
+			ptr = strtok(NULL, "\t");
+			if (ptr == NULL)
+				continue;
+			write_off = atoll(ptr);
+			ptr = strtok(NULL, "\t");
+			if (ptr == NULL)
+				continue;
+			write_size = atoll(ptr);
+			ptr = strtok(NULL, "\t");
+			if (ptr == NULL)
+				continue;
+			file_size = atoll(ptr);
+			if (file_append(path, write_off, write_size, file_size) == 0)
+				Stat.write_append++;
 		}
 		else
 			continue;
 	}
 
 out:
-	printf("CR\tMD\tUN\tRD\tFS\tRN\tW\n");
-	printf("%d\t%d\t%d\t%d\t%d\t%d\t%d\n", Stat.create, Stat.mkdir, 
+	printf("CR\tMD\tUN\tRD\tFS\tRN\tWO\tWA\n");
+	printf("%d\t%d\t%d\t%d\t%d\t%d\t%d\t%d\n", Stat.create, Stat.mkdir, 
 								Stat.unlink, Stat.rmdir, 
 								Stat.fsync, Stat.rename,
-								Stat.write);
+								Stat.write_overwrite, Stat.write_append);
 	fclose(input_fp);
 
 	return last_time;
@@ -394,3 +416,30 @@ int file_write(char *path, long long int write_off,
 	write(fd, data, write_size);
 	close(fd);
 }
+
+int file_append(char *path, long long int write_off, 
+				long long int write_size, long long int file_size)
+{
+	int fd = open(path, O_RDWR);
+	char *data;
+	char letter = 'a';
+	int letter_count = 'z'- 'a';
+	int random_number;
+	if (fd < 0) {
+		printf("W: Failed Open, Try file create:%s\n", path);
+		file_create(path);
+		fd = open(path, O_RDWR);
+		if (fd < 0) {
+			printf("W: Failed Open:%s\n", path);
+			return -1;
+		}
+	}
+	data = malloc(write_size);
+	random_number = rand() % letter_count;
+	letter = letter + random_number;
+	memset(data, letter, write_size);
+	lseek(fd, 0, SEEK_END);
+	write(fd, data, write_size);
+	close(fd);
+}
+

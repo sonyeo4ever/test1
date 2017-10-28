@@ -4,14 +4,14 @@
 	sprintf(BUF, "%s/TRACE_%s_loading.input", PATH, NAME);
 #define SPRINTF_UPDATE_PATH(BUF, PATH, NAME) \
 	sprintf(BUF, "%s/TRACE_%s_update.input", PATH, NAME);
-#define INSTALL_TRACE_PATH(BUF, PATH, NAME) \
+#define SPRINTF_INSTALL_PATH(BUF, PATH, NAME) \
 	sprintf(BUF, "%s/TRACE_%s_install.input", PATH, NAME);
-#define UNINSTALL_TRACE_PATH(BUF, PATH, NAME) \
-	sprintf(BUF, "%s/TRACE_%s_install.input", PATH, NAME);
+#define SPRINTF_UNINSTALL_PATH(BUF, PATH, NAME) \
+	sprintf(BUF, "%s/TRACE_%s_uninstall.input", PATH, NAME);
 
 enum REPLAY_TYPE
 {
-	REPLAY_LOAD = 0,
+	REPLAY_LOADING = 0,
 	REPLAY_UPDATE,
 	REPLAY_INSTALL,
 	REPLAY_UNINSTALL,
@@ -27,15 +27,4 @@ struct ReplayJob
 	double curTime;
 	double cycle;
 };
-
-struct Node
-{
-	void *data;
-	struct Node* next;
-};
-
-struct Node* ll_insert(void **head, void *data, int n);
-struct Node* ll_insert_priority(void **head, void *data, int (fn)(void* data1, void* data2));
-void* ll_remove(void **head, int n);
-int ll_size(void *head);
 

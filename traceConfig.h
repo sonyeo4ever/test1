@@ -1,4 +1,6 @@
 #include <limits.h>
+#define MAX_NAME	200
+#define DEFAULT_DAY	50
 
 struct Camera
 {
@@ -18,7 +20,7 @@ struct App
 
 struct Multimedia 
 {
-	struct Camera camera;
+	struct Camera mul_camera;
 };
 
 struct BasicApp

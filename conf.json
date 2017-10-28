@@ -4,7 +4,7 @@
 	{
 		"CAMERA":
 		{
-			"PATH": "trace-new/camera", "MULTIMEDIA_PATH": "media/0/DCIM",
+			"PATH": "trace-new/camera", "MULTIMEDIA_PATH": "data/media/0/DCIM",
 			"TAKE_COUNT":2, "DELETE_COUNT":1
 		}
 	},
@@ -16,7 +16,7 @@
 			[
 				{"NAME": "youtube", "PATH": "trace-new/youtube", 
 				"UPDATE_CYCLE":12, "LOADING_CYCLE": 2},
-				{"NAME": "facebook", "PATH": "trace-new/facebook"}
+				{"NAME": "destiny", "PATH": "trace-new/destiny"}
 			]
 	},
 	"NORMAL_APP":
@@ -29,7 +29,49 @@
 			[
 				{"NAME": "climb", "PATH": "trace-new/climb", 
 				"UPDATE_CYCLE":5, "LOADING_CYCLE": 1},
-				{"NAME": "clash", "PATH": "trace-new/clash"}
+				{"NAME": "clash", "PATH": "trace-new/clashroyale"},
+				{"NAME": "gow", "PATH": "trace-new/gow", 
+				"UPDATE_CYCLE":8, "LOADING_CYCLE": 2},
+				{"NAME": "angrybird", "PATH": "trace-new/angrybird"}
 			]
+	},
+	"PROCESS":
+	{
+		"INSTALL":
+		["android.process.acore", 
+		 "android.process.media",
+		 "com.android.vending",
+		 "com.google.android.googlequicksearchbox:interactor",
+		 "com.google.android.inputmethod.korean.input",
+		 "com.google.android.videos",
+		 "com.google.process.gapps",
+		 "system"
+		],
+		"UPDATE":
+		[
+			"android.process.acore",
+			"com.android.vending",
+			"com.google.android.googlequicksearchbox:interactor",
+			"com.google.process.gapps",
+			"google.android.instantapps.supervisor",
+			"com.android.defcontainer",
+			"com.google.android.videos",
+			"system"
+		],
+		"LOADING":
+		[
+			"com.android.vending.input",
+			"com.google.android.googlequicksearchbox:interactor.input",
+			"com.google.process.gapps",
+			"system"
+		],
+		"UNINSTALL":
+		[
+			"android.process.acore",
+			"com.android.vending.input",
+			"com.google.android.googlequicksearchbox:interactor.input",
+			"com.google.process.gapps",
+			"system"
+		]
 	}
 }
