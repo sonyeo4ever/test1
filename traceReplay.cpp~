@@ -16,7 +16,7 @@ using namespace std;
 struct Config *config;
 int mode_flag;
 
-static int trace_replay(char *config_name, int day);
+static int trace_replay(char *config_name, int day)
 int print_help(void);
 int trace_init(void);
 int do_trace_replay(double day);
