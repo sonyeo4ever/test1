@@ -1,0 +1,557 @@
+17.264455	[RN]	/system/install_sessions.xml	/system/install_sessions.xml.bak	
+17.264822	[CR]	/system/install_sessions.xml	
+17.268564	[WA]	/system/install_sessions.xml	0	421	0	
+17.268657	[FS]	/system/install_sessions.xml	0	
+17.276891	[UN]	/system/install_sessions.xml.bak	
+17.313074	[MD]	/app/vmdl499889374.tmp	
+17.314247	[RN]	/system/install_sessions.xml	/system/install_sessions.xml.bak	
+17.314480	[CR]	/system/install_sessions.xml	
+17.315443	[WA]	/system/install_sessions.xml	0	420	0	
+17.315603	[FS]	/system/install_sessions.xml	0	
+17.326875	[UN]	/system/install_sessions.xml.bak	
+17.794489	[WO]	/system/notification_log.db-journal	0	512	49760	
+17.794546	[WO]	/system/notification_log.db-journal	512	4	49760	
+17.794568	[WO]	/system/notification_log.db-journal	516	4096	49760	
+17.794603	[WO]	/system/notification_log.db-journal	4612	4	49760	
+17.794625	[WO]	/system/notification_log.db-journal	4616	4	49760	
+17.794644	[WO]	/system/notification_log.db-journal	4620	4096	49760	
+17.794676	[WO]	/system/notification_log.db-journal	8716	4	49760	
+17.794771	[WO]	/system/notification_log.db-journal	8720	4	49760	
+17.794792	[WO]	/system/notification_log.db-journal	8724	4096	49760	
+17.794824	[WO]	/system/notification_log.db-journal	12820	4	49760	
+17.794886	[FS]	/system/notification_log.db-journal	1	
+17.799214	[FS]	/system	1	
+17.805908	[WO]	/system/notification_log.db-journal	0	12	49760	
+17.805947	[FS]	/system/notification_log.db-journal	1	
+17.808353	[WO]	/system/notification_log.db	0	4096	57344	
+17.808400	[WO]	/system/notification_log.db	12288	4096	57344	
+17.808431	[WO]	/system/notification_log.db	16384	4096	57344	
+17.808451	[WA]	/system/notification_log.db	57344	4096	57344	
+17.808615	[FS]	/system/notification_log.db	1	
+17.819839	[WO]	/system/notification_log.db-journal	0	28	49760	
+17.819890	[FS]	/system/notification_log.db-journal	1	
+18.531883	[RN]	/system/netstats/dev.1507273242475-	/system/netstats/dev.1507273242475-.backup	
+18.532075	[CR]	/system/netstats/dev.1507273242475-	
+18.533234	[WA]	/system/netstats/dev.1507273242475-	0	4359	0	
+18.533328	[FS]	/system/netstats/dev.1507273242475-	0	
+18.541441	[UN]	/system/netstats/dev.1507273242475-.backup	
+18.544436	[RN]	/system/netstats/xt.1507273242475-	/system/netstats/xt.1507273242475-.backup	
+18.544588	[CR]	/system/netstats/xt.1507273242475-	
+18.545516	[WA]	/system/netstats/xt.1507273242475-	0	4414	0	
+18.545610	[FS]	/system/netstats/xt.1507273242475-	0	
+18.551744	[UN]	/system/netstats/xt.1507273242475-.backup	
+18.994547	[RN]	/system/netstats/dev.1507273242475-	/system/netstats/dev.1507273242475-.backup	
+18.994752	[CR]	/system/netstats/dev.1507273242475-	
+18.995732	[WA]	/system/netstats/dev.1507273242475-	0	4359	0	
+18.995821	[FS]	/system/netstats/dev.1507273242475-	0	
+19.005415	[UN]	/system/netstats/dev.1507273242475-.backup	
+19.008722	[RN]	/system/netstats/xt.1507273242475-	/system/netstats/xt.1507273242475-.backup	
+19.008881	[CR]	/system/netstats/xt.1507273242475-	
+19.009842	[WA]	/system/netstats/xt.1507273242475-	0	4414	0	
+19.009935	[FS]	/system/netstats/xt.1507273242475-	0	
+19.015179	[UN]	/system/netstats/xt.1507273242475-.backup	
+19.399615	[RN]	/system/netstats/dev.1507273242475-	/system/netstats/dev.1507273242475-.backup	
+19.399809	[CR]	/system/netstats/dev.1507273242475-	
+19.401043	[WA]	/system/netstats/dev.1507273242475-	0	4359	0	
+19.401195	[FS]	/system/netstats/dev.1507273242475-	0	
+19.410024	[UN]	/system/netstats/dev.1507273242475-.backup	
+19.416329	[RN]	/system/netstats/xt.1507273242475-	/system/netstats/xt.1507273242475-.backup	
+19.416918	[CR]	/system/netstats/xt.1507273242475-	
+19.419270	[WA]	/system/netstats/xt.1507273242475-	0	4414	0	
+19.419456	[FS]	/system/netstats/xt.1507273242475-	0	
+19.424500	[UN]	/system/netstats/xt.1507273242475-.backup	
+19.819388	[RN]	/system/netstats/dev.1507273242475-	/system/netstats/dev.1507273242475-.backup	
+19.819555	[CR]	/system/netstats/dev.1507273242475-	
+19.821160	[WA]	/system/netstats/dev.1507273242475-	0	4359	0	
+19.821752	[FS]	/system/netstats/dev.1507273242475-	0	
+19.829012	[UN]	/system/netstats/dev.1507273242475-.backup	
+19.832515	[RN]	/system/netstats/xt.1507273242475-	/system/netstats/xt.1507273242475-.backup	
+19.832664	[CR]	/system/netstats/xt.1507273242475-	
+19.833761	[WA]	/system/netstats/xt.1507273242475-	0	4414	0	
+19.833893	[FS]	/system/netstats/xt.1507273242475-	0	
+19.840258	[UN]	/system/netstats/xt.1507273242475-.backup	
+19.907223	[RN]	/system/recent_tasks/7_task.xml	/system/recent_tasks/7_task.xml.bak	
+19.907406	[CR]	/system/recent_tasks/7_task.xml	
+19.907531	[WA]	/system/recent_tasks/7_task.xml	0	875	0	
+19.909276	[WA]	/system/recent_tasks/7_task.xml	875	1	875	
+19.909324	[FS]	/system/recent_tasks/7_task.xml	0	
+19.916185	[UN]	/system/recent_tasks/7_task.xml.bak	
+20.230134	[RN]	/system/netstats/dev.1507273242475-	/system/netstats/dev.1507273242475-.backup	
+20.230333	[CR]	/system/netstats/dev.1507273242475-	
+20.231599	[WA]	/system/netstats/dev.1507273242475-	0	4359	0	
+20.231713	[FS]	/system/netstats/dev.1507273242475-	0	
+20.240023	[UN]	/system/netstats/dev.1507273242475-.backup	
+20.244203	[RN]	/system/netstats/xt.1507273242475-	/system/netstats/xt.1507273242475-.backup	
+20.244377	[CR]	/system/netstats/xt.1507273242475-	
+20.245586	[WA]	/system/netstats/xt.1507273242475-	0	4414	0	
+20.245691	[FS]	/system/netstats/xt.1507273242475-	0	
+20.250548	[UN]	/system/netstats/xt.1507273242475-.backup	
+20.454740	[RN]	/system/recent_tasks/7_task.xml	/system/recent_tasks/7_task.xml.bak	
+20.454927	[CR]	/system/recent_tasks/7_task.xml	
+20.455079	[WA]	/system/recent_tasks/7_task.xml	0	875	0	
+20.455154	[WA]	/system/recent_tasks/7_task.xml	875	1	875	
+20.455205	[FS]	/system/recent_tasks/7_task.xml	0	
+20.461624	[UN]	/system/recent_tasks/7_task.xml.bak	
+20.832079	[RN]	/system/netstats/dev.1507273242475-	/system/netstats/dev.1507273242475-.backup	
+20.832286	[CR]	/system/netstats/dev.1507273242475-	
+20.833313	[WA]	/system/netstats/dev.1507273242475-	0	4359	0	
+20.833394	[FS]	/system/netstats/dev.1507273242475-	0	
+20.840201	[UN]	/system/netstats/dev.1507273242475-.backup	
+20.843313	[RN]	/system/netstats/xt.1507273242475-	/system/netstats/xt.1507273242475-.backup	
+20.843486	[CR]	/system/netstats/xt.1507273242475-	
+20.847807	[WA]	/system/netstats/xt.1507273242475-	0	4414	0	
+20.847914	[FS]	/system/netstats/xt.1507273242475-	0	
+20.862238	[UN]	/system/netstats/xt.1507273242475-.backup	
+21.518798	[RN]	/system/netstats/dev.1507273242475-	/system/netstats/dev.1507273242475-.backup	
+21.519026	[CR]	/system/netstats/dev.1507273242475-	
+21.522158	[WA]	/system/netstats/dev.1507273242475-	0	4359	0	
+21.522304	[FS]	/system/netstats/dev.1507273242475-	0	
+21.534379	[UN]	/system/netstats/dev.1507273242475-.backup	
+21.538861	[RN]	/system/netstats/xt.1507273242475-	/system/netstats/xt.1507273242475-.backup	
+21.539055	[CR]	/system/netstats/xt.1507273242475-	
+21.540537	[WA]	/system/netstats/xt.1507273242475-	0	4414	0	
+21.540656	[FS]	/system/netstats/xt.1507273242475-	0	
+21.546457	[UN]	/system/netstats/xt.1507273242475-.backup	
+22.083510	[RN]	/system/netstats/dev.1507273242475-	/system/netstats/dev.1507273242475-.backup	
+22.083657	[CR]	/system/netstats/dev.1507273242475-	
+22.084571	[WA]	/system/netstats/dev.1507273242475-	0	4359	0	
+22.084664	[FS]	/system/netstats/dev.1507273242475-	0	
+22.092188	[UN]	/system/netstats/dev.1507273242475-.backup	
+22.094945	[RN]	/system/netstats/xt.1507273242475-	/system/netstats/xt.1507273242475-.backup	
+22.095086	[CR]	/system/netstats/xt.1507273242475-	
+22.095959	[WA]	/system/netstats/xt.1507273242475-	0	4414	0	
+22.096038	[FS]	/system/netstats/xt.1507273242475-	0	
+22.105493	[UN]	/system/netstats/xt.1507273242475-.backup	
+22.742010	[RN]	/system/netstats/dev.1507273242475-	/system/netstats/dev.1507273242475-.backup	
+22.742176	[CR]	/system/netstats/dev.1507273242475-	
+22.743142	[WA]	/system/netstats/dev.1507273242475-	0	4359	0	
+22.743232	[FS]	/system/netstats/dev.1507273242475-	0	
+22.749367	[UN]	/system/netstats/dev.1507273242475-.backup	
+22.753954	[RN]	/system/netstats/xt.1507273242475-	/system/netstats/xt.1507273242475-.backup	
+22.754089	[CR]	/system/netstats/xt.1507273242475-	
+22.755099	[WA]	/system/netstats/xt.1507273242475-	0	4414	0	
+22.755182	[FS]	/system/netstats/xt.1507273242475-	0	
+22.760466	[UN]	/system/netstats/xt.1507273242475-.backup	
+23.261302	[RN]	/system/netstats/dev.1507273242475-	/system/netstats/dev.1507273242475-.backup	
+23.261468	[CR]	/system/netstats/dev.1507273242475-	
+23.262503	[WA]	/system/netstats/dev.1507273242475-	0	4359	0	
+23.262601	[FS]	/system/netstats/dev.1507273242475-	0	
+23.269988	[UN]	/system/netstats/dev.1507273242475-.backup	
+23.274175	[RN]	/system/netstats/xt.1507273242475-	/system/netstats/xt.1507273242475-.backup	
+23.274334	[CR]	/system/netstats/xt.1507273242475-	
+23.275443	[WA]	/system/netstats/xt.1507273242475-	0	4414	0	
+23.275536	[FS]	/system/netstats/xt.1507273242475-	0	
+23.281057	[UN]	/system/netstats/xt.1507273242475-.backup	
+23.712118	[RN]	/system/netstats/dev.1507273242475-	/system/netstats/dev.1507273242475-.backup	
+23.712293	[CR]	/system/netstats/dev.1507273242475-	
+23.713348	[WA]	/system/netstats/dev.1507273242475-	0	4359	0	
+23.713448	[FS]	/system/netstats/dev.1507273242475-	0	
+23.721988	[UN]	/system/netstats/dev.1507273242475-.backup	
+23.725803	[RN]	/system/netstats/xt.1507273242475-	/system/netstats/xt.1507273242475-.backup	
+23.725969	[CR]	/system/netstats/xt.1507273242475-	
+23.727086	[WA]	/system/netstats/xt.1507273242475-	0	4414	0	
+23.727182	[FS]	/system/netstats/xt.1507273242475-	0	
+23.731639	[UN]	/system/netstats/xt.1507273242475-.backup	
+24.166963	[RN]	/system/netstats/dev.1507273242475-	/system/netstats/dev.1507273242475-.backup	
+24.167129	[CR]	/system/netstats/dev.1507273242475-	
+24.168148	[WA]	/system/netstats/dev.1507273242475-	0	4359	0	
+24.168243	[FS]	/system/netstats/dev.1507273242475-	0	
+24.177311	[UN]	/system/netstats/dev.1507273242475-.backup	
+24.180789	[RN]	/system/netstats/xt.1507273242475-	/system/netstats/xt.1507273242475-.backup	
+24.180951	[CR]	/system/netstats/xt.1507273242475-	
+24.182210	[WA]	/system/netstats/xt.1507273242475-	0	4414	0	
+24.182310	[FS]	/system/netstats/xt.1507273242475-	0	
+24.187496	[UN]	/system/netstats/xt.1507273242475-.backup	
+24.394497	[WO]	/system/notification_log.db-journal	0	512	49760	
+24.394543	[WO]	/system/notification_log.db-journal	512	4	49760	
+24.394558	[WO]	/system/notification_log.db-journal	516	4096	49760	
+24.394583	[WO]	/system/notification_log.db-journal	4612	4	49760	
+24.394608	[WO]	/system/notification_log.db-journal	4616	4	49760	
+24.394622	[WO]	/system/notification_log.db-journal	4620	4096	49760	
+24.394646	[WO]	/system/notification_log.db-journal	8716	4	49760	
+24.394686	[WO]	/system/notification_log.db-journal	8720	4	49760	
+24.394701	[WO]	/system/notification_log.db-journal	8724	4096	49760	
+24.400724	[WO]	/system/notification_log.db-journal	12820	4	49760	
+24.400756	[FS]	/system/notification_log.db-journal	1	
+24.403542	[FS]	/system	1	
+24.407964	[WO]	/system/notification_log.db-journal	0	12	49760	
+24.408007	[FS]	/system/notification_log.db-journal	1	
+24.408914	[WO]	/system/notification_log.db	0	4096	61440	
+24.408946	[WO]	/system/notification_log.db	16384	4096	61440	
+24.408967	[WO]	/system/notification_log.db	57344	4096	61440	
+24.408992	[FS]	/system/notification_log.db	1	
+24.414135	[WO]	/system/notification_log.db-journal	0	28	49760	
+24.414178	[FS]	/system/notification_log.db-journal	1	
+24.468680	[CR]	/app/vmdl499889374.tmp/com.nhn.android.band	
+26.785856	[RN]	/system/install_sessions.xml	/system/install_sessions.xml.bak	
+26.786060	[CR]	/system/install_sessions.xml	
+26.786690	[WA]	/system/install_sessions.xml	0	419	0	
+26.786763	[FS]	/system/install_sessions.xml	0	
+26.792797	[UN]	/system/install_sessions.xml.bak	
+26.793628	[WO]	/system/notification_log.db-journal	0	512	49760	
+26.817499	[WO]	/system/notification_log.db-journal	512	4	49760	
+26.817542	[WO]	/system/notification_log.db-journal	516	4096	49760	
+26.817577	[WO]	/system/notification_log.db-journal	4612	4	49760	
+26.817618	[WO]	/system/notification_log.db-journal	4616	4	49760	
+26.817639	[WO]	/system/notification_log.db-journal	4620	4096	49760	
+26.817673	[WO]	/system/notification_log.db-journal	8716	4	49760	
+26.821375	[WO]	/system/notification_log.db-journal	8720	4	49760	
+26.821403	[WO]	/system/notification_log.db-journal	8724	4096	49760	
+26.821439	[WO]	/system/notification_log.db-journal	12820	4	49760	
+26.821473	[FS]	/system/notification_log.db-journal	1	
+26.828632	[FS]	/system	1	
+26.838333	[WO]	/system/notification_log.db-journal	0	12	49760	
+26.838368	[FS]	/system/notification_log.db-journal	1	
+26.841853	[WO]	/system/notification_log.db	0	4096	61440	
+26.841893	[WO]	/system/notification_log.db	16384	4096	61440	
+26.841913	[WO]	/system/notification_log.db	57344	4096	61440	
+26.841937	[FS]	/system/notification_log.db	1	
+26.845248	[WO]	/system/notification_log.db-journal	0	28	49760	
+26.846447	[FS]	/system/notification_log.db-journal	1	
+32.272294	[MD]	/app/vmdl499889374.tmp/oat	
+32.281919	[MD]	/app/vmdl499889374.tmp/oat/arm	
+32.282647	[CR]	/app/vmdl499889374.tmp/oat/arm/base.odex	
+32.283130	[CR]	/dalvik-cache/profiles/com.nhn.android.band	
+60.958504	[RN]	/app/vmdl499889374.tmp	/app/com.nhn.android.band-1	
+60.962017	[RN]	/system/users/0/package-restrictions.xml	/system/users/0/package-restrictions-backup.xml	
+60.962300	[CR]	/system/users/0/package-restrictions.xml	
+60.963124	[WA]	/system/users/0/package-restrictions.xml	0	8192	0	
+60.963573	[WA]	/system/users/0/package-restrictions.xml	8192	8155	8192	
+60.963980	[WA]	/system/users/0/package-restrictions.xml	16347	8178	16347	
+60.964422	[WA]	/system/users/0/package-restrictions.xml	24525	8191	24525	
+60.964887	[WA]	/system/users/0/package-restrictions.xml	32716	6249	32716	
+60.964996	[FS]	/system/users/0/package-restrictions.xml	0	
+60.978645	[UN]	/system/users/0/package-restrictions-backup.xml	
+60.979829	[MD]	/data/com.nhn.android.band	
+60.989520	[RN]	/system/packages.xml	/system/packages-backup.xml	
+60.989761	[CR]	/system/packages.xml	
+60.990553	[WA]	/system/packages.xml	0	8168	0	
+60.991036	[WA]	/system/packages.xml	8168	8191	8168	
+60.991479	[WA]	/system/packages.xml	16359	8171	16359	
+60.991930	[WA]	/system/packages.xml	24530	8191	24530	
+60.992373	[WA]	/system/packages.xml	32721	8156	32721	
+60.992817	[WA]	/system/packages.xml	40877	8184	40877	
+60.993263	[WA]	/system/packages.xml	49061	8190	49061	
+60.994066	[WA]	/system/packages.xml	57251	6566	57251	
+60.994643	[WA]	/system/packages.xml	63817	8189	63817	
+60.995358	[WA]	/system/packages.xml	72006	8192	72006	
+60.996105	[WA]	/system/packages.xml	80198	8155	80198	
+60.996864	[WA]	/system/packages.xml	88353	8186	88353	
+60.997702	[WA]	/system/packages.xml	96539	8191	96539	
+60.998405	[WA]	/system/packages.xml	104730	8189	104730	
+60.999179	[WA]	/system/packages.xml	112919	8192	112919	
+60.999987	[WA]	/system/packages.xml	121111	8191	121111	
+61.000678	[WA]	/system/packages.xml	129302	8182	129302	
+61.001455	[WA]	/system/packages.xml	137484	8191	137484	
+61.002180	[WA]	/system/packages.xml	145675	8190	145675	
+61.002860	[WA]	/system/packages.xml	153865	8191	153865	
+61.003685	[WA]	/system/packages.xml	162056	6841	162056	
+61.006439	[WA]	/system/packages.xml	168897	8189	168897	
+61.007155	[WA]	/system/packages.xml	177086	8184	177086	
+61.007842	[WA]	/system/packages.xml	185270	8189	185270	
+61.008558	[WA]	/system/packages.xml	193459	8187	193459	
+61.009334	[WA]	/system/packages.xml	201646	7955	201646	
+61.010009	[WA]	/system/packages.xml	209601	8189	209601	
+61.010739	[WA]	/system/packages.xml	217790	8172	217790	
+61.011526	[WA]	/system/packages.xml	225962	8179	225962	
+61.012271	[WA]	/system/packages.xml	234141	8191	234141	
+61.013052	[WA]	/system/packages.xml	242332	8160	242332	
+61.013735	[WA]	/system/packages.xml	250492	8189	250492	
+61.014718	[WA]	/system/packages.xml	258681	8191	258681	
+61.015437	[WA]	/system/packages.xml	266872	8192	266872	
+61.016169	[WA]	/system/packages.xml	275064	8173	275064	
+61.016847	[WA]	/system/packages.xml	283237	8181	283237	
+61.017497	[WA]	/system/packages.xml	291418	8186	291418	
+61.018274	[WA]	/system/packages.xml	299604	8192	299604	
+61.019095	[WA]	/system/packages.xml	307796	8187	307796	
+61.019935	[WA]	/system/packages.xml	315983	8191	315983	
+61.020509	[WA]	/system/packages.xml	324174	8191	324174	
+61.021209	[WA]	/system/packages.xml	332365	7645	332365	
+61.021900	[WA]	/system/packages.xml	340010	8191	340010	
+61.022506	[WA]	/system/packages.xml	348201	8189	348201	
+61.023195	[WA]	/system/packages.xml	356390	8166	356390	
+61.024008	[WA]	/system/packages.xml	364556	8192	364556	
+61.024842	[WA]	/system/packages.xml	372748	8192	372748	
+61.025519	[WA]	/system/packages.xml	380940	8170	380940	
+61.026263	[WA]	/system/packages.xml	389110	8191	389110	
+61.026940	[WA]	/system/packages.xml	397301	8182	397301	
+61.027640	[WA]	/system/packages.xml	405483	8186	405483	
+61.028383	[WA]	/system/packages.xml	413669	8192	413669	
+61.029247	[WA]	/system/packages.xml	421861	8178	421861	
+61.029938	[WA]	/system/packages.xml	430039	8155	430039	
+61.030658	[WA]	/system/packages.xml	438194	8192	438194	
+61.031396	[WA]	/system/packages.xml	446386	8192	446386	
+61.032147	[WA]	/system/packages.xml	454578	8192	454578	
+61.032938	[WA]	/system/packages.xml	462770	8190	462770	
+61.033649	[WA]	/system/packages.xml	470960	8186	470960	
+61.034356	[WA]	/system/packages.xml	479146	8188	479146	
+61.035063	[WA]	/system/packages.xml	487334	8165	487334	
+61.036167	[WA]	/system/packages.xml	495499	8151	495499	
+61.036755	[WA]	/system/packages.xml	503650	8191	503650	
+61.037441	[WA]	/system/packages.xml	511841	8192	511841	
+61.038185	[WA]	/system/packages.xml	520033	8181	520033	
+61.039161	[WA]	/system/packages.xml	528214	8187	528214	
+61.040676	[WA]	/system/packages.xml	536401	8192	536401	
+61.040876	[WA]	/system/packages.xml	544593	1121	544593	
+61.040959	[FS]	/system/packages.xml	0	
+61.066587	[UN]	/system/packages-backup.xml	
+61.067272	[CR]	/system/packages.list.tmp	
+61.081824	[WA]	/system/packages.list.tmp	0	8153	0	
+61.086908	[WA]	/system/packages.list.tmp	8153	2621	8153	
+61.087016	[FS]	/system/packages.list.tmp	0	
+61.092618	[RN]	/system/packages.list.tmp	/system/packages.list	
+61.093618	[RN]	/system/users/0/package-restrictions.xml	/system/users/0/package-restrictions-backup.xml	
+61.093957	[CR]	/system/users/0/package-restrictions.xml	
+61.095162	[WA]	/system/users/0/package-restrictions.xml	0	8192	0	
+61.095682	[WA]	/system/users/0/package-restrictions.xml	8192	8191	8192	
+61.096115	[WA]	/system/users/0/package-restrictions.xml	16383	8183	16383	
+61.096589	[WA]	/system/users/0/package-restrictions.xml	24566	8192	24566	
+61.097101	[WA]	/system/users/0/package-restrictions.xml	32758	6272	32758	
+61.097222	[FS]	/system/users/0/package-restrictions.xml	0	
+61.109678	[UN]	/system/users/0/package-restrictions-backup.xml	
+61.127605	[RN]	/system/packages.xml	/system/packages-backup.xml	
+61.127837	[CR]	/system/packages.xml	
+61.128732	[WA]	/system/packages.xml	0	8168	0	
+61.129290	[WA]	/system/packages.xml	8168	8191	8168	
+61.129809	[WA]	/system/packages.xml	16359	8171	16359	
+61.130340	[WA]	/system/packages.xml	24530	8191	24530	
+61.130862	[WA]	/system/packages.xml	32721	8156	32721	
+61.131384	[WA]	/system/packages.xml	40877	8184	40877	
+61.131890	[WA]	/system/packages.xml	49061	8190	49061	
+61.132541	[WA]	/system/packages.xml	57251	6566	57251	
+61.133219	[WA]	/system/packages.xml	63817	8189	63817	
+61.134373	[WA]	/system/packages.xml	72006	8192	72006	
+61.135317	[WA]	/system/packages.xml	80198	8155	80198	
+61.136190	[WA]	/system/packages.xml	88353	8186	88353	
+61.136999	[WA]	/system/packages.xml	96539	8191	96539	
+61.137664	[WA]	/system/packages.xml	104730	8189	104730	
+61.138324	[WA]	/system/packages.xml	112919	8192	112919	
+61.139108	[WA]	/system/packages.xml	121111	8191	121111	
+61.139808	[WA]	/system/packages.xml	129302	8182	129302	
+61.140526	[WA]	/system/packages.xml	137484	8191	137484	
+61.141872	[WA]	/system/packages.xml	145675	8190	145675	
+61.142529	[WA]	/system/packages.xml	153865	8191	153865	
+61.143299	[WA]	/system/packages.xml	162056	6841	162056	
+61.144002	[WA]	/system/packages.xml	168897	8189	168897	
+61.144667	[WA]	/system/packages.xml	177086	8184	177086	
+61.145340	[WA]	/system/packages.xml	185270	8189	185270	
+61.146029	[WA]	/system/packages.xml	193459	8187	193459	
+61.146758	[WA]	/system/packages.xml	201646	7955	201646	
+61.147404	[WA]	/system/packages.xml	209601	8189	209601	
+61.148083	[WA]	/system/packages.xml	217790	8172	217790	
+61.148744	[WA]	/system/packages.xml	225962	7494	225962	
+61.149359	[WA]	/system/packages.xml	233456	8181	233456	
+61.150078	[WA]	/system/packages.xml	241637	8192	241637	
+61.150753	[WA]	/system/packages.xml	249829	7987	249829	
+61.151305	[WA]	/system/packages.xml	257816	8166	257816	
+61.152010	[WA]	/system/packages.xml	265982	8166	265982	
+61.152570	[WA]	/system/packages.xml	274148	8189	274148	
+61.153238	[WA]	/system/packages.xml	282337	8186	282337	
+61.153780	[WA]	/system/packages.xml	290523	8132	290523	
+61.154955	[WA]	/system/packages.xml	298655	7341	298655	
+61.155595	[WA]	/system/packages.xml	305996	8191	305996	
+61.156407	[WA]	/system/packages.xml	314187	8189	314187	
+61.157079	[WA]	/system/packages.xml	322376	8163	322376	
+61.157623	[WA]	/system/packages.xml	330539	8192	330539	
+61.158380	[WA]	/system/packages.xml	338731	8192	338731	
+61.158931	[WA]	/system/packages.xml	346923	8180	346923	
+61.159573	[WA]	/system/packages.xml	355103	8189	355103	
+61.160222	[WA]	/system/packages.xml	363292	8188	363292	
+61.160942	[WA]	/system/packages.xml	371480	6952	371480	
+61.161538	[WA]	/system/packages.xml	378432	8191	378432	
+61.162224	[WA]	/system/packages.xml	386623	8192	386623	
+61.162870	[WA]	/system/packages.xml	394815	8183	394815	
+61.164373	[WA]	/system/packages.xml	402998	8189	402998	
+61.165097	[WA]	/system/packages.xml	411187	8182	411187	
+61.166281	[WA]	/system/packages.xml	419369	8142	419369	
+61.166991	[WA]	/system/packages.xml	427511	8162	427511	
+61.167729	[WA]	/system/packages.xml	435673	8192	435673	
+61.168461	[WA]	/system/packages.xml	443865	8173	443865	
+61.169196	[WA]	/system/packages.xml	452038	8182	452038	
+61.169984	[WA]	/system/packages.xml	460220	8184	460220	
+61.170730	[WA]	/system/packages.xml	468404	8184	468404	
+61.171431	[WA]	/system/packages.xml	476588	8189	476588	
+61.172130	[WA]	/system/packages.xml	484777	8192	484777	
+61.172873	[WA]	/system/packages.xml	492969	8189	492969	
+61.173431	[WA]	/system/packages.xml	501158	8183	501158	
+61.174148	[WA]	/system/packages.xml	509341	8177	509341	
+61.174815	[WA]	/system/packages.xml	517518	8190	517518	
+61.175448	[WA]	/system/packages.xml	525708	8164	525708	
+61.176920	[WA]	/system/packages.xml	533872	7859	533872	
+61.177774	[WA]	/system/packages.xml	541731	5464	541731	
+61.177865	[FS]	/system/packages.xml	0	
+61.213044	[UN]	/system/packages-backup.xml	
+61.214365	[CR]	/system/packages.list.tmp	
+61.227696	[WA]	/system/packages.list.tmp	0	8163	0	
+61.231937	[WA]	/system/packages.list.tmp	8163	2621	8163	
+61.232027	[FS]	/system/packages.list.tmp	0	
+61.238428	[RN]	/system/packages.list.tmp	/system/packages.list	
+61.239079	[RN]	/system/users/0/package-restrictions.xml	/system/users/0/package-restrictions-backup.xml	
+61.239351	[CR]	/system/users/0/package-restrictions.xml	
+61.240441	[WA]	/system/users/0/package-restrictions.xml	0	8192	0	
+61.240887	[WA]	/system/users/0/package-restrictions.xml	8192	8191	8192	
+61.241242	[WA]	/system/users/0/package-restrictions.xml	16383	8183	16383	
+61.241646	[WA]	/system/users/0/package-restrictions.xml	24566	8192	24566	
+61.242092	[WA]	/system/users/0/package-restrictions.xml	32758	6272	32758	
+61.242200	[FS]	/system/users/0/package-restrictions.xml	0	
+61.249057	[UN]	/system/users/0/package-restrictions-backup.xml	
+61.441224	[RN]	/system/users/0/registered_services/android.accounts.AccountAuthenticator.xml	/system/users/0/registered_services/android.accounts.AccountAuthenticator.xml.bak	
+61.441437	[CR]	/system/users/0/registered_services/android.accounts.AccountAuthenticator.xml	
+61.442313	[WA]	/system/users/0/registered_services/android.accounts.AccountAuthenticator.xml	0	378	0	
+61.442406	[FS]	/system/users/0/registered_services/android.accounts.AccountAuthenticator.xml	0	
+61.450321	[UN]	/system/users/0/registered_services/android.accounts.AccountAuthenticator.xml.bak	
+61.661477	[WO]	/system/notification_log.db-journal	0	512	49760	
+61.661536	[WO]	/system/notification_log.db-journal	512	4	49760	
+61.661557	[WO]	/system/notification_log.db-journal	516	4096	49760	
+61.661592	[WO]	/system/notification_log.db-journal	4612	4	49760	
+61.661625	[WO]	/system/notification_log.db-journal	4616	4	49760	
+61.661645	[WO]	/system/notification_log.db-journal	4620	4096	49760	
+61.661677	[WO]	/system/notification_log.db-journal	8716	4	49760	
+61.661728	[WO]	/system/notification_log.db-journal	8720	4	49760	
+61.661748	[WO]	/system/notification_log.db-journal	8724	4096	49760	
+61.661781	[WO]	/system/notification_log.db-journal	12820	4	49760	
+61.661812	[FS]	/system/notification_log.db-journal	1	
+61.666857	[FS]	/system	1	
+61.673439	[WO]	/system/notification_log.db-journal	0	12	49760	
+61.673497	[FS]	/system/notification_log.db-journal	1	
+61.675939	[WO]	/system/notification_log.db	0	4096	61440	
+61.675993	[WO]	/system/notification_log.db	16384	4096	61440	
+61.676026	[WO]	/system/notification_log.db	57344	4096	61440	
+61.676063	[FS]	/system/notification_log.db	1	
+61.679956	[WO]	/system/notification_log.db-journal	0	28	49760	
+61.680109	[FS]	/system/notification_log.db-journal	1	
+61.684137	[WO]	/system/notification_log.db-journal	0	512	49760	
+61.684191	[WO]	/system/notification_log.db-journal	512	4	49760	
+61.684215	[WO]	/system/notification_log.db-journal	516	4096	49760	
+61.684257	[WO]	/system/notification_log.db-journal	4612	4	49760	
+61.684296	[WO]	/system/notification_log.db-journal	4616	4	49760	
+61.684320	[WO]	/system/notification_log.db-journal	4620	4096	49760	
+61.684359	[WO]	/system/notification_log.db-journal	8716	4	49760	
+61.684428	[WO]	/system/notification_log.db-journal	8720	4	49760	
+61.684451	[WO]	/system/notification_log.db-journal	8724	4096	49760	
+61.684489	[WO]	/system/notification_log.db-journal	12820	4	49760	
+61.684527	[FS]	/system/notification_log.db-journal	1	
+61.714412	[FS]	/system	1	
+61.725478	[WO]	/system/notification_log.db-journal	0	12	49760	
+61.725743	[FS]	/system/notification_log.db-journal	1	
+61.727900	[WO]	/system/notification_log.db	0	4096	61440	
+61.731208	[WO]	/system/notification_log.db	16384	4096	61440	
+61.731243	[WO]	/system/notification_log.db	57344	4096	61440	
+61.731282	[FS]	/system/notification_log.db	1	
+61.734192	[WO]	/system/notification_log.db-journal	0	28	49760	
+61.734243	[FS]	/system/notification_log.db-journal	1	
+62.076517	[RN]	/system/users/0/runtime-permissions.xml	/system/users/0/runtime-permissions.xml.bak	
+62.077725	[CR]	/system/users/0/runtime-permissions.xml	
+62.082284	[WA]	/system/users/0/runtime-permissions.xml	0	8192	0	
+62.084789	[WA]	/system/users/0/runtime-permissions.xml	8192	7406	8192	
+62.084898	[FS]	/system/users/0/runtime-permissions.xml	0	
+62.092579	[UN]	/system/users/0/runtime-permissions.xml.bak	
+68.739116	[CR]	/system/recent_images/7_task_thumbnail.png	
+68.739571	[WA]	/system/recent_images/7_task_thumbnail.png	0	8	0	
+68.739681	[WA]	/system/recent_images/7_task_thumbnail.png	8	8	8	
+68.739744	[WA]	/system/recent_images/7_task_thumbnail.png	16	13	16	
+68.739804	[WA]	/system/recent_images/7_task_thumbnail.png	29	4	29	
+68.739860	[WA]	/system/recent_images/7_task_thumbnail.png	33	8	33	
+68.739918	[WA]	/system/recent_images/7_task_thumbnail.png	41	4	41	
+68.739974	[WA]	/system/recent_images/7_task_thumbnail.png	45	4	45	
+68.777637	[WA]	/system/recent_images/7_task_thumbnail.png	49	8	49	
+68.777733	[WA]	/system/recent_images/7_task_thumbnail.png	57	4096	57	
+68.777829	[WA]	/system/recent_images/7_task_thumbnail.png	4153	4096	4153	
+68.777960	[WA]	/system/recent_images/7_task_thumbnail.png	8249	4	8249	
+68.836195	[WA]	/system/recent_images/7_task_thumbnail.png	8253	8	8253	
+68.836287	[WA]	/system/recent_images/7_task_thumbnail.png	8261	4096	8261	
+68.836531	[WA]	/system/recent_images/7_task_thumbnail.png	12357	4096	12357	
+68.836644	[WA]	/system/recent_images/7_task_thumbnail.png	16453	4	16453	
+68.836841	[WA]	/system/recent_images/7_task_thumbnail.png	16457	8	16457	
+68.836890	[WA]	/system/recent_images/7_task_thumbnail.png	16465	4096	16465	
+68.836965	[WA]	/system/recent_images/7_task_thumbnail.png	20561	4096	20561	
+68.837069	[WA]	/system/recent_images/7_task_thumbnail.png	24657	4	24657	
+68.867671	[WA]	/system/recent_images/7_task_thumbnail.png	24661	8	24661	
+68.867740	[WA]	/system/recent_images/7_task_thumbnail.png	24669	4096	24669	
+68.867822	[WA]	/system/recent_images/7_task_thumbnail.png	28765	4096	28765	
+68.867930	[WA]	/system/recent_images/7_task_thumbnail.png	32861	4	32861	
+68.868118	[WA]	/system/recent_images/7_task_thumbnail.png	32865	8	32865	
+68.868169	[WA]	/system/recent_images/7_task_thumbnail.png	32873	4096	32873	
+68.868279	[WA]	/system/recent_images/7_task_thumbnail.png	36969	4096	36969	
+68.868528	[WA]	/system/recent_images/7_task_thumbnail.png	41065	4	41065	
+68.889397	[WA]	/system/recent_images/7_task_thumbnail.png	41069	8	41069	
+68.889463	[WA]	/system/recent_images/7_task_thumbnail.png	41077	4096	41077	
+68.889542	[WA]	/system/recent_images/7_task_thumbnail.png	45173	4096	45173	
+68.889649	[WA]	/system/recent_images/7_task_thumbnail.png	49269	4	49269	
+68.889849	[WA]	/system/recent_images/7_task_thumbnail.png	49273	8	49273	
+68.889900	[WA]	/system/recent_images/7_task_thumbnail.png	49281	4096	49281	
+68.889982	[WA]	/system/recent_images/7_task_thumbnail.png	53377	4096	53377	
+68.890087	[WA]	/system/recent_images/7_task_thumbnail.png	57473	4	57473	
+68.921610	[WA]	/system/recent_images/7_task_thumbnail.png	57477	8	57477	
+68.921699	[WA]	/system/recent_images/7_task_thumbnail.png	57485	4096	57485	
+68.921790	[WA]	/system/recent_images/7_task_thumbnail.png	61581	4096	61581	
+68.921899	[WA]	/system/recent_images/7_task_thumbnail.png	65677	4	65677	
+68.922692	[WA]	/system/recent_images/7_task_thumbnail.png	65681	8	65681	
+68.922746	[WA]	/system/recent_images/7_task_thumbnail.png	65689	4096	65689	
+68.922824	[WA]	/system/recent_images/7_task_thumbnail.png	69785	4096	69785	
+68.922930	[WA]	/system/recent_images/7_task_thumbnail.png	73881	4	73881	
+68.946720	[WA]	/system/recent_images/7_task_thumbnail.png	73885	8	73885	
+68.946791	[WA]	/system/recent_images/7_task_thumbnail.png	73893	4096	73893	
+68.946873	[WA]	/system/recent_images/7_task_thumbnail.png	77989	4096	77989	
+68.946980	[WA]	/system/recent_images/7_task_thumbnail.png	82085	4	82085	
+68.947157	[WA]	/system/recent_images/7_task_thumbnail.png	82089	8	82089	
+68.947206	[WA]	/system/recent_images/7_task_thumbnail.png	82097	4096	82097	
+68.947282	[WA]	/system/recent_images/7_task_thumbnail.png	86193	4096	86193	
+68.947387	[WA]	/system/recent_images/7_task_thumbnail.png	90289	4	90289	
+68.974698	[WA]	/system/recent_images/7_task_thumbnail.png	90293	8	90293	
+68.974762	[WA]	/system/recent_images/7_task_thumbnail.png	90301	4096	90301	
+68.974841	[WA]	/system/recent_images/7_task_thumbnail.png	94397	4096	94397	
+68.974948	[WA]	/system/recent_images/7_task_thumbnail.png	98493	4	98493	
+68.975133	[WA]	/system/recent_images/7_task_thumbnail.png	98497	8	98497	
+68.975182	[WA]	/system/recent_images/7_task_thumbnail.png	98505	4096	98505	
+68.975257	[WA]	/system/recent_images/7_task_thumbnail.png	102601	4096	102601	
+68.975360	[WA]	/system/recent_images/7_task_thumbnail.png	106697	4	106697	
+68.984920	[WA]	/system/recent_images/7_task_thumbnail.png	106701	8	106701	
+68.984985	[WA]	/system/recent_images/7_task_thumbnail.png	106709	4096	106709	
+68.985070	[WA]	/system/recent_images/7_task_thumbnail.png	110805	4096	110805	
+68.985175	[WA]	/system/recent_images/7_task_thumbnail.png	114901	4	114901	
+68.985226	[WA]	/system/recent_images/7_task_thumbnail.png	114905	8	114905	
+68.985275	[WA]	/system/recent_images/7_task_thumbnail.png	114913	3935	114913	
+68.985364	[WA]	/system/recent_images/7_task_thumbnail.png	118848	4	118848	
+68.985415	[WA]	/system/recent_images/7_task_thumbnail.png	118852	8	118852	
+68.985463	[WA]	/system/recent_images/7_task_thumbnail.png	118860	4	118860	
+69.528782	[RN]	/system/recent_tasks/7_task.xml	/system/recent_tasks/7_task.xml.bak	
+69.529452	[CR]	/system/recent_tasks/7_task.xml	
+69.532027	[WA]	/system/recent_tasks/7_task.xml	0	875	0	
+69.532317	[WA]	/system/recent_tasks/7_task.xml	875	1	875	
+69.532501	[FS]	/system/recent_tasks/7_task.xml	0	
+69.548687	[UN]	/system/recent_tasks/7_task.xml.bak	
+73.653155	[MD]	/media/0/Android/data/com.nhn.android.band	
+73.656959	[MD]	/media/0/Android/data/com.nhn.android.band/cache	
+73.666448	[MD]	/media/0/Android/data/com.nhn.android.band/files	
+76.448835	[CR]	/system/recent_tasks/8_task.xml	
+76.448955	[WA]	/system/recent_tasks/8_task.xml	0	854	0	
+76.449037	[WA]	/system/recent_tasks/8_task.xml	854	1	854	
+76.449088	[FS]	/system/recent_tasks/8_task.xml	0	
+78.440955	[CR]	/misc/keystore/.tmp	
+78.441066	[WA]	/misc/keystore/.tmp	0	1764	0	
+78.441164	[RN]	/misc/keystore/.tmp	/misc/keystore/user_0/10088_USRPKEY_com+^appsflyer+\KSAppsFlyerId=1508139317947+]5935525962174178693+\KSAppsFlyerRICounter=0	
+78.470221	[CR]	/misc/keystore/.tmp	
+78.470247	[WA]	/misc/keystore/.tmp	0	516	0	
+78.470353	[RN]	/misc/keystore/.tmp	/misc/keystore/user_0/10088_USRCERT_com+^appsflyer+\KSAppsFlyerId=1508139317947+]5935525962174178693+\KSAppsFlyerRICounter=0	
+81.772761	[RN]	/system/recent_tasks/8_task.xml	/system/recent_tasks/8_task.xml.bak	
+81.773067	[CR]	/system/recent_tasks/8_task.xml	
+81.773208	[WA]	/system/recent_tasks/8_task.xml	0	835	0	
+81.773305	[WA]	/system/recent_tasks/8_task.xml	835	1	835	
+81.773365	[FS]	/system/recent_tasks/8_task.xml	0	
+81.791614	[UN]	/system/recent_tasks/8_task.xml.bak	
+82.335664	[RN]	/system/recent_tasks/8_task.xml	/system/recent_tasks/8_task.xml.bak	
+82.337010	[CR]	/system/recent_tasks/8_task.xml	
+82.339356	[WA]	/system/recent_tasks/8_task.xml	0	835	0	
+82.339629	[WA]	/system/recent_tasks/8_task.xml	835	1	835	
+82.339776	[FS]	/system/recent_tasks/8_task.xml	0	
+82.360314	[UN]	/system/recent_tasks/8_task.xml.bak	
+83.485065	[RN]	/system/users/0/package-restrictions.xml	/system/users/0/package-restrictions-backup.xml	
+83.485468	[CR]	/system/users/0/package-restrictions.xml	
+83.487165	[WA]	/system/users/0/package-restrictions.xml	0	8192	0	
+83.491175	[WA]	/system/users/0/package-restrictions.xml	8192	8155	8192	
+83.491622	[WA]	/system/users/0/package-restrictions.xml	16347	8178	16347	
+83.492185	[WA]	/system/users/0/package-restrictions.xml	24525	8191	24525	
+83.492732	[WA]	/system/users/0/package-restrictions.xml	32716	6249	32716	
+83.492851	[FS]	/system/users/0/package-restrictions.xml	0	
+83.514609	[UN]	/system/users/0/package-restrictions-backup.xml	

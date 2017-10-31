@@ -16,7 +16,7 @@ using namespace std;
 struct Config *config;
 int mode_flag;
 
-static int trace_replay(char *config_name, int day)
+static int trace_replay(char *config_name, int day);
 int print_help(void);
 int trace_init(void);
 int do_trace_replay(double day);
@@ -385,6 +385,43 @@ struct ReplayJob* create_replayjob(enum REPLAY_TYPE type, struct ReplayJob *repl
 	job->cycle = replay->cycle;
 	job->curTime = replay->cycle;
 	return job;
+}
+
+#define SPRINTF_BACKGROUND_PATH(BUF, PATH, PS_NAME, NUM) \
+    sprintf(BUF, "%s/%s_%d.bg", PATH, NAME, NUM);
+static int copy_background_files(char *file, const struct stat64 *buf, 
+					int flag, struct FTW *ftwbuf)
+{	
+	if (lost_found_dir[0] != '\0' &&
+			!memcmp(file, lost_found_dir, strnlen(lost_found_dir, PATH_MAX))) {
+		return 0;
+	}
+
+	if (!S_ISREG(buf->st_mode)) {
+		return 0;
+	}
+
+	if (buf->st_size == 0) {
+		return 0;
+	}
+
+	if (buf->st_blocks == 0) {
+		return 0;
+	}
+
+	if (strstr(file, ".input") == NULL) {
+		return 0;
+	}
+
+
+
+	
+
+}
+
+int copy_background_files(void)
+{
+	// 모든 앱 PATH를 탐색 (nftw)
 }
 
 

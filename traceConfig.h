@@ -50,15 +50,16 @@ struct NormalApp
 
 struct PSName
 {
-	vector<String> ps_install;
-	vector<String> ps_update;
-	vector<String> ps_loading;
-	vector<String> ps_uninstall;
-}
+	vector<string> ps_install;
+	vector<string> ps_update;
+	vector<string> ps_loading;
+	vector<string> ps_uninstall;
+};
 
 struct Config
 {
 	char INIT_FILEMAP[PATH_MAX + 1];
+	char backup_path[PATH_MAX + 1];
 	struct Multimedia multi;
 	struct BasicApp basic_app;
 	struct NormalApp normal_app;

@@ -28,3 +28,10 @@ struct ReplayJob
 	double cycle;
 };
 
+struct BG_Info
+{
+	char name[MAX_NAME];
+	
+
+}
+

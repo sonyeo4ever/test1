@@ -1,10 +1,12 @@
 {
 	"INIT_FILEMAP": "init-file/init",
+	"BACKGROUND_PATH": "trace/background",
+	"BACKUP_PATH": "trace-bak",
 	"MULTIMEDIA":
 	{
 		"CAMERA":
 		{
-			"PATH": "trace-new/camera", "MULTIMEDIA_PATH": "data/media/0/DCIM",
+			"PATH": "trace/camera", "MULTIMEDIA_PATH": "data/media/0/DCIM",
 			"TAKE_COUNT":2, "DELETE_COUNT":1
 		}
 	},
@@ -14,9 +16,11 @@
 		"DEFAULT_LOADING_CYCLE": 1.5,
 		"APPS":
 			[
-				{"NAME": "youtube", "PATH": "trace-new/youtube", 
+				{"NAME": "youtube", "PATH": "trace/youtube", 
+				"PS_NAME": "com.google.android.youtube",
 				"UPDATE_CYCLE":12, "LOADING_CYCLE": 2},
-				{"NAME": "destiny", "PATH": "trace-new/destiny"}
+				{"NAME": "destiny", "PATH": "trace/destiny",
+				"PS_NAME": "com.netmarble.destiny"}
 			]
 	},
 	"NORMAL_APP":
@@ -27,12 +31,16 @@
 		"DEFAULT_LOADING_CYCLE": 1,
 		"APPS":
 			[
-				{"NAME": "climb", "PATH": "trace-new/climb", 
+				{"NAME": "band", "PATH": "trace/band", 
+				"PS_NAME": "com.nhn.android.band",
 				"UPDATE_CYCLE":5, "LOADING_CYCLE": 1},
-				{"NAME": "clash", "PATH": "trace-new/clashroyale"},
-				{"NAME": "gow", "PATH": "trace-new/gow", 
+				{"NAME": "clash", "PATH": "trace/clashroyale",
+				"PS_NAME": "com.supercell.clashroyale"},
+				{"NAME": "gow", "PATH": "trace/gow", 
+				"PS_NAME": "com.machinezone.gow", 
 				"UPDATE_CYCLE":8, "LOADING_CYCLE": 2},
-				{"NAME": "angrybird", "PATH": "trace-new/angrybird"}
+				{"NAME": "angrybird", "PATH": "trace/angrybird",
+				"PS_NAME": "com.rovio.angrybirds"}
 			]
 	},
 	"PROCESS":

@@ -7,6 +7,8 @@
 #include <iostream>
 #include <list>
 #include <string>
+#include <limits>
+#include <cfloat>
 #include "traceReplay.h"
 #include "cJSON.h"
 
@@ -16,6 +18,8 @@ static int parse_basic_app(cJSON *basic_obj, struct Config *config);
 static int parse_normal_app(cJSON *normal_obj, struct Config *config);
 static int parse_apps(cJSON *apps_obj, struct App *apps, 
 			double default_update, double default_loading);
+static int parse_ps_name(cJSON *ps_name_obj, struct Config *config);
+static double parse_time(string line);
 
 int parse_config(char *config_name, struct Config *config)
 {
@@ -25,6 +29,7 @@ int parse_config(char *config_name, struct Config *config)
 	int ret = 0;
 	cJSON *root_obj;
 	cJSON *init_filemap_obj;
+	cJSON *backup_path_obj;
 	cJSON *multimedia_obj;
 	cJSON *basic_app_obj;
 	cJSON *normal_app_obj;
@@ -66,6 +71,15 @@ int parse_config(char *config_name, struct Config *config)
 	}
 	printf("%s\n", config->INIT_FILEMAP);
 
+	// BACKUP_PATH
+	memset(config->backup_path, 0, PATH_MAX);
+	backup_path_obj = cJSON_GetObjectItem(root_obj, "BACKUP_PATH");
+	if (backup_path_obj == NULL) {
+		sprintf(config->backup_path, "trace-bak");
+	} else {
+		sprintf(config->backup_path, "%s", backup_path_obj->valuestring);
+	}
+
 	// MULTIMEDIA
 	multimedia_obj = cJSON_GetObjectItem(root_obj, "MULTIMEDIA");
 	if (multimedia_obj == NULL) {
@@ -101,7 +115,7 @@ int parse_config(char *config_name, struct Config *config)
 	}
 
 	ps_name_obj = cJSON_GetObjectItem(root_obj, "PROCESS");
-	if (normal_app_obj == NULL) {
+	if (ps_name_obj == NULL) {
 		printf("warning: Failed Parse JSON file, No PROCESS\n");
 		ret = 0;
 		goto out;
@@ -270,7 +284,8 @@ static int parse_apps(cJSON *apps_obj, struct App *apps,
 		cJSON* app_path_obj = cJSON_GetObjectItem(app_obj, "PATH");
 		cJSON* app_update_obj = cJSON_GetObjectItem(app_obj, "UPDATE_CYCLE");
 		cJSON* app_loading_obj = cJSON_GetObjectItem(app_obj, "LOADING_CYCLE");
-		if (app_name_obj == NULL || app_path_obj == NULL) 
+		cJSON* app_psname_obj = cJSON_GetObjectItem(app_obj, "PS_NAME");
+		if (app_name_obj == NULL || app_path_obj == NULL || app_psname_obj == NULL) 
 			continue;
 		memset(apps[i].name, 0, MAX_NAME);
 		sprintf(apps[i].name, "%s", app_name_obj->valuestring);
@@ -284,11 +299,12 @@ static int parse_apps(cJSON *apps_obj, struct App *apps,
 			apps[i].loading_cycle = default_loading;
 		else
 			apps[i].loading_cycle = app_loading_obj->valuedouble;
+		memset(apps[i].ps_name, 0, MAX_NAME);
+		sprintf(apps[i].ps_name, "%s", app_psname_obj->valuestring);
 	}
 
 	return 0;
 }
-
 
 static int parse_ps_name(cJSON *ps_name_obj, struct Config *config)
 {
@@ -303,9 +319,10 @@ static int parse_ps_name(cJSON *ps_name_obj, struct Config *config)
 		for (int i = 0; i < array_size; i++)
 		{
 			cJSON* app_obj = cJSON_GetArrayItem(install_obj, i);
-			String ps_name(app_obj->valuestring);
-			config->ps_install.push_back(ps_name);
+			string ps_name(app_obj->valuestring);
+			config->ps_name.ps_install.push_back(ps_name);
 		}
+		config->ps_name.ps_install.push_back(string(""));
 	}
 
 	update_obj = cJSON_GetObjectItem(ps_name_obj, "UPDATE");
@@ -314,9 +331,10 @@ static int parse_ps_name(cJSON *ps_name_obj, struct Config *config)
 		for (int i = 0; i < array_size; i++)
 		{
 			cJSON* app_obj = cJSON_GetArrayItem(update_obj, i);
-			String ps_name(app_obj->valuestring);
-			config->ps_update.push_back(ps_name);
+			string ps_name(app_obj->valuestring);
+			config->ps_name.ps_update.push_back(ps_name);
 		}
+		config->ps_name.ps_update.push_back(string(""));
 	}
 
 	loading_obj = cJSON_GetObjectItem(ps_name_obj, "INSTALL");
@@ -325,9 +343,10 @@ static int parse_ps_name(cJSON *ps_name_obj, struct Config *config)
 		for (int i = 0; i < array_size; i++)
 		{
 			cJSON* app_obj = cJSON_GetArrayItem(loading_obj, i);
-			String ps_name(app_obj->valuestring);
-			config->ps_loading.push_back(ps_name);
+			string ps_name(app_obj->valuestring);
+			config->ps_name.ps_loading.push_back(ps_name);
 		}
+		config->ps_name.ps_loading.push_back(string(""));
 	}
 
 	uninstall_obj = cJSON_GetObjectItem(ps_name_obj, "INSTALL");
@@ -336,49 +355,275 @@ static int parse_ps_name(cJSON *ps_name_obj, struct Config *config)
 		for (int i = 0; i < array_size; i++)
 		{
 			cJSON* app_obj = cJSON_GetArrayItem(uninstall_obj, i);
-			String ps_name(app_obj->valuestring);
-			config->ps_uninstall.push_back(ps_name);
+			string ps_name(app_obj->valuestring);
+			config->ps_name.ps_uninstall.push_back(ps_name);
 		}
+		config->ps_name.ps_loading.push_back(string(""));
 	}
-
 	return 0;
 }
 
-/*
-int trace_merge(char *config_name)
+struct Traceinfo
 {
-	FILE *config_fp;
-	char *config_data;
+	FILE *fp;
+	double time;
+	string line;
+};
 
-    config_fp = fopen(config_name, "r");
-    if (config_fp == NULL) {
-		printf("error: cannot read %s\n", config_name);
-		ret = -1;
+#define SPRINTF_TRACE_PATH_INPUT(BUF, TYPE, PATH, NAME, PS_NAME) \
+    sprintf(BUF, "%s/TRACE_%s_%s_%s.input", PATH, NAME, TYPE, PS_NAME);
+#define SPRINTF_TRACE_PATH_OUTPUT(BUF, TYPE, PATH, NAME) \
+    sprintf(BUF, "%s/TRACE_%s_%s.input", PATH, NAME, TYPE);
+
+static int do_trace_merge(struct App *app, struct PSName *ps_name, string type)
+{
+	vector<struct Traceinfo*> vector_trace;
+	vector<string> *PSName; 
+	char line[2048];
+	FILE *input_fp, *output_fp;
+	struct Traceinfo* trace;
+	char buf[PATH_MAX];
+	int ret = 0;
+	int init = 1;
+
+	if (type.compare("install") == 0)
+		PSName = &(ps_name->ps_install);
+	if (type.compare("loading") == 0)
+		PSName = &(ps_name->ps_loading);
+	if (type.compare("update") == 0)
+		PSName = &(ps_name->ps_update);
+	if (type.compare("uninstall") == 0)
+		PSName = &(ps_name->ps_uninstall);
+	else
 		return -1;
+
+	for (vector<string>::iterator it = PSName->begin(); it != PSName->end(); ++it)
+	{
+		trace = new Traceinfo;
+		if (trace == NULL)
+			return -1;
+		memset(buf, 0, PATH_MAX);
+		SPRINTF_TRACE_PATH_INPUT(buf, type.c_str(), app->path, app->name, (*it).c_str());
+		input_fp = fopen(buf, "r");
+		if (input_fp == NULL) {
+			delete trace;
+			continue;
+		}
+		memset(line, 0, 2048);
+		if (fgets(line, 2048, input_fp) == NULL)
+		{
+			delete trace;
+			continue;
+		}
+		else {
+			trace->fp = input_fp;
+			trace->line = string(line);
+			trace->time = parse_time(string(line));
+			vector_trace.push_back(trace);
+		}
 	}
 
-	fseek(config_fp, 0, SEEK_END);
-	len = ftell(config_fp);
-	fseek(config_fp, 0, SEEK_SET);
-
-	config_data = (char *)malloc(len);
-	if (config_data == NULL) {
-		printf("error: failed malloc\n");
-		fclose(config_fp);
+	trace = new Traceinfo;
+	if (trace == NULL)
 		return -1;
+	memset(buf, 0, PATH_MAX);
+	SPRINTF_TRACE_PATH_INPUT(buf, type.c_str(), app->path, app->name, app->ps_name);
+	input_fp = fopen(buf, "r");
+	if (input_fp == NULL) 
+		delete trace;
+	else {
+		memset(line, 0, 2048);
+		if (fgets(line, 2048, input_fp) == NULL)
+			delete trace;
+		else 
+		{
+			trace->fp = input_fp;
+			trace->line = string(line);
+			trace->time = parse_time(string(line));
+			vector_trace.push_back(trace);
+		}
 	}
-	fread(config_data, sizeof(char), len, config_fp);
 
-	root_obj = cJSON_Parse(config_data);
-	if (root_obj == NULL) {
-		printf("error: %s\n", cJSON_GetErrorPtr());
+	memset(buf, 0, PATH_MAX);
+	SPRINTF_TRACE_PATH_OUTPUT(buf, type.c_str(), app->path, app->name);
+	output_fp = fopen(buf, "w");
+	if (output_fp == NULL) {
 		ret = -1;
 		goto out;
 	}
 
+	while (!vector_trace.empty())
+	{
+		double min_time = DBL_MAX;
+		char new_line[2048];
+		vector<struct Traceinfo*>::iterator min_it;
+		vector<struct Traceinfo*>::iterator it;
+		for (it = vector_trace.begin(); it != vector_trace.end(); ++it)
+		{
+			if (min_time > (*it)->time) {
+				min_time = (*it)->time;
+				min_it = it;
+			}
+		}
+		
+		fprintf(output_fp, "%s", (*min_it)->line.c_str());
+		if (fgets(new_line, 2048, (*min_it)->fp) == NULL) {
+			fclose((*min_it)->fp);
+			delete *min_it;
+			vector_trace.erase(min_it);
+		}
+		else {
+			trace->line = string(new_line);
+			trace->time = parse_time(string(new_line));
+		}
+	}
+
 out:
-	free(config_data);
-	fclose(config_fp);
+	while (!vector_trace.empty())
+	{
+		trace = vector_trace.back();
+		vector_trace.pop_back();
+		fclose(trace->fp);
+		delete trace;
+	}
+	if (output_fp != NULL)
+		fclose(output_fp);
+
+	return ret; 
 }
+
+static double parse_time(string line)
+{
+	string substring;
+	size_t found;
+	double time;
+
+	found = line.find("\t");
+	if (found == string::npos)
+		return -1;
+	substring = line.substr(0, found);
+
+	time = atoll(substring.c_str());
+
+	return time;
+}
+
+
+int trace_merge(struct Config *config)
+{
+	int i = 0;
+	int ret = 0;
+	char buf[PATH_MAX+8];
+/*	
+	if (strstr(config->backup_path, "NULL") != NULL) {
+		memset(buf, 0, PATH_MAX + 8);
+		sprintf("rm -r %s", config->backup_path);
+		system(buf);
+		memset(buf, 0, PATH_MAX + 8);
+		sprintf("mkdir %s", config->backup_path);
+		system(buf);
+	}
 */
+	for (i = 0; i < config->basic_app.app_count; i++)
+	{
+		ret = do_trace_merge(&(config->basic_app.apps[i]), &(config->ps_name), string("loading"));
+		ret = do_trace_merge(&(config->basic_app.apps[i]), &(config->ps_name), string("update"));
+	}
+
+	for (i = 0; i < config->normal_app.app_count; i++)
+	{
+		ret = do_trace_merge(&(config->normal_app.apps[i]), &(config->ps_name), string("loading"));
+		ret = do_trace_merge(&(config->normal_app.apps[i]), &(config->ps_name), string("update"));
+		ret = do_trace_merge(&(config->normal_app.apps[i]), &(config->ps_name), string("install"));
+		ret = do_trace_merge(&(config->normal_app.apps[i]), &(config->ps_name), string("uninstall"));
+	}
+
+	return ret;
+}
+
+
+char lost_found_dir[PATH_MAX + 1];
+struct App* cur_app;
+
+#define SPRINTF_TRACE_PATH_PREFIX(BUF, TYPE, PATH, NAME) \
+    sprintf(BUF, "%s/TRACE_%s_%s_", PATH, NAME, TYPE);
+static int setting_background_files(char *file, const struct stat64 *buf, 
+					int flag, struct FTW *ftwbuf)
+{
+	stirng type;
+	vector<string> *PSName; 
+
+	if (lost_found_dir[0] != '\0' &&
+			!memcmp(file, lost_found_dir, strnlen(lost_found_dir, PATH_MAX))) {
+		return 0;
+	}
+	if (!S_ISREG(buf->st_mode))
+		return 0;
+	if (buf->st_size == 0)
+		return 0;
+	if (buf->st_blocks == 0) 
+		return 0;
+
+	if (strstr(file, ".input") == NULL)
+		return 0;
+	if (strstr(file, cur_app->name) == NULL)
+		return 0;
+	if (strstr(file, "_loading_") != NULL) {
+		type = string("loading");
+		PSName = &(ps_name->ps_loading);
+	}
+	else if (strstr(file, "_install_") == NULL) {
+		type = string("install");
+		PSName = &(ps_name->ps_install);
+	}
+	else if (strstr(file, "_update_") == NULL) {
+		type = string("update");
+		PSName = &(ps_name->ps_update);
+	}
+	else if (strstr(file, "_uninstall_") == NULL) {
+		type = string("uninstall");
+		PSName = &(ps_name->ps_uninstall);
+	}
+	else	
+		return 0;
+
+	for (vector<string>::iterator it = PSName->begin(); it != PSName->end(); ++it)
+	{
+		char buf[PATH_MAX];
+		memset(buf, 0, PATH_MAX);
+		SPRINTF_TRACE_PATH_INPUT(buf, type.c_str(), cur_app->path, cur_app->name, (*it).c_str());
+		if (strstr(file, buf) == NULL)
+			return 0;
+	}
+	
+	int pos_1, pos_2;
+	string str_file = string(file);
+	string str_prefix, str_psname;
+	char prefix[PATH_MAX];
+
+	int size = str_file.size();
+	pos_2 = size - 6;
+
+	SPRINTF_TRACE_PATH_PREFIX(prefix, type.c_str(), cur_app->path, cur_app->name);
+	str_psname = string(prefix);
+	pos_1 = str_psname.str();
+
+	str_psname = str_file.substr(pos1, pos_2 - pos_1 + 1);
+	cout << str_file << ", substr:" << str_psname << endl;
+
+
+
+	return 0;
+}
+
+int copy_background_files(config)
+{
+	
+
+
+	nftw64(
+}
+
+
+
 
