@@ -5,6 +5,7 @@
 #include <fcntl.h>
 #include <errno.h>
 #include <limits.h>
+#include <dirent.h>
 
 #define MAX_NAME	200
 
@@ -41,9 +42,10 @@ int main (int argc, char *argv[])
 {
 	FILE* init_fp;
 	char init_name[MAX_NAME];
+	char camera_path[PATH_MAX];
 	int opt, i;
 
-	while ((opt = getopt(argc, argv, "hi:c:r:")) != EOF) {
+	while ((opt = getopt(argc, argv, "hi:C:R:")) != EOF) {
 		switch (opt) {
 		case 'h':
 			print_help();
@@ -57,6 +59,14 @@ int main (int argc, char *argv[])
 			}
 			create_init_files(init_fp);
 			break;
+		case 'C':
+			strncpy(camera_path, optarg, PATH_MAX);
+			create_camera_file(camera_path);
+			return 0;
+		case 'R':
+			strncpy(camera_path, optarg, PATH_MAX);
+			delete_camera_file(camera_path);
+			return 0;
 		default:
 			print_help();
 			goto out;
@@ -72,6 +82,69 @@ int main (int argc, char *argv[])
 out:
 
 	return 0;
+}
+
+int create_camera_file(char* camera_path)
+{
+	char path[PATH_MAX];
+	time_t cur_time;
+	time(&cur_time);
+
+	memset(path, 0, PATH_MAX);
+	sprintf(path, "%s/camera_%ld", camera_path, cur_time);
+
+	file_create(path);
+	file_write(path, 0, 2097152, 0);
+}
+
+int delete_camera_file(char* camera_path)
+{
+	char path[PATH_MAX];
+	DIR *dir_info;
+	struct dirent *dir_entry;
+	int count = 0;
+	int value;
+
+	dir_info = opendir(camera_path);
+	if (dir_info != NULL)
+	{
+		while (dir_entry = readdir(dir_info))
+		{
+			if (dir_entry->d_type != DT_REG)
+				continue;
+			if (strstr(dir_entry->d_name, "camera_") == NULL)
+				continue;
+			count++;
+		}
+	}
+	closedir(dir_info);
+
+	if (count == 0)
+		return 0;
+
+	value = rand() % count;
+	value++;
+
+	count = 0;
+
+	dir_info = opendir(camera_path);
+	if (dir_info != NULL)
+	{
+		while (dir_entry = readdir(dir_info))
+		{
+			if (dir_entry->d_type != DT_REG)
+				continue;
+			if (strstr(dir_entry->d_name, "camera_") == NULL)
+				continue;
+			count++;
+			if (count == value) {
+				sprintf(path, "%s/%s", camera_path, dir_entry->d_name);
+				file_unlink(path);
+				break;
+			}
+		}
+	}
+	closedir(dir_info);
 }
 
 int create_init_files(FILE* init_fp)
@@ -128,7 +201,7 @@ int create_init_files(FILE* init_fp)
 
 		ret = fallocate64(new_fd, 0, 0, size);
 		if (ret < 0) {
-			printf("Failed: Allocate %s %llu %d\n", path, size, errno);
+			// printf("Failed: Allocate %s %llu %d\n", path, size, errno);
 			continue;
 		}
 
@@ -311,11 +384,11 @@ int file_create(char *path)
 	int new_fd = open (path, O_WRONLY | O_CREAT | O_EXCL, S_IRUSR | S_IWUSR);
 	if (new_fd < 0)
 	{
-		printf("CR: Retry mkdir_all_path: %s\n", path);
+		// printf("CR: Retry mkdir_all_path: %s\n", path);
 		mkdir_all_path(path);
 		new_fd = open (path, O_WRONLY | O_CREAT | O_EXCL, S_IRUSR | S_IWUSR);
 		if (new_fd < 0) {
-			printf("CR: Failed Create file: %s\n", path);
+		// 	printf("CR: Failed Create file: %s\n", path);
 			return -1;
 		}
 	}
@@ -329,8 +402,8 @@ int file_unlink(char *path)
 {
 	int ret;
 	ret = unlink(path);
-	if (ret < 0)
-		printf("UN: Failed unlink file: %s\n", path);
+//	if (ret < 0)
+//		printf("UN: Failed unlink file: %s\n", path);
 
 	return 0;
 }
@@ -340,10 +413,11 @@ int file_mkdir(char *path)
 	int ret;
 	mkdir_all_path(path);
 	ret = mkdir(path, 0776);
-	if (ret < 0) {
+/*	if (ret < 0) {
 		perror("MD failed");
 		printf("MD: Failed mkdir file: %s\n", path);
 	}
+	*/
 	return 0;
 }
 
@@ -351,8 +425,8 @@ int file_rmdir(char *path)
 {
 	int ret = 0;
 	ret = rmdir(path);
-	if (ret < 0)
-		printf("RD: Failed rmdir file: %s\n", path);
+//	if (ret < 0)
+//		printf("RD: Failed rmdir file: %s\n", path);
 	return 0;
 }
 
@@ -363,8 +437,8 @@ int file_fsync(char *path, int option)
 	{
 		if (errno == EISDIR)
 			return -1;
-		perror("FS OPEN");
-		printf("FS: Fail Open: %s\n", path);
+//		perror("FS OPEN");
+//		printf("FS: Fail Open: %s\n", path);
 		return -1;
 	}
 	if (option == 1)
@@ -380,12 +454,12 @@ int file_rename(char *path1, char *path2)
 	int ret = rename(path1, path2);
 	if (ret < 0)
 	{
-		printf("RN: Failed Rename, Retry File Create path 1:%s\n", path1);
+		// printf("RN: Failed Rename, Retry File Create path 1:%s\n", path1);
 		file_create(path1);
 		ret = rename(path1, path2);
 		if (ret < 0) {
 			file_create(path2);
-			printf("RN: Failed Rename, Retry File Create path 2:%s\n", path2);
+			// printf("RN: Failed Rename, Retry File Create path 2:%s\n", path2);
 		}
 	}
 	return 0;
@@ -400,11 +474,11 @@ int file_write(char *path, long long int write_off,
 	int letter_count = 'z'- 'a';
 	int random_number;
 	if (fd < 0) {
-		printf("W: Failed Open, Try file create:%s\n", path);
+		// printf("W: Failed Open, Try file create:%s\n", path);
 		file_create(path);
 		fd = open(path, O_RDWR);
 		if (fd < 0) {
-			printf("W: Failed Open:%s\n", path);
+		// 	printf("W: Failed Open:%s\n", path);
 			return -1;
 		}
 	}
@@ -426,11 +500,11 @@ int file_append(char *path, long long int write_off,
 	int letter_count = 'z'- 'a';
 	int random_number;
 	if (fd < 0) {
-		printf("W: Failed Open, Try file create:%s\n", path);
+		// printf("W: Failed Open, Try file create:%s\n", path);
 		file_create(path);
 		fd = open(path, O_RDWR);
 		if (fd < 0) {
-			printf("W: Failed Open:%s\n", path);
+			// printf("W: Failed Open:%s\n", path);
 			return -1;
 		}
 	}

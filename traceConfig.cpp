@@ -9,6 +9,7 @@
 #include <string>
 #include <limits>
 #include <cfloat>
+#include <dirent.h>
 #include "traceReplay.h"
 #include "cJSON.h"
 
@@ -358,7 +359,7 @@ static int parse_ps_name(cJSON *ps_name_obj, struct Config *config)
 			string ps_name(app_obj->valuestring);
 			config->ps_name.ps_uninstall.push_back(ps_name);
 		}
-		config->ps_name.ps_loading.push_back(string(""));
+		config->ps_name.ps_uninstall.push_back(string(""));
 	}
 	return 0;
 }
@@ -388,11 +389,11 @@ static int do_trace_merge(struct App *app, struct PSName *ps_name, string type)
 
 	if (type.compare("install") == 0)
 		PSName = &(ps_name->ps_install);
-	if (type.compare("loading") == 0)
+	else if (type.compare("loading") == 0)
 		PSName = &(ps_name->ps_loading);
-	if (type.compare("update") == 0)
+	else if (type.compare("update") == 0)
 		PSName = &(ps_name->ps_update);
-	if (type.compare("uninstall") == 0)
+	else if (type.compare("uninstall") == 0)
 		PSName = &(ps_name->ps_uninstall);
 	else
 		return -1;
@@ -467,14 +468,17 @@ static int do_trace_merge(struct App *app, struct PSName *ps_name, string type)
 		}
 		
 		fprintf(output_fp, "%s", (*min_it)->line.c_str());
+
 		if (fgets(new_line, 2048, (*min_it)->fp) == NULL) {
-			fclose((*min_it)->fp);
-			delete *min_it;
+			struct Traceinfo *delete_trace;
+			delete_trace = (*min_it);
+			fclose(delete_trace->fp);
 			vector_trace.erase(min_it);
+			delete delete_trace;
 		}
 		else {
-			trace->line = string(new_line);
-			trace->time = parse_time(string(new_line));
+			(*min_it)->line = string(new_line);
+			(*min_it)->time = parse_time(string(new_line));
 		}
 	}
 
@@ -503,7 +507,7 @@ static double parse_time(string line)
 		return -1;
 	substring = line.substr(0, found);
 
-	time = atoll(substring.c_str());
+	time = atof(substring.c_str());
 
 	return time;
 }
@@ -542,45 +546,33 @@ int trace_merge(struct Config *config)
 }
 
 
-char lost_found_dir[PATH_MAX + 1];
-struct App* cur_app;
-
 #define SPRINTF_TRACE_PATH_PREFIX(BUF, TYPE, PATH, NAME) \
     sprintf(BUF, "%s/TRACE_%s_%s_", PATH, NAME, TYPE);
-static int setting_background_files(char *file, const struct stat64 *buf, 
-					int flag, struct FTW *ftwbuf)
+static int do_set_background_map(struct Config *config, char *file, struct App *cur_app)
 {
-	stirng type;
+	string type;
 	vector<string> *PSName; 
-
-	if (lost_found_dir[0] != '\0' &&
-			!memcmp(file, lost_found_dir, strnlen(lost_found_dir, PATH_MAX))) {
-		return 0;
-	}
-	if (!S_ISREG(buf->st_mode))
-		return 0;
-	if (buf->st_size == 0)
-		return 0;
-	if (buf->st_blocks == 0) 
-		return 0;
+	struct PSName *ps_name = &(config->ps_name);
 
 	if (strstr(file, ".input") == NULL)
 		return 0;
 	if (strstr(file, cur_app->name) == NULL)
 		return 0;
+	if (strstr(file, cur_app->ps_name) != NULL)
+		return 0;
 	if (strstr(file, "_loading_") != NULL) {
 		type = string("loading");
 		PSName = &(ps_name->ps_loading);
 	}
-	else if (strstr(file, "_install_") == NULL) {
+	else if (strstr(file, "_install_") != NULL) {
 		type = string("install");
 		PSName = &(ps_name->ps_install);
 	}
-	else if (strstr(file, "_update_") == NULL) {
+	else if (strstr(file, "_update_") != NULL) {
 		type = string("update");
 		PSName = &(ps_name->ps_update);
 	}
-	else if (strstr(file, "_uninstall_") == NULL) {
+	else if (strstr(file, "_uninstall_") != NULL) {
 		type = string("uninstall");
 		PSName = &(ps_name->ps_uninstall);
 	}
@@ -592,7 +584,7 @@ static int setting_background_files(char *file, const struct stat64 *buf,
 		char buf[PATH_MAX];
 		memset(buf, 0, PATH_MAX);
 		SPRINTF_TRACE_PATH_INPUT(buf, type.c_str(), cur_app->path, cur_app->name, (*it).c_str());
-		if (strstr(file, buf) == NULL)
+		if (strstr(file, buf) != NULL)
 			return 0;
 	}
 	
@@ -606,22 +598,86 @@ static int setting_background_files(char *file, const struct stat64 *buf,
 
 	SPRINTF_TRACE_PATH_PREFIX(prefix, type.c_str(), cur_app->path, cur_app->name);
 	str_psname = string(prefix);
-	pos_1 = str_psname.str();
+	pos_1 = str_psname.size();
 
-	str_psname = str_file.substr(pos1, pos_2 - pos_1 + 1);
-	cout << str_file << ", substr:" << str_psname << endl;
+	str_psname = str_file.substr(pos_1, pos_2 - pos_1);
+	
+	vector<struct BGProcess>::iterator it;
+	for (it = config->BGMap.begin(); it != config->BGMap.end(); ++it)
+	{
+		if (str_psname.compare((*it).ps_name) == 0)
+			break;
+	}
 
-
+	if (it != config->BGMap.end()) {
+		(*it).path.push_back(str_file);
+	} else
+	{
+		struct BGProcess entry;
+		entry.ps_name = str_psname;
+		entry.path.push_back(str_file);
+		config->BGMap.push_back(entry);
+	}
 
 	return 0;
 }
 
-int copy_background_files(config)
+int free_background_map(struct Config *config)
 {
-	
+/*
+	map<string, struct BGProcess>::iterator it;
+
+	for (it = config->BGMap.begin(); it != config->BGMap.end(); ++it)
+	{
+		struct BGProcess *entry = it->second;
+		delete entry;
+	}
+
+	config->BGMap.erase(config->BGMap.begin(), config->BGMap.end());
+*/
+	return 0;
+}
 
 
-	nftw64(
+int set_background_map(struct Config *config)
+{
+	int i = 0;
+	DIR *dir_app_info;
+	struct dirent *dir_app_entry;
+
+	for (i = 0; i < config->basic_app.app_count; i++)
+	{
+		dir_app_info = opendir(config->basic_app.apps[i].path);
+		if (dir_app_info == NULL)
+			continue;
+		while (dir_app_entry = readdir(dir_app_info))
+		{
+			char filename[PATH_MAX];
+			if (dir_app_entry->d_type != DT_REG)
+				continue;
+			memset(filename, 0, PATH_MAX);
+			snprintf(filename, PATH_MAX, "%s/%s", config->basic_app.apps[i].path, dir_app_entry->d_name);
+			do_set_background_map(config, filename, &(config->basic_app.apps[i]));
+		}
+		closedir(dir_app_info);
+	}
+
+	for (i = 0; i < config->normal_app.app_count; i++)
+	{
+		dir_app_info = opendir(config->normal_app.apps[i].path);
+		if (dir_app_info == NULL)
+			continue;
+		while (dir_app_entry = readdir(dir_app_info))
+		{
+			char filename[PATH_MAX];
+			if (dir_app_entry->d_type != DT_REG)
+				continue;
+			memset(filename, 0, PATH_MAX);
+			snprintf(filename, PATH_MAX, "%s/%s", config->normal_app.apps[i].path, dir_app_entry->d_name);
+			do_set_background_map(config, filename, &(config->normal_app.apps[i]));
+		}
+		closedir(dir_app_info);
+	}
 }
 
 

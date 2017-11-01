@@ -102,3 +102,159 @@
 49.626752	[FS]	/data/com.android.providers.downloads/databases/downloads.db	1	
 49.628316	[WO]	/data/com.android.providers.downloads/databases/downloads.db-journal	0	28	16928	
 49.628342	[FS]	/data/com.android.providers.downloads/databases/downloads.db-journal	1	
+10.643901	[WO]	/data/com.android.providers.downloads/databases/downloads.db-journal	0	512	16928	
+10.643969	[WO]	/data/com.android.providers.downloads/databases/downloads.db-journal	512	4	16928	
+10.643990	[WO]	/data/com.android.providers.downloads/databases/downloads.db-journal	516	4096	16928	
+10.644030	[WO]	/data/com.android.providers.downloads/databases/downloads.db-journal	4612	4	16928	
+10.644064	[WO]	/data/com.android.providers.downloads/databases/downloads.db-journal	4616	4	16928	
+10.644084	[WO]	/data/com.android.providers.downloads/databases/downloads.db-journal	4620	4096	16928	
+10.644121	[WO]	/data/com.android.providers.downloads/databases/downloads.db-journal	8716	4	16928	
+10.644176	[WO]	/data/com.android.providers.downloads/databases/downloads.db-journal	8720	4	16928	
+10.644196	[WO]	/data/com.android.providers.downloads/databases/downloads.db-journal	8724	4096	16928	
+10.644236	[WO]	/data/com.android.providers.downloads/databases/downloads.db-journal	12820	4	16928	
+10.644268	[FS]	/data/com.android.providers.downloads/databases/downloads.db-journal	1	
+10.649471	[FS]	/data/com.android.providers.downloads/databases	1	
+10.656325	[WO]	/data/com.android.providers.downloads/databases/downloads.db-journal	0	12	16928	
+10.656369	[FS]	/data/com.android.providers.downloads/databases/downloads.db-journal	1	
+10.658157	[WO]	/data/com.android.providers.downloads/databases/downloads.db	0	4096	24576	
+10.658227	[WO]	/data/com.android.providers.downloads/databases/downloads.db	12288	4096	24576	
+10.658261	[WO]	/data/com.android.providers.downloads/databases/downloads.db	16384	4096	24576	
+10.658298	[FS]	/data/com.android.providers.downloads/databases/downloads.db	1	
+10.660097	[WO]	/data/com.android.providers.downloads/databases/downloads.db-journal	0	28	16928	
+10.660151	[FS]	/data/com.android.providers.downloads/databases/downloads.db-journal	1	
+40.230902	[WO]	/data/com.android.providers.downloads/databases/downloads.db-journal	0	512	16928	
+40.230965	[WO]	/data/com.android.providers.downloads/databases/downloads.db-journal	512	4	16928	
+40.230986	[WO]	/data/com.android.providers.downloads/databases/downloads.db-journal	516	4096	16928	
+40.231021	[WO]	/data/com.android.providers.downloads/databases/downloads.db-journal	4612	4	16928	
+40.231077	[WO]	/data/com.android.providers.downloads/databases/downloads.db-journal	4616	4	16928	
+40.231097	[WO]	/data/com.android.providers.downloads/databases/downloads.db-journal	4620	4096	16928	
+40.231130	[WO]	/data/com.android.providers.downloads/databases/downloads.db-journal	8716	4	16928	
+40.231163	[FS]	/data/com.android.providers.downloads/databases/downloads.db-journal	1	
+40.232877	[FS]	/data/com.android.providers.downloads/databases	1	
+40.239206	[WO]	/data/com.android.providers.downloads/databases/downloads.db-journal	0	12	16928	
+40.239234	[FS]	/data/com.android.providers.downloads/databases/downloads.db-journal	1	
+40.240392	[WO]	/data/com.android.providers.downloads/databases/downloads.db	0	4096	24576	
+40.240432	[WO]	/data/com.android.providers.downloads/databases/downloads.db	12288	4096	24576	
+40.240463	[FS]	/data/com.android.providers.downloads/databases/downloads.db	1	
+40.242077	[WO]	/data/com.android.providers.downloads/databases/downloads.db-journal	0	28	16928	
+40.242113	[FS]	/data/com.android.providers.downloads/databases/downloads.db-journal	1	
+49.548118	[WO]	/data/com.android.providers.downloads/databases/downloads.db-journal	0	512	16928	
+49.548168	[WO]	/data/com.android.providers.downloads/databases/downloads.db-journal	512	4	16928	
+49.548189	[WO]	/data/com.android.providers.downloads/databases/downloads.db-journal	516	4096	16928	
+49.548224	[WO]	/data/com.android.providers.downloads/databases/downloads.db-journal	4612	4	16928	
+49.548277	[WO]	/data/com.android.providers.downloads/databases/downloads.db-journal	4616	4	16928	
+49.548297	[WO]	/data/com.android.providers.downloads/databases/downloads.db-journal	4620	4096	16928	
+49.548331	[WO]	/data/com.android.providers.downloads/databases/downloads.db-journal	8716	4	16928	
+49.548365	[FS]	/data/com.android.providers.downloads/databases/downloads.db-journal	1	
+49.553160	[FS]	/data/com.android.providers.downloads/databases	1	
+49.624997	[WO]	/data/com.android.providers.downloads/databases/downloads.db-journal	0	12	16928	
+49.625039	[FS]	/data/com.android.providers.downloads/databases/downloads.db-journal	1	
+49.626676	[WO]	/data/com.android.providers.downloads/databases/downloads.db	0	4096	24576	
+49.626721	[WO]	/data/com.android.providers.downloads/databases/downloads.db	12288	4096	24576	
+49.626752	[FS]	/data/com.android.providers.downloads/databases/downloads.db	1	
+49.628316	[WO]	/data/com.android.providers.downloads/databases/downloads.db-journal	0	28	16928	
+49.628342	[FS]	/data/com.android.providers.downloads/databases/downloads.db-journal	1	
+10.643901	[WO]	/data/com.android.providers.downloads/databases/downloads.db-journal	0	512	16928	
+10.643969	[WO]	/data/com.android.providers.downloads/databases/downloads.db-journal	512	4	16928	
+10.643990	[WO]	/data/com.android.providers.downloads/databases/downloads.db-journal	516	4096	16928	
+10.644030	[WO]	/data/com.android.providers.downloads/databases/downloads.db-journal	4612	4	16928	
+10.644064	[WO]	/data/com.android.providers.downloads/databases/downloads.db-journal	4616	4	16928	
+10.644084	[WO]	/data/com.android.providers.downloads/databases/downloads.db-journal	4620	4096	16928	
+10.644121	[WO]	/data/com.android.providers.downloads/databases/downloads.db-journal	8716	4	16928	
+10.644176	[WO]	/data/com.android.providers.downloads/databases/downloads.db-journal	8720	4	16928	
+10.644196	[WO]	/data/com.android.providers.downloads/databases/downloads.db-journal	8724	4096	16928	
+10.644236	[WO]	/data/com.android.providers.downloads/databases/downloads.db-journal	12820	4	16928	
+10.644268	[FS]	/data/com.android.providers.downloads/databases/downloads.db-journal	1	
+10.649471	[FS]	/data/com.android.providers.downloads/databases	1	
+10.656325	[WO]	/data/com.android.providers.downloads/databases/downloads.db-journal	0	12	16928	
+10.656369	[FS]	/data/com.android.providers.downloads/databases/downloads.db-journal	1	
+10.658157	[WO]	/data/com.android.providers.downloads/databases/downloads.db	0	4096	24576	
+10.658227	[WO]	/data/com.android.providers.downloads/databases/downloads.db	12288	4096	24576	
+10.658261	[WO]	/data/com.android.providers.downloads/databases/downloads.db	16384	4096	24576	
+10.658298	[FS]	/data/com.android.providers.downloads/databases/downloads.db	1	
+10.660097	[WO]	/data/com.android.providers.downloads/databases/downloads.db-journal	0	28	16928	
+10.660151	[FS]	/data/com.android.providers.downloads/databases/downloads.db-journal	1	
+40.230902	[WO]	/data/com.android.providers.downloads/databases/downloads.db-journal	0	512	16928	
+40.230965	[WO]	/data/com.android.providers.downloads/databases/downloads.db-journal	512	4	16928	
+40.230986	[WO]	/data/com.android.providers.downloads/databases/downloads.db-journal	516	4096	16928	
+40.231021	[WO]	/data/com.android.providers.downloads/databases/downloads.db-journal	4612	4	16928	
+40.231077	[WO]	/data/com.android.providers.downloads/databases/downloads.db-journal	4616	4	16928	
+40.231097	[WO]	/data/com.android.providers.downloads/databases/downloads.db-journal	4620	4096	16928	
+40.231130	[WO]	/data/com.android.providers.downloads/databases/downloads.db-journal	8716	4	16928	
+40.231163	[FS]	/data/com.android.providers.downloads/databases/downloads.db-journal	1	
+40.232877	[FS]	/data/com.android.providers.downloads/databases	1	
+40.239206	[WO]	/data/com.android.providers.downloads/databases/downloads.db-journal	0	12	16928	
+40.239234	[FS]	/data/com.android.providers.downloads/databases/downloads.db-journal	1	
+40.240392	[WO]	/data/com.android.providers.downloads/databases/downloads.db	0	4096	24576	
+40.240432	[WO]	/data/com.android.providers.downloads/databases/downloads.db	12288	4096	24576	
+40.240463	[FS]	/data/com.android.providers.downloads/databases/downloads.db	1	
+40.242077	[WO]	/data/com.android.providers.downloads/databases/downloads.db-journal	0	28	16928	
+40.242113	[FS]	/data/com.android.providers.downloads/databases/downloads.db-journal	1	
+49.548118	[WO]	/data/com.android.providers.downloads/databases/downloads.db-journal	0	512	16928	
+49.548168	[WO]	/data/com.android.providers.downloads/databases/downloads.db-journal	512	4	16928	
+49.548189	[WO]	/data/com.android.providers.downloads/databases/downloads.db-journal	516	4096	16928	
+49.548224	[WO]	/data/com.android.providers.downloads/databases/downloads.db-journal	4612	4	16928	
+49.548277	[WO]	/data/com.android.providers.downloads/databases/downloads.db-journal	4616	4	16928	
+49.548297	[WO]	/data/com.android.providers.downloads/databases/downloads.db-journal	4620	4096	16928	
+49.548331	[WO]	/data/com.android.providers.downloads/databases/downloads.db-journal	8716	4	16928	
+49.548365	[FS]	/data/com.android.providers.downloads/databases/downloads.db-journal	1	
+49.553160	[FS]	/data/com.android.providers.downloads/databases	1	
+49.624997	[WO]	/data/com.android.providers.downloads/databases/downloads.db-journal	0	12	16928	
+49.625039	[FS]	/data/com.android.providers.downloads/databases/downloads.db-journal	1	
+49.626676	[WO]	/data/com.android.providers.downloads/databases/downloads.db	0	4096	24576	
+49.626721	[WO]	/data/com.android.providers.downloads/databases/downloads.db	12288	4096	24576	
+49.626752	[FS]	/data/com.android.providers.downloads/databases/downloads.db	1	
+49.628316	[WO]	/data/com.android.providers.downloads/databases/downloads.db-journal	0	28	16928	
+49.628342	[FS]	/data/com.android.providers.downloads/databases/downloads.db-journal	1	
+10.643901	[WO]	/data/com.android.providers.downloads/databases/downloads.db-journal	0	512	16928	
+10.643969	[WO]	/data/com.android.providers.downloads/databases/downloads.db-journal	512	4	16928	
+10.643990	[WO]	/data/com.android.providers.downloads/databases/downloads.db-journal	516	4096	16928	
+10.644030	[WO]	/data/com.android.providers.downloads/databases/downloads.db-journal	4612	4	16928	
+10.644064	[WO]	/data/com.android.providers.downloads/databases/downloads.db-journal	4616	4	16928	
+10.644084	[WO]	/data/com.android.providers.downloads/databases/downloads.db-journal	4620	4096	16928	
+10.644121	[WO]	/data/com.android.providers.downloads/databases/downloads.db-journal	8716	4	16928	
+10.644176	[WO]	/data/com.android.providers.downloads/databases/downloads.db-journal	8720	4	16928	
+10.644196	[WO]	/data/com.android.providers.downloads/databases/downloads.db-journal	8724	4096	16928	
+10.644236	[WO]	/data/com.android.providers.downloads/databases/downloads.db-journal	12820	4	16928	
+10.644268	[FS]	/data/com.android.providers.downloads/databases/downloads.db-journal	1	
+10.649471	[FS]	/data/com.android.providers.downloads/databases	1	
+10.656325	[WO]	/data/com.android.providers.downloads/databases/downloads.db-journal	0	12	16928	
+10.656369	[FS]	/data/com.android.providers.downloads/databases/downloads.db-journal	1	
+10.658157	[WO]	/data/com.android.providers.downloads/databases/downloads.db	0	4096	24576	
+10.658227	[WO]	/data/com.android.providers.downloads/databases/downloads.db	12288	4096	24576	
+10.658261	[WO]	/data/com.android.providers.downloads/databases/downloads.db	16384	4096	24576	
+10.658298	[FS]	/data/com.android.providers.downloads/databases/downloads.db	1	
+10.660097	[WO]	/data/com.android.providers.downloads/databases/downloads.db-journal	0	28	16928	
+10.660151	[FS]	/data/com.android.providers.downloads/databases/downloads.db-journal	1	
+40.230902	[WO]	/data/com.android.providers.downloads/databases/downloads.db-journal	0	512	16928	
+40.230965	[WO]	/data/com.android.providers.downloads/databases/downloads.db-journal	512	4	16928	
+40.230986	[WO]	/data/com.android.providers.downloads/databases/downloads.db-journal	516	4096	16928	
+40.231021	[WO]	/data/com.android.providers.downloads/databases/downloads.db-journal	4612	4	16928	
+40.231077	[WO]	/data/com.android.providers.downloads/databases/downloads.db-journal	4616	4	16928	
+40.231097	[WO]	/data/com.android.providers.downloads/databases/downloads.db-journal	4620	4096	16928	
+40.231130	[WO]	/data/com.android.providers.downloads/databases/downloads.db-journal	8716	4	16928	
+40.231163	[FS]	/data/com.android.providers.downloads/databases/downloads.db-journal	1	
+40.232877	[FS]	/data/com.android.providers.downloads/databases	1	
+40.239206	[WO]	/data/com.android.providers.downloads/databases/downloads.db-journal	0	12	16928	
+40.239234	[FS]	/data/com.android.providers.downloads/databases/downloads.db-journal	1	
+40.240392	[WO]	/data/com.android.providers.downloads/databases/downloads.db	0	4096	24576	
+40.240432	[WO]	/data/com.android.providers.downloads/databases/downloads.db	12288	4096	24576	
+40.240463	[FS]	/data/com.android.providers.downloads/databases/downloads.db	1	
+40.242077	[WO]	/data/com.android.providers.downloads/databases/downloads.db-journal	0	28	16928	
+40.242113	[FS]	/data/com.android.providers.downloads/databases/downloads.db-journal	1	
+49.548118	[WO]	/data/com.android.providers.downloads/databases/downloads.db-journal	0	512	16928	
+49.548168	[WO]	/data/com.android.providers.downloads/databases/downloads.db-journal	512	4	16928	
+49.548189	[WO]	/data/com.android.providers.downloads/databases/downloads.db-journal	516	4096	16928	
+49.548224	[WO]	/data/com.android.providers.downloads/databases/downloads.db-journal	4612	4	16928	
+49.548277	[WO]	/data/com.android.providers.downloads/databases/downloads.db-journal	4616	4	16928	
+49.548297	[WO]	/data/com.android.providers.downloads/databases/downloads.db-journal	4620	4096	16928	
+49.548331	[WO]	/data/com.android.providers.downloads/databases/downloads.db-journal	8716	4	16928	
+49.548365	[FS]	/data/com.android.providers.downloads/databases/downloads.db-journal	1	
+49.553160	[FS]	/data/com.android.providers.downloads/databases	1	
+49.624997	[WO]	/data/com.android.providers.downloads/databases/downloads.db-journal	0	12	16928	
+49.625039	[FS]	/data/com.android.providers.downloads/databases/downloads.db-journal	1	
+49.626676	[WO]	/data/com.android.providers.downloads/databases/downloads.db	0	4096	24576	
+49.626721	[WO]	/data/com.android.providers.downloads/databases/downloads.db	12288	4096	24576	
+49.626752	[FS]	/data/com.android.providers.downloads/databases/downloads.db	1	
+49.628316	[WO]	/data/com.android.providers.downloads/databases/downloads.db-journal	0	28	16928	
+49.628342	[FS]	/data/com.android.providers.downloads/databases/downloads.db-journal	1	

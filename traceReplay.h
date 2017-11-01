@@ -16,7 +16,8 @@ enum REPLAY_TYPE
 	REPLAY_INSTALL,
 	REPLAY_UNINSTALL,
 	REPLAY_CAMERA,
-	REPLAY_CAMERA_DELETE
+	REPLAY_CAMERA_DELETE,
+	REPLAY_BG
 };
 
 struct ReplayJob
@@ -26,12 +27,5 @@ struct ReplayJob
 	char path[PATH_MAX + 1];
 	double curTime;
 	double cycle;
+	vector<string> bgjob;
 };
-
-struct BG_Info
-{
-	char name[MAX_NAME];
-	
-
-}
-

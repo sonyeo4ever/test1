@@ -2,6 +2,7 @@
 #include <vector>
 #include <iostream>
 #include <string>
+#include <map>
 
 using namespace std;
 
@@ -64,7 +65,17 @@ struct Config
 	struct BasicApp basic_app;
 	struct NormalApp normal_app;
 	struct PSName ps_name;
+	vector<struct BGProcess> BGMap;
+};
+
+struct BGProcess
+{
+	string ps_name;
+	vector<string> path;
 };
 
 int parse_config(char *config_name, struct Config *config);
+int trace_merge(struct Config *config);
+int set_background_map(struct Config *config);
+int free_background_map(struct Config *config);
 

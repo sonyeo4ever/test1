@@ -12,17 +12,19 @@
 using namespace std;
 
 #define TRACE_MERGE		0x01
+#define INITFILE	0x02
+
 
 struct Config *config;
 int mode_flag;
-
-static int trace_replay(char *config_name, int day);
+static int trace_replay(char *config_name, int start_day, int end_day, int mode_flag);
 int print_help(void);
 int trace_init(void);
-int do_trace_replay(double day);
+int do_trace_replay(double start_day, double end_day);
 struct ReplayJob* create_replayjob(enum REPLAY_TYPE type, const char *name, const char *path, double cycle);
 int init_replayjob(list<struct ReplayJob*> *ReplayJob_queue, list<struct App*> *Normal_list);
 int insert_replayqueue(list<struct ReplayJob*> *ReplayJob_queue, struct ReplayJob* job);
+struct ReplayJob* create_bgjob(struct App* app);
 struct ReplayJob* create_replayjob(enum REPLAY_TYPE type, const char *name, const char *path, double cycle);
 int uninstall_replayqueue(list<struct ReplayJob*> *ReplayJob_queue, const char *name);
 
@@ -32,6 +34,7 @@ int replay_install(list<struct ReplayJob*> *jobqueue, list<struct App*> *ins_lis
 int replay_uninstall(list<struct ReplayJob*> *jobqueue, list<struct App*> *ins_list, list<struct App*> *unins_list, double curTime);
 int replay_camera(struct ReplayJob* replay);
 int replay_camera_delete(struct ReplayJob* replay);
+int replay_bg(struct ReplayJob* replay);
 
 int print_help(void)
 {
@@ -43,19 +46,23 @@ int main (int argc, char *argv[])
 {
 	FILE* init_fp;
 	int opt, i;
-	int day = DEFAULT_DAY;
+	int end_day = DEFAULT_DAY;
+	int start_day = 0;
 	mode_flag = 0;
 
-	while ((opt = getopt(argc, argv, "hd:M")) != EOF) {
+	while ((opt = getopt(argc, argv, "hd:s:Mi")) != EOF) {
 		switch (opt) {
 		case 'h':
 			print_help();
 			goto out;
 		case 'd': 
-			day = atoi(optarg);
+			end_day = atoi(optarg);
 			break;
-		case 'M': 
-			mode_flag |= TRACE_MERGE;
+		case 's': 
+			start_day = atoi(optarg);
+			break;
+		case 'i':
+			mode_flag = INITFILE;
 			break;
 		default:
 			print_help();
@@ -68,16 +75,13 @@ int main (int argc, char *argv[])
 		goto out;
 	}
 
-//	if (mode_flag & TRACE_MERGE)
-//		trace_merge(argv[optind]);	
-
-	trace_replay(argv[optind], day);
+	trace_replay(argv[optind], start_day, end_day, mode_flag);
 
 out:
 	return 0;
 }
 
-static int trace_replay(char *config_name, int day)
+static int trace_replay(char *config_name, int start_day, int end_day, int mode_flag)
 {
 	int app_count;
 	config = (struct Config*) malloc(sizeof(struct Config));
@@ -85,9 +89,13 @@ static int trace_replay(char *config_name, int day)
 	if (parse_config(config_name, config) < 0)
 		goto out;
 
-	trace_init();
+	trace_merge(config);	
+	set_background_map(config);
 
-	do_trace_replay((double)day);
+	if (mode_flag & INITFILE)
+		trace_init();
+
+	do_trace_replay((double)start_day, (double)end_day);
 	
 	app_count = config->basic_app.app_count;
 	if (app_count > 0) {
@@ -97,6 +105,7 @@ static int trace_replay(char *config_name, int day)
 	if (app_count > 0) {
 		free(config->normal_app.apps);
 	}
+
 out:
 	free(config);
 }
@@ -104,17 +113,20 @@ out:
 
 int trace_init(void)
 {
+	char cmd[PATH_MAX];
 	if (strcmp(config->INIT_FILEMAP, "NULL") == 0)
 		return -1;
 
 //	execlp("./simpleReplay", "./simpleReplay", "-i", config->INIT_FILEMAP, NULL);
-	printf("[%3.2lf] execlp(\"./simpleReplay\", \"./simpleReplay\", \"-i\", config->INIT_FILEMAP, NULL);\n", (double)0.0);
+	memset(cmd, 0, PATH_MAX);
+	sprintf(cmd, "./simpleReplay -i %s", config->INIT_FILEMAP);
+	system(cmd);
 
-
+	printf("[%3.2lf] %s\n", (double)0.0, cmd);
 	return 0;
 }
 
-int do_trace_replay(double day)
+int do_trace_replay(double start_day, double end_day)
 {
 	list<struct ReplayJob*> ReplayJob_queue;
 	list<struct App*> Install_list;
@@ -135,7 +147,13 @@ int do_trace_replay(double day)
 
 		ReplayJob_queue.pop_front();
 
-		if (curTime > day) {
+		if (replay->curTime < start_day) {
+			insert_replayqueue(&ReplayJob_queue, replay);
+			curTime = replay->curTime;
+			replay->curTime = replay->curTime + replay->cycle;
+			continue;
+		}
+		if (curTime > end_day) {
 			insert_replayqueue(&ReplayJob_queue, replay);
 			break;
 		}
@@ -154,6 +172,9 @@ int do_trace_replay(double day)
 			case REPLAY_UNINSTALL:
 				replay_uninstall(&ReplayJob_queue, &Install_list, &Uninstall_list, curTime);
 			break;
+			case REPLAY_BG:
+				replay_bg(replay);
+			break;
 			case REPLAY_CAMERA:
 				replay_camera(replay);
 			break;
@@ -161,7 +182,6 @@ int do_trace_replay(double day)
 				replay_camera_delete(replay);
 			break;
 		}
-
 		curTime = replay->curTime;
 		replay->curTime = replay->curTime + replay->cycle;
 		insert_replayqueue(&ReplayJob_queue, replay);
@@ -180,29 +200,66 @@ int do_trace_replay(double day)
 int replay_loading(struct ReplayJob* replay)
 {
 	char buf[PATH_MAX];
+	char cmd[PATH_MAX];
+	memset(buf, 0, PATH_MAX);
 	SPRINTF_LOADING_PATH(buf, replay->path, replay->name);
 	// execlp("./simpleReplay", "./simpleReplay", buf, NULL);
-	printf("[%3.2lf] execlp(\"./simpleReplay\", \"./simpleReplay\", %s, NULL);\n", replay->curTime, buf);
-
+//	printf("[%3.2lf] execlp(\"./simpleReplay\", \"./simpleReplay\", %s, NULL);\n", replay->curTime, buf);
+	memset(cmd, 0, PATH_MAX);
+	sprintf(cmd, "./simpleReplay %s", buf);
+	printf("[%3.2lf] %s\n", replay->curTime, cmd);
+	system(cmd);
 }
 
 int replay_update(struct ReplayJob* replay)
 {
 	char buf[PATH_MAX];
+	char cmd[PATH_MAX];
+	memset(buf, 0, PATH_MAX);
 	SPRINTF_UPDATE_PATH(buf, replay->path, replay->name);
 //	execlp("./simpleReplay", "./simpleReplay", buf, NULL)
+//	printf("[%3.2lf] execlp(\"./simpleReplay\", \"./simpleReplay\", %s, NULL);\n", replay->curTime, buf);
+	memset(cmd, 0, PATH_MAX);
+	sprintf(cmd, "./simpleReplay %s", buf);
+	printf("[%3.2lf] %s\n", replay->curTime, cmd);
+	system(cmd);
+}
 
-	printf("[%3.2lf] execlp(\"./simpleReplay\", \"./simpleReplay\", %s, NULL);\n", replay->curTime, buf);
+int replay_bg(struct ReplayJob* replay)
+{
+	char buf[PATH_MAX];
+	char cmd[PATH_MAX];
+	int size = replay->bgjob.size();
+	vector<string>::iterator it;
+	string str_path;
+
+	if (size == 0)
+		return 0;
+
+	int value;
+	value = rand() % size;
+	it = replay->bgjob.begin();
+	advance(it, value);
+	str_path = (*it);
+
+//	printf("[%3.2lf] execlp(\"./simpleReplay\", \"./simpleReplay\", %s, NULL);\n", replay->curTime, str_path.c_str());
+	memset(cmd, 0, PATH_MAX);
+	sprintf(cmd, "./simpleReplay %s", buf);
+	printf("[%3.2lf] %s\n", replay->curTime, cmd);
+	system(cmd);
 }
 
 int replay_install(list<struct ReplayJob*> *jobqueue, list<struct App*> *ins_list, list<struct App*> *unins_list, double curTime)
 {
 	char buf[PATH_MAX];
+	char cmd[PATH_MAX];
+
 	int size = unins_list->size();
 	list<struct App*>::iterator it;
 	int value;
 	struct ReplayJob* replay_loading;
 	struct ReplayJob* replay_update;
+	struct ReplayJob* replay_bg;
 	struct App* app;
 
 	if (size == 0)
@@ -219,23 +276,33 @@ int replay_install(list<struct ReplayJob*> *jobqueue, list<struct App*> *ins_lis
 	if (replay_loading == NULL)
 		return -1;
 	replay_loading->curTime = curTime + app->loading_cycle;
-	replay_update = create_replayjob(REPLAY_UPDATE, app->name, app->path, app->loading_cycle);
+	replay_update = create_replayjob(REPLAY_UPDATE, app->name, app->path, app->update_cycle);
 	if (replay_update == NULL)
 		return -1;
 	replay_update->curTime = curTime + app->update_cycle;
+	replay_bg = create_bgjob(app);
+	if (replay_bg != NULL)
+		replay_bg->curTime = curTime + 0.5;
 
 	insert_replayqueue(jobqueue, replay_loading);
 	insert_replayqueue(jobqueue, replay_update);
+	if (replay_bg != NULL)
+		insert_replayqueue(jobqueue, replay_update);
 
+	memset(buf, 0, PATH_MAX);
 	SPRINTF_INSTALL_PATH(buf, app->path, app->name);
 //	execlp("./simpleReplay", "./simpleReplay", buf, NULL);
-	printf("[%3.2lf] execlp(\"./simpleReplay\", \"./simpleReplay\", %s, NULL);\n", curTime, buf);
-
+//	printf("[%3.2lf] execlp(\"./simpleReplay\", \"./simpleReplay\", %s, NULL);\n", curTime, buf);
+	memset(cmd, 0, PATH_MAX);
+	sprintf(cmd, "./simpleReplay %s", buf);
+	printf("[%3.2lf] %s\n", curTime, cmd);
+	system(cmd);
 }
 
 int replay_uninstall(list<struct ReplayJob*> *jobqueue, list<struct App*> *ins_list, list<struct App*> *unins_list, double curTime)
 {
 	char buf[PATH_MAX];
+	char cmd[PATH_MAX];
 	int size = ins_list->size();
 	list<struct App*>::iterator it;
 	int value;
@@ -253,22 +320,37 @@ int replay_uninstall(list<struct ReplayJob*> *jobqueue, list<struct App*> *ins_l
 	unins_list->push_back(app);
 	
 	uninstall_replayqueue(jobqueue, app->name);
-
+	
+	memset(buf, 0, PATH_MAX);
 	SPRINTF_UNINSTALL_PATH(buf, app->path, app->name);
 //	execlp("./simpleReplay", "./simpleReplay", buf, NULL);
-	printf("[%3.2lf] execlp(\"./simpleReplay\", \"./simpleReplay\", %s, NULL);\n", curTime, buf);
+//	printf("[%3.2lf] execlp(\"./simpleReplay\", \"./simpleReplay\", %s, NULL);\n", curTime, buf);
+	memset(cmd, 0, PATH_MAX);
+	sprintf(cmd, "./simpleReplay %s", buf);
+	printf("[%3.2lf] %s\n", curTime, cmd);
+	system(cmd);
 }
 
 int replay_camera(struct ReplayJob* replay)
 {
+	char cmd[PATH_MAX];
 //	execlp("./simpleReplay", "./simpleReplay", "-c", replay->path, NULL);
-	printf("[%3.2lf] execlp(\"./simpleReplay\", \"./simpleReplay\", \"-c\", %s, NULL);\n", replay->curTime, replay->name);
+//	printf("[%3.2lf] execlp(\"./simpleReplay\", \"./simpleReplay\", \"-c\", %s, NULL);\n", replay->curTime, replay->name);
+	memset(cmd, 0, PATH_MAX);
+	sprintf(cmd, "./simpleReplay -C %s", replay->name);
+	printf("[%3.2lf] %s\n", replay->curTime, cmd);
+	system(cmd);
 }
 
 int replay_camera_delete(struct ReplayJob* replay)
 {
+	char cmd[PATH_MAX];
 //	execlp("./simpleReplay", "./simpleReplay", "-c", replay->path, NULL);
-	printf("[%3.2lf] execlp(\"./simpleReplay\", \"./simpleReplay\", \"-r\", %s, NULL);\n", replay->curTime, replay->name);
+//	printf("[%3.2lf] execlp(\"./simpleReplay\", \"./simpleReplay\", \"-r\", %s, NULL);\n", replay->curTime, replay->name);
+	memset(cmd, 0, PATH_MAX);
+	sprintf(cmd, "./simpleReplay -R %s", replay->name);
+	printf("[%3.2lf] %s\n", replay->curTime, cmd);
+	system(cmd);
 }
 
 int init_replayjob(list<struct ReplayJob*> *ReplayJob_queue, list<struct App*> *Normal_list)
@@ -311,12 +393,35 @@ int init_replayjob(list<struct ReplayJob*> *ReplayJob_queue, list<struct App*> *
 		if (job == NULL)
 			return -1;
 		insert_replayqueue(ReplayJob_queue, job);
+
+		job = create_bgjob(&(config->basic_app.apps[i]));
+		if (job != NULL)
+			insert_replayqueue(ReplayJob_queue, job);
 	}
 
 	for (i = 0; i < config->normal_app.app_count; i++)
 	{
 		Normal_list->push_back(&(config->normal_app.apps[i]));
 	}
+}
+
+struct ReplayJob* create_bgjob(struct App* app)
+{
+	vector<struct BGProcess>::iterator it;
+	string str_psname = string(app->ps_name);
+	struct ReplayJob* job;
+    for (it = config->BGMap.begin(); it != config->BGMap.end(); ++it)
+    {
+		if (str_psname.compare((*it).ps_name) == 0)
+			break;
+	}
+	
+	if (it != config->BGMap.end()) 
+		return NULL;
+
+	job = create_replayjob(REPLAY_BG, app->name, app->path, 0.5);
+	job->bgjob.assign((*it).path.begin(), (*it).path.end());
+
 }
 
 int insert_replayqueue(list<struct ReplayJob*> *ReplayJob_queue, struct ReplayJob* job)

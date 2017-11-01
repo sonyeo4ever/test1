@@ -1,26 +1,29 @@
 {
 	"INIT_FILEMAP": "init-file/init",
-	"BACKGROUND_PATH": "trace/background",
-	"BACKUP_PATH": "trace-bak",
 	"MULTIMEDIA":
 	{
 		"CAMERA":
 		{
-			"PATH": "trace/camera", "MULTIMEDIA_PATH": "data/media/0/DCIM",
-			"TAKE_COUNT":2, "DELETE_COUNT":1
+			"PATH": "trace/camera", "MULTIMEDIA_PATH": "data/media/0/DCIM/Camera",
+			"TAKE_COUNT":5, "DELETE_COUNT":1
 		}
 	},
 	"BASIC_APP":
 	{
 		"DEFAULT_UPDATE_CYCLE": 7,
-		"DEFAULT_LOADING_CYCLE": 1.5,
+		"DEFAULT_LOADING_CYCLE": 1,
+		"DEFAULT_BG_CYCLE": 0.5,
 		"APPS":
 			[
 				{"NAME": "youtube", "PATH": "trace/youtube", 
 				"PS_NAME": "com.google.android.youtube",
 				"UPDATE_CYCLE":12, "LOADING_CYCLE": 2},
-				{"NAME": "destiny", "PATH": "trace/destiny",
-				"PS_NAME": "com.netmarble.destiny"}
+				{"NAME": "gmail", "PATH": "trace/gmail", 
+				"PS_NAME": "com.google.android.gm",
+				"UPDATE_CYCLE":8, "LOADING_CYCLE": 1},
+				{"NAME": "messenger", "PATH": "trace/messenger", 
+				"PS_NAME": "com.facebook.orca",
+				"UPDATE_CYCLE":10, "LOADING_CYCLE": 0.5}
 			]
 	},
 	"NORMAL_APP":
@@ -29,6 +32,7 @@
 		"APP_UNINSTALL_CYCLE": 7,
 		"DEFAULT_UPDATE_CYCLE": 7,
 		"DEFAULT_LOADING_CYCLE": 1,
+		"DEFAULT_BG_CYCLE": 0.5,
 		"APPS":
 			[
 				{"NAME": "band", "PATH": "trace/band", 
@@ -40,7 +44,21 @@
 				"PS_NAME": "com.machinezone.gow", 
 				"UPDATE_CYCLE":8, "LOADING_CYCLE": 2},
 				{"NAME": "angrybird", "PATH": "trace/angrybird",
-				"PS_NAME": "com.rovio.angrybirds"}
+				"PS_NAME": "com.rovio.angrybirds"},
+				{"NAME": "destiny", "PATH": "trace/destiny",
+				"PS_NAME": "com.netmarble.destiny"},
+				{"NAME": "discord", "PATH": "trace/discord",
+				"PS_NAME": "com.discord"},
+				{"NAME": "coupang", "PATH": "trace/coupang",
+				"PS_NAME": "com.coupang.mobile"},
+				{"NAME": "instagram", "PATH": "trace/Instagram",
+				"PS_NAME": "com.instagram.android"},
+				{"NAME": "oksusu", "PATH": "trace/oksusu",
+				"PS_NAME": "unknown"},
+				{"NAME": "snow", "PATH": "trace/snow",
+				"PS_NAME": "com.campmobile.snow"},
+				{"NAME": "twitter", "PATH": "trace/twitter",
+				"PS_NAME": "com.twitter.android"}
 			]
 	},
 	"PROCESS":
@@ -50,7 +68,7 @@
 		 "android.process.media",
 		 "com.android.vending",
 		 "com.google.android.googlequicksearchbox:interactor",
-		 "com.google.android.inputmethod.korean.input",
+		 "com.google.android.inputmethod.korean",
 		 "com.google.android.videos",
 		 "com.google.process.gapps",
 		 "system"

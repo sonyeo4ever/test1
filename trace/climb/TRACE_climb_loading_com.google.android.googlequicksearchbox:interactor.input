@@ -194,3 +194,199 @@
 448.725388	[FS]	/data/com.google.android.googlequicksearchbox/shared_prefs/reflection_multi_process.xml	0	
 448.737121	[UN]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin.bak	
 448.737221	[UN]	/data/com.google.android.googlequicksearchbox/shared_prefs/reflection_multi_process.xml.bak	
+0.018120	[CR]	/data/com.google.android.googlequicksearchbox/files/persisted_profiling_statistics.new	
+0.018308	[WA]	/data/com.google.android.googlequicksearchbox/files/persisted_profiling_statistics.new	0	3992	0	
+0.018406	[FS]	/data/com.google.android.googlequicksearchbox/files/persisted_profiling_statistics.new	0	
+0.028263	[RN]	/data/com.google.android.googlequicksearchbox/files/persisted_profiling_statistics.new	/data/com.google.android.googlequicksearchbox/files/persisted_profiling_statistics	
+36.978846	[WO]	/user/0/com.google.android.googlequicksearchbox/app_prediction/events_2492	0	132	1452	
+36.982130	[WA]	/user/0/com.google.android.googlequicksearchbox/files/engine_16	0	2932	0	
+38.751326	[CR]	/data/com.google.android.googlequicksearchbox/files/persisted_profiling_statistics.new	
+38.751464	[WA]	/data/com.google.android.googlequicksearchbox/files/persisted_profiling_statistics.new	0	3992	0	
+38.751534	[FS]	/data/com.google.android.googlequicksearchbox/files/persisted_profiling_statistics.new	0	
+38.760673	[RN]	/data/com.google.android.googlequicksearchbox/files/persisted_profiling_statistics.new	/data/com.google.android.googlequicksearchbox/files/persisted_profiling_statistics	
+445.371659	[RN]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin.bak	
+445.380681	[CR]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	
+445.385922	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	0	4096	0	
+445.388230	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	4096	4096	4096	
+445.389264	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	8192	3913	8192	
+445.389466	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	12105	115	12105	
+445.390331	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	12220	3978	12220	
+445.390641	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	16198	4096	16198	
+445.390727	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	20294	36650	20294	
+445.393479	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	56944	2562	56944	
+445.396418	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	59506	3778	59506	
+445.397023	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	63284	4096	63284	
+445.397156	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	67380	10089	67380	
+445.398158	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	77469	2707	77469	
+445.399383	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	80176	1398	80176	
+445.399487	[FS]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	0	
+445.415500	[UN]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin.bak	
+445.454327	[RN]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin.bak	
+445.460751	[CR]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	
+445.470297	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	0	4096	0	
+445.477782	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	4096	4096	4096	
+445.478221	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	8192	3913	8192	
+445.478370	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	12105	115	12105	
+445.480916	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	12220	3978	12220	
+445.481605	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	16198	4096	16198	
+445.481694	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	20294	36650	20294	
+445.482522	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	56944	2562	56944	
+445.486329	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	59506	3778	59506	
+445.486790	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	63284	4096	63284	
+445.486876	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	67380	10089	67380	
+445.487535	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	77469	2707	77469	
+445.488453	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	80176	1398	80176	
+445.488521	[FS]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	0	
+445.499617	[UN]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin.bak	
+445.624682	[RN]	/data/com.google.android.googlequicksearchbox/shared_prefs/reflection_multi_process.xml	/data/com.google.android.googlequicksearchbox/shared_prefs/reflection_multi_process.xml.bak	
+445.625019	[CR]	/data/com.google.android.googlequicksearchbox/shared_prefs/reflection_multi_process.xml	
+445.625600	[WA]	/data/com.google.android.googlequicksearchbox/shared_prefs/reflection_multi_process.xml	0	1019	0	
+445.625864	[FS]	/data/com.google.android.googlequicksearchbox/shared_prefs/reflection_multi_process.xml	0	
+445.631514	[UN]	/data/com.google.android.googlequicksearchbox/shared_prefs/reflection_multi_process.xml.bak	
+445.958976	[RN]	/data/com.google.android.googlequicksearchbox/shared_prefs/reflection_multi_process.xml	/data/com.google.android.googlequicksearchbox/shared_prefs/reflection_multi_process.xml.bak	
+445.959290	[CR]	/data/com.google.android.googlequicksearchbox/shared_prefs/reflection_multi_process.xml	
+445.959885	[WA]	/data/com.google.android.googlequicksearchbox/shared_prefs/reflection_multi_process.xml	0	1019	0	
+445.960021	[FS]	/data/com.google.android.googlequicksearchbox/shared_prefs/reflection_multi_process.xml	0	
+445.964393	[UN]	/data/com.google.android.googlequicksearchbox/shared_prefs/reflection_multi_process.xml.bak	
+448.426598	[RN]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin.bak	
+448.432672	[CR]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	
+448.438360	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	0	4096	0	
+448.440574	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	4096	4096	4096	
+448.441011	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	8192	3913	8192	
+448.441159	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	12105	115	12105	
+448.442006	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	12220	3978	12220	
+448.442273	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	16198	4096	16198	
+448.442352	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	20294	36650	20294	
+448.443449	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	56944	2562	56944	
+448.451297	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	59506	3778	59506	
+448.453590	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	63284	4096	63284	
+448.453668	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	67380	10089	67380	
+448.454339	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	77469	2707	77469	
+448.455447	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	80176	1398	80176	
+448.455565	[FS]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	0	
+448.476011	[UN]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin.bak	
+448.508684	[RN]	/data/com.google.android.googlequicksearchbox/shared_prefs/reflection_multi_process.xml	/data/com.google.android.googlequicksearchbox/shared_prefs/reflection_multi_process.xml.bak	
+448.508963	[CR]	/data/com.google.android.googlequicksearchbox/shared_prefs/reflection_multi_process.xml	
+448.509496	[WA]	/data/com.google.android.googlequicksearchbox/shared_prefs/reflection_multi_process.xml	0	1019	0	
+448.509594	[FS]	/data/com.google.android.googlequicksearchbox/shared_prefs/reflection_multi_process.xml	0	
+448.516338	[UN]	/data/com.google.android.googlequicksearchbox/shared_prefs/reflection_multi_process.xml.bak	
+448.697777	[RN]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin.bak	
+448.703709	[CR]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	
+448.708297	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	0	4096	0	
+448.711097	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	4096	4096	4096	
+448.711609	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	8192	3913	8192	
+448.711773	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	12105	115	12105	
+448.712749	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	12220	3978	12220	
+448.713049	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	16198	4096	16198	
+448.713133	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	20294	36650	20294	
+448.713979	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	56944	2562	56944	
+448.716480	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	59506	3778	59506	
+448.716988	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	63284	4096	63284	
+448.717070	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	67380	10089	67380	
+448.717864	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	77469	2707	77469	
+448.718825	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	80176	1398	80176	
+448.718894	[FS]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	0	
+448.724614	[RN]	/data/com.google.android.googlequicksearchbox/shared_prefs/reflection_multi_process.xml	/data/com.google.android.googlequicksearchbox/shared_prefs/reflection_multi_process.xml.bak	
+448.724854	[CR]	/data/com.google.android.googlequicksearchbox/shared_prefs/reflection_multi_process.xml	
+448.725294	[WA]	/data/com.google.android.googlequicksearchbox/shared_prefs/reflection_multi_process.xml	0	1019	0	
+448.725388	[FS]	/data/com.google.android.googlequicksearchbox/shared_prefs/reflection_multi_process.xml	0	
+448.737121	[UN]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin.bak	
+448.737221	[UN]	/data/com.google.android.googlequicksearchbox/shared_prefs/reflection_multi_process.xml.bak	
+0.018120	[CR]	/data/com.google.android.googlequicksearchbox/files/persisted_profiling_statistics.new	
+0.018308	[WA]	/data/com.google.android.googlequicksearchbox/files/persisted_profiling_statistics.new	0	3992	0	
+0.018406	[FS]	/data/com.google.android.googlequicksearchbox/files/persisted_profiling_statistics.new	0	
+0.028263	[RN]	/data/com.google.android.googlequicksearchbox/files/persisted_profiling_statistics.new	/data/com.google.android.googlequicksearchbox/files/persisted_profiling_statistics	
+36.978846	[WO]	/user/0/com.google.android.googlequicksearchbox/app_prediction/events_2492	0	132	1452	
+36.982130	[WA]	/user/0/com.google.android.googlequicksearchbox/files/engine_16	0	2932	0	
+38.751326	[CR]	/data/com.google.android.googlequicksearchbox/files/persisted_profiling_statistics.new	
+38.751464	[WA]	/data/com.google.android.googlequicksearchbox/files/persisted_profiling_statistics.new	0	3992	0	
+38.751534	[FS]	/data/com.google.android.googlequicksearchbox/files/persisted_profiling_statistics.new	0	
+38.760673	[RN]	/data/com.google.android.googlequicksearchbox/files/persisted_profiling_statistics.new	/data/com.google.android.googlequicksearchbox/files/persisted_profiling_statistics	
+445.371659	[RN]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin.bak	
+445.380681	[CR]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	
+445.385922	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	0	4096	0	
+445.388230	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	4096	4096	4096	
+445.389264	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	8192	3913	8192	
+445.389466	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	12105	115	12105	
+445.390331	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	12220	3978	12220	
+445.390641	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	16198	4096	16198	
+445.390727	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	20294	36650	20294	
+445.393479	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	56944	2562	56944	
+445.396418	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	59506	3778	59506	
+445.397023	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	63284	4096	63284	
+445.397156	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	67380	10089	67380	
+445.398158	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	77469	2707	77469	
+445.399383	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	80176	1398	80176	
+445.399487	[FS]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	0	
+445.415500	[UN]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin.bak	
+445.454327	[RN]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin.bak	
+445.460751	[CR]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	
+445.470297	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	0	4096	0	
+445.477782	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	4096	4096	4096	
+445.478221	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	8192	3913	8192	
+445.478370	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	12105	115	12105	
+445.480916	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	12220	3978	12220	
+445.481605	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	16198	4096	16198	
+445.481694	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	20294	36650	20294	
+445.482522	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	56944	2562	56944	
+445.486329	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	59506	3778	59506	
+445.486790	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	63284	4096	63284	
+445.486876	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	67380	10089	67380	
+445.487535	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	77469	2707	77469	
+445.488453	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	80176	1398	80176	
+445.488521	[FS]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	0	
+445.499617	[UN]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin.bak	
+445.624682	[RN]	/data/com.google.android.googlequicksearchbox/shared_prefs/reflection_multi_process.xml	/data/com.google.android.googlequicksearchbox/shared_prefs/reflection_multi_process.xml.bak	
+445.625019	[CR]	/data/com.google.android.googlequicksearchbox/shared_prefs/reflection_multi_process.xml	
+445.625600	[WA]	/data/com.google.android.googlequicksearchbox/shared_prefs/reflection_multi_process.xml	0	1019	0	
+445.625864	[FS]	/data/com.google.android.googlequicksearchbox/shared_prefs/reflection_multi_process.xml	0	
+445.631514	[UN]	/data/com.google.android.googlequicksearchbox/shared_prefs/reflection_multi_process.xml.bak	
+445.958976	[RN]	/data/com.google.android.googlequicksearchbox/shared_prefs/reflection_multi_process.xml	/data/com.google.android.googlequicksearchbox/shared_prefs/reflection_multi_process.xml.bak	
+445.959290	[CR]	/data/com.google.android.googlequicksearchbox/shared_prefs/reflection_multi_process.xml	
+445.959885	[WA]	/data/com.google.android.googlequicksearchbox/shared_prefs/reflection_multi_process.xml	0	1019	0	
+445.960021	[FS]	/data/com.google.android.googlequicksearchbox/shared_prefs/reflection_multi_process.xml	0	
+445.964393	[UN]	/data/com.google.android.googlequicksearchbox/shared_prefs/reflection_multi_process.xml.bak	
+448.426598	[RN]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin.bak	
+448.432672	[CR]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	
+448.438360	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	0	4096	0	
+448.440574	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	4096	4096	4096	
+448.441011	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	8192	3913	8192	
+448.441159	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	12105	115	12105	
+448.442006	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	12220	3978	12220	
+448.442273	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	16198	4096	16198	
+448.442352	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	20294	36650	20294	
+448.443449	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	56944	2562	56944	
+448.451297	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	59506	3778	59506	
+448.453590	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	63284	4096	63284	
+448.453668	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	67380	10089	67380	
+448.454339	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	77469	2707	77469	
+448.455447	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	80176	1398	80176	
+448.455565	[FS]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	0	
+448.476011	[UN]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin.bak	
+448.508684	[RN]	/data/com.google.android.googlequicksearchbox/shared_prefs/reflection_multi_process.xml	/data/com.google.android.googlequicksearchbox/shared_prefs/reflection_multi_process.xml.bak	
+448.508963	[CR]	/data/com.google.android.googlequicksearchbox/shared_prefs/reflection_multi_process.xml	
+448.509496	[WA]	/data/com.google.android.googlequicksearchbox/shared_prefs/reflection_multi_process.xml	0	1019	0	
+448.509594	[FS]	/data/com.google.android.googlequicksearchbox/shared_prefs/reflection_multi_process.xml	0	
+448.516338	[UN]	/data/com.google.android.googlequicksearchbox/shared_prefs/reflection_multi_process.xml.bak	
+448.697777	[RN]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin.bak	
+448.703709	[CR]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	
+448.708297	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	0	4096	0	
+448.711097	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	4096	4096	4096	
+448.711609	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	8192	3913	8192	
+448.711773	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	12105	115	12105	
+448.712749	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	12220	3978	12220	
+448.713049	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	16198	4096	16198	
+448.713133	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	20294	36650	20294	
+448.713979	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	56944	2562	56944	
+448.716480	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	59506	3778	59506	
+448.716988	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	63284	4096	63284	
+448.717070	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	67380	10089	67380	
+448.717864	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	77469	2707	77469	
+448.718825	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	80176	1398	80176	
+448.718894	[FS]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	0	
+448.724614	[RN]	/data/com.google.android.googlequicksearchbox/shared_prefs/reflection_multi_process.xml	/data/com.google.android.googlequicksearchbox/shared_prefs/reflection_multi_process.xml.bak	
+448.724854	[CR]	/data/com.google.android.googlequicksearchbox/shared_prefs/reflection_multi_process.xml	
+448.725294	[WA]	/data/com.google.android.googlequicksearchbox/shared_prefs/reflection_multi_process.xml	0	1019	0	
+448.725388	[FS]	/data/com.google.android.googlequicksearchbox/shared_prefs/reflection_multi_process.xml	0	
+448.737121	[UN]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin.bak	
+448.737221	[UN]	/data/com.google.android.googlequicksearchbox/shared_prefs/reflection_multi_process.xml.bak	

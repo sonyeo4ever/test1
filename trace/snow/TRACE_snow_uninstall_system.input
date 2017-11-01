@@ -224,3 +224,681 @@
 35.322685	[WA]	/system/recent_images/5_task_thumbnail.png	169457	4	169457	
 35.339811	[UN]	/system/recent_tasks/4_task.xml	
 35.340819	[UN]	/system/recent_images/4_task_thumbnail.png	
+33.118126	[UN]	/dalvik-cache/profiles/com.campmobile.snow	
+33.120768	[UN]	/data/com.campmobile.snow/lib	
+33.120966	[RD]	/data/com.campmobile.snow/cache	
+33.121184	[RD]	/data/com.campmobile.snow/code_cache	
+33.121421	[UN]	/data/com.campmobile.snow/files/.realm.temp/3682036481_realm.note	
+33.121551	[RD]	/data/com.campmobile.snow/files/.realm.temp	
+33.121743	[UN]	/data/com.campmobile.snow/files/snow.realm.management/access_control.write.mx	
+33.121840	[UN]	/data/com.campmobile.snow/files/snow.realm.management/access_control.control.mx	
+33.121932	[UN]	/data/com.campmobile.snow/files/snow.realm.management/access_control.new_commit.cv	
+33.122022	[UN]	/data/com.campmobile.snow/files/snow.realm.management/access_control.pick_writer.cv	
+33.122123	[RD]	/data/com.campmobile.snow/files/snow.realm.management	
+33.122269	[UN]	/data/com.campmobile.snow/files/snow.realm.lock	
+33.122428	[UN]	/data/com.campmobile.snow/files/snow.realm	
+33.122645	[UN]	/data/com.campmobile.snow/files/nelo2_install.id	
+33.122790	[UN]	/data/com.campmobile.snow/files/nelo2_app_version_snow-android.id	
+33.123053	[RD]	/data/com.campmobile.snow/files/SNOW/process_temp	
+33.123259	[RD]	/data/com.campmobile.snow/files/SNOW/etc	
+33.123452	[RD]	/data/com.campmobile.snow/files/SNOW/profiles	
+33.123648	[RD]	/data/com.campmobile.snow/files/SNOW/lives	
+33.123847	[RD]	/data/com.campmobile.snow/files/SNOW/last_lives	
+33.124043	[RD]	/data/com.campmobile.snow/files/SNOW/deco_sticker	
+33.124193	[RD]	/data/com.campmobile.snow/files/SNOW	
+33.124356	[UN]	/data/com.campmobile.snow/files/72d629ed317c5a266e2db9a7beb1e2b9.1_0.nelolog	
+33.124427	[RD]	/data/com.campmobile.snow/files	
+33.124672	[UN]	/data/com.campmobile.snow/shared_prefs/com.facebook.internal.preferences.APP_SETTINGS.xml	
+33.124874	[UN]	/data/com.campmobile.snow/shared_prefs/common_info.xml	
+33.125019	[UN]	/data/com.campmobile.snow/shared_prefs/com.campmobile.snow_preferences.xml	
+33.125162	[UN]	/data/com.campmobile.snow/shared_prefs/appsflyer-data.xml	
+33.125294	[UN]	/data/com.campmobile.snow/shared_prefs/com.facebook.sdk.appEventPreferences.xml	
+33.125435	[UN]	/data/com.campmobile.snow/shared_prefs/com.facebook.sdk.attributionTracking.xml	
+33.125582	[UN]	/data/com.campmobile.snow/shared_prefs/com.google.android.gms.appid.xml	
+33.125714	[UN]	/data/com.campmobile.snow/shared_prefs/my_info.xml	
+33.125853	[UN]	/data/com.campmobile.snow/shared_prefs/livecast.xml	
+33.126011	[RD]	/data/com.campmobile.snow/shared_prefs	
+33.126368	[UN]	/data/com.campmobile.snow/databases/snow_app.db	
+33.126427	[UN]	/data/com.campmobile.snow/databases/snow_app.db-journal	
+33.126638	[UN]	/data/com.campmobile.snow/databases/voip.db	
+33.126692	[UN]	/data/com.campmobile.snow/databases/voip.db-journal	
+33.126870	[UN]	/data/com.campmobile.snow/databases/2eqbm8myjbpq0b3e6gvbo64ib.db	
+33.126928	[UN]	/data/com.campmobile.snow/databases/2eqbm8myjbpq0b3e6gvbo64ib.db-journal	
+33.127119	[RD]	/data/com.campmobile.snow/databases	
+33.127281	[UN]	/data/com.campmobile.snow/no_backup/com.google.android.gms.appid-no-backup	
+33.127389	[RD]	/data/com.campmobile.snow/no_backup	
+33.127555	[RD]	/data/com.campmobile.snow	
+33.541434	[RN]	/system/users/0/runtime-permissions.xml	/system/users/0/runtime-permissions.xml.bak	
+33.542169	[CR]	/system/users/0/runtime-permissions.xml	
+33.551228	[WA]	/system/users/0/runtime-permissions.xml	0	8192	0	
+33.562123	[WA]	/system/users/0/runtime-permissions.xml	8192	7406	8192	
+33.562289	[FS]	/system/users/0/runtime-permissions.xml	0	
+33.583972	[UN]	/system/users/0/runtime-permissions.xml.bak	
+33.648111	[UN]	/app/com.campmobile.snow-2/base.apk	
+33.648301	[UN]	/app/com.campmobile.snow-2/lib/arm/libopencv_java3.so	
+33.660851	[UN]	/app/com.campmobile.snow-2/lib/arm/libSnowBinaryParser.so	
+33.661195	[UN]	/app/com.campmobile.snow-2/lib/arm/libSnowEngine.so	
+33.661619	[UN]	/app/com.campmobile.snow-2/lib/arm/libswresample-2.so	
+33.661866	[UN]	/app/com.campmobile.snow-2/lib/arm/libffmpeg-encoder.so	
+33.662141	[UN]	/app/com.campmobile.snow-2/lib/arm/libjnidispatch.so	
+33.662388	[UN]	/app/com.campmobile.snow-2/lib/arm/libc++_shared.so	
+33.663549	[UN]	/app/com.campmobile.snow-2/lib/arm/libffmpeg-runner.so	
+33.664086	[UN]	/app/com.campmobile.snow-2/lib/arm/libavcodec-57.so	
+33.680436	[UN]	/app/com.campmobile.snow-2/lib/arm/libffmpegencoder.so	
+33.680714	[UN]	/app/com.campmobile.snow-2/lib/arm/libandromeda-effect.so	
+33.681084	[UN]	/app/com.campmobile.snow-2/lib/arm/libsnow_common.so	
+33.681216	[UN]	/app/com.campmobile.snow-2/lib/arm/libpostproc-54.so	
+33.681576	[UN]	/app/com.campmobile.snow-2/lib/arm/libyuv-jni.so	
+33.681741	[UN]	/app/com.campmobile.snow-2/lib/arm/libVidChaser.so	
+33.686965	[UN]	/app/com.campmobile.snow-2/lib/arm/liboutput-texture-library.so	
+33.687274	[UN]	/app/com.campmobile.snow-2/lib/arm/libgpuimage-library.so	
+33.687423	[UN]	/app/com.campmobile.snow-2/lib/arm/libstateMachine.so	
+33.687834	[UN]	/app/com.campmobile.snow-2/lib/arm/libnalbi-segment.so	
+33.688204	[UN]	/app/com.campmobile.snow-2/lib/arm/libtype_caster.so	
+33.688382	[UN]	/app/com.campmobile.snow-2/lib/arm/libst_mobile.so	
+33.693207	[UN]	/app/com.campmobile.snow-2/lib/arm/libdetection_based_tracker.so	
+33.693459	[UN]	/app/com.campmobile.snow-2/lib/arm/libLive2DLoader.so	
+33.694153	[UN]	/app/com.campmobile.snow-2/lib/arm/libcutils.so	
+33.694454	[UN]	/app/com.campmobile.snow-2/lib/arm/libnalbi-jni.so	
+33.694758	[UN]	/app/com.campmobile.snow-2/lib/arm/libavformat-57.so	
+33.697826	[UN]	/app/com.campmobile.snow-2/lib/arm/libline-sdk-encryption.so	
+33.697994	[UN]	/app/com.campmobile.snow-2/lib/arm/libswscale-4.so	
+33.698594	[UN]	/app/com.campmobile.snow-2/lib/arm/libavdevice-57.so	
+33.698904	[UN]	/app/com.campmobile.snow-2/lib/arm/libstlport_shared.so	
+33.699526	[UN]	/app/com.campmobile.snow-2/lib/arm/liboutputtexture.so	
+33.699849	[UN]	/app/com.campmobile.snow-2/lib/arm/libavutil-55.so	
+33.700523	[UN]	/app/com.campmobile.snow-2/lib/arm/libAlcheraLib.so	
+33.700832	[UN]	/app/com.campmobile.snow-2/lib/arm/libamp.so	
+33.706414	[UN]	/app/com.campmobile.snow-2/lib/arm/libavresample-3.so	
+33.706673	[UN]	/app/com.campmobile.snow-2/lib/arm/librsjni.so	
+33.706894	[UN]	/app/com.campmobile.snow-2/lib/arm/libui.so	
+33.707132	[UN]	/app/com.campmobile.snow-2/lib/arm/libalFITLib.so	
+33.718189	[UN]	/app/com.campmobile.snow-2/lib/arm/libparfait-lib.so	
+33.719655	[UN]	/app/com.campmobile.snow-2/lib/arm/libkuru.so	
+33.726928	[UN]	/app/com.campmobile.snow-2/lib/arm/libavfilter-6.so	
+33.729557	[UN]	/app/com.campmobile.snow-2/lib/arm/libMaxstAR.so	
+33.733035	[UN]	/app/com.campmobile.snow-2/lib/arm/libRSSupport.so	
+33.734641	[UN]	/app/com.campmobile.snow-2/lib/arm/libyuv.so	
+33.735104	[UN]	/app/com.campmobile.snow-2/lib/arm/libSnowKuruLib.so	
+33.735422	[UN]	/app/com.campmobile.snow-2/lib/arm/librealm-jni.so	
+33.737832	[UN]	/app/com.campmobile.snow-2/lib/arm/libpl_droidsonroids_gif.so	
+33.738004	[UN]	/app/com.campmobile.snow-2/lib/arm/lib7z.so	
+33.740418	[RD]	/app/com.campmobile.snow-2/lib/arm	
+33.740808	[RD]	/app/com.campmobile.snow-2/lib	
+33.741044	[UN]	/app/com.campmobile.snow-2/oat/arm/base.odex	
+33.829303	[RD]	/app/com.campmobile.snow-2/oat/arm	
+33.829469	[RD]	/app/com.campmobile.snow-2/oat	
+33.829618	[RD]	/app/com.campmobile.snow-2	
+33.953365	[CR]	/system/recent_images/5_task_thumbnail.png	
+33.953624	[WA]	/system/recent_images/5_task_thumbnail.png	0	8	0	
+33.956750	[WA]	/system/recent_images/5_task_thumbnail.png	8	8	8	
+33.958719	[WA]	/system/recent_images/5_task_thumbnail.png	16	13	16	
+33.958953	[WA]	/system/recent_images/5_task_thumbnail.png	29	4	29	
+33.959073	[WA]	/system/recent_images/5_task_thumbnail.png	33	8	33	
+33.959136	[WA]	/system/recent_images/5_task_thumbnail.png	41	4	41	
+33.959195	[WA]	/system/recent_images/5_task_thumbnail.png	45	4	45	
+34.058222	[WA]	/system/recent_images/5_task_thumbnail.png	49	8	49	
+34.058332	[WA]	/system/recent_images/5_task_thumbnail.png	57	4096	57	
+34.058436	[WA]	/system/recent_images/5_task_thumbnail.png	4153	4096	4153	
+34.058565	[WA]	/system/recent_images/5_task_thumbnail.png	8249	4	8249	
+34.097287	[RN]	/system/netpolicy.xml	/system/netpolicy.xml.bak	
+34.097687	[CR]	/system/netpolicy.xml	
+34.106767	[WA]	/system/netpolicy.xml	0	113	0	
+34.106912	[FS]	/system/netpolicy.xml	0	
+34.112892	[UN]	/system/netpolicy.xml.bak	
+34.129498	[WA]	/system/recent_images/5_task_thumbnail.png	8253	8	8253	
+34.129613	[WA]	/system/recent_images/5_task_thumbnail.png	8261	4096	8261	
+34.129718	[WA]	/system/recent_images/5_task_thumbnail.png	12357	4096	12357	
+34.129851	[WA]	/system/recent_images/5_task_thumbnail.png	16453	4	16453	
+34.130101	[WA]	/system/recent_images/5_task_thumbnail.png	16457	8	16457	
+34.130162	[WA]	/system/recent_images/5_task_thumbnail.png	16465	4096	16465	
+34.130251	[WA]	/system/recent_images/5_task_thumbnail.png	20561	4096	20561	
+34.130375	[WA]	/system/recent_images/5_task_thumbnail.png	24657	4	24657	
+34.136188	[RN]	/system/netstats/uid.1507300282106-	/system/netstats/uid.1507300282106-.backup	
+34.136422	[CR]	/system/netstats/uid.1507300282106-	
+34.139535	[WA]	/system/netstats/uid.1507300282106-	0	8189	0	
+34.141679	[WA]	/system/netstats/uid.1507300282106-	8189	8192	8189	
+34.143010	[WA]	/system/netstats/uid.1507300282106-	16381	5297	16381	
+34.143135	[FS]	/system/netstats/uid.1507300282106-	0	
+34.155872	[UN]	/system/netstats/uid.1507300282106-.backup	
+34.171796	[RN]	/system/netstats/uid_tag.1507783616261-	/system/netstats/uid_tag.1507783616261-.backup	
+34.172034	[CR]	/system/netstats/uid_tag.1507783616261-	
+34.175964	[WA]	/system/netstats/uid_tag.1507783616261-	0	8190	0	
+34.177464	[WA]	/system/netstats/uid_tag.1507783616261-	8190	4892	8190	
+34.177603	[FS]	/system/netstats/uid_tag.1507783616261-	0	
+34.203490	[UN]	/system/netstats/uid_tag.1507783616261-.backup	
+34.240143	[WA]	/system/recent_images/5_task_thumbnail.png	24661	8	24661	
+34.240245	[WA]	/system/recent_images/5_task_thumbnail.png	24669	4096	24669	
+34.240338	[WA]	/system/recent_images/5_task_thumbnail.png	28765	4096	28765	
+34.240451	[WA]	/system/recent_images/5_task_thumbnail.png	32861	4	32861	
+34.240666	[WA]	/system/recent_images/5_task_thumbnail.png	32865	8	32865	
+34.240720	[WA]	/system/recent_images/5_task_thumbnail.png	32873	4096	32873	
+34.240800	[WA]	/system/recent_images/5_task_thumbnail.png	36969	4096	36969	
+34.241050	[WA]	/system/recent_images/5_task_thumbnail.png	41065	4	41065	
+34.282179	[RN]	/system/netstats/uid.1507300282106-	/system/netstats/uid.1507300282106-.backup	
+34.282477	[CR]	/system/netstats/uid.1507300282106-	
+34.284992	[WA]	/system/netstats/uid.1507300282106-	0	8189	0	
+34.289215	[WA]	/system/netstats/uid.1507300282106-	8189	8192	8189	
+34.291663	[WA]	/system/netstats/uid.1507300282106-	16381	5162	16381	
+34.291813	[FS]	/system/netstats/uid.1507300282106-	0	
+34.307702	[UN]	/system/netstats/uid.1507300282106-.backup	
+34.330423	[WA]	/system/recent_images/5_task_thumbnail.png	41069	8	41069	
+34.330524	[WA]	/system/recent_images/5_task_thumbnail.png	41077	4096	41077	
+34.330616	[WA]	/system/recent_images/5_task_thumbnail.png	45173	4096	45173	
+34.330729	[WA]	/system/recent_images/5_task_thumbnail.png	49269	4	49269	
+34.487825	[WA]	/system/recent_images/5_task_thumbnail.png	49273	8	49273	
+34.488112	[WA]	/system/recent_images/5_task_thumbnail.png	49281	4096	49281	
+34.488205	[WA]	/system/recent_images/5_task_thumbnail.png	53377	4096	53377	
+34.488319	[WA]	/system/recent_images/5_task_thumbnail.png	57473	4	57473	
+34.488538	[WA]	/system/recent_images/5_task_thumbnail.png	57477	8	57477	
+34.488593	[WA]	/system/recent_images/5_task_thumbnail.png	57485	4096	57485	
+34.488674	[WA]	/system/recent_images/5_task_thumbnail.png	61581	4096	61581	
+34.488791	[WA]	/system/recent_images/5_task_thumbnail.png	65677	4	65677	
+34.627686	[WA]	/system/recent_images/5_task_thumbnail.png	65681	8	65681	
+34.633777	[WA]	/system/recent_images/5_task_thumbnail.png	65689	4096	65689	
+34.633899	[WA]	/system/recent_images/5_task_thumbnail.png	69785	4096	69785	
+34.634016	[WA]	/system/recent_images/5_task_thumbnail.png	73881	4	73881	
+34.634234	[WA]	/system/recent_images/5_task_thumbnail.png	73885	8	73885	
+34.634290	[WA]	/system/recent_images/5_task_thumbnail.png	73893	4096	73893	
+34.634373	[WA]	/system/recent_images/5_task_thumbnail.png	77989	4096	77989	
+34.634482	[WA]	/system/recent_images/5_task_thumbnail.png	82085	4	82085	
+34.722961	[WA]	/system/recent_images/5_task_thumbnail.png	82089	8	82089	
+34.723220	[WA]	/system/recent_images/5_task_thumbnail.png	82097	4096	82097	
+34.723312	[WA]	/system/recent_images/5_task_thumbnail.png	86193	4096	86193	
+34.723431	[WA]	/system/recent_images/5_task_thumbnail.png	90289	4	90289	
+35.016470	[WA]	/system/recent_images/5_task_thumbnail.png	90293	8	90293	
+35.016634	[WA]	/system/recent_images/5_task_thumbnail.png	90301	4096	90301	
+35.016734	[WA]	/system/recent_images/5_task_thumbnail.png	94397	4096	94397	
+35.016849	[WA]	/system/recent_images/5_task_thumbnail.png	98493	4	98493	
+35.016907	[WA]	/system/recent_images/5_task_thumbnail.png	98497	8	98497	
+35.016960	[WA]	/system/recent_images/5_task_thumbnail.png	98505	4096	98505	
+35.017041	[WA]	/system/recent_images/5_task_thumbnail.png	102601	4096	102601	
+35.017152	[WA]	/system/recent_images/5_task_thumbnail.png	106697	4	106697	
+35.017208	[WA]	/system/recent_images/5_task_thumbnail.png	106701	8	106701	
+35.017262	[WA]	/system/recent_images/5_task_thumbnail.png	106709	4096	106709	
+35.017341	[WA]	/system/recent_images/5_task_thumbnail.png	110805	4096	110805	
+35.017449	[WA]	/system/recent_images/5_task_thumbnail.png	114901	4	114901	
+35.017504	[WA]	/system/recent_images/5_task_thumbnail.png	114905	8	114905	
+35.017556	[WA]	/system/recent_images/5_task_thumbnail.png	114913	4096	114913	
+35.017637	[WA]	/system/recent_images/5_task_thumbnail.png	119009	4096	119009	
+35.017744	[WA]	/system/recent_images/5_task_thumbnail.png	123105	4	123105	
+35.256844	[WA]	/system/recent_images/5_task_thumbnail.png	123109	8	123109	
+35.256948	[WA]	/system/recent_images/5_task_thumbnail.png	123117	4096	123117	
+35.257044	[WA]	/system/recent_images/5_task_thumbnail.png	127213	4096	127213	
+35.257160	[WA]	/system/recent_images/5_task_thumbnail.png	131309	4	131309	
+35.257336	[WA]	/system/recent_images/5_task_thumbnail.png	131313	8	131313	
+35.257390	[WA]	/system/recent_images/5_task_thumbnail.png	131321	4096	131321	
+35.257473	[WA]	/system/recent_images/5_task_thumbnail.png	135417	4096	135417	
+35.257584	[WA]	/system/recent_images/5_task_thumbnail.png	139513	4	139513	
+35.257640	[WA]	/system/recent_images/5_task_thumbnail.png	139517	8	139517	
+35.257694	[WA]	/system/recent_images/5_task_thumbnail.png	139525	4096	139525	
+35.257772	[WA]	/system/recent_images/5_task_thumbnail.png	143621	4096	143621	
+35.257882	[WA]	/system/recent_images/5_task_thumbnail.png	147717	4	147717	
+35.257938	[WA]	/system/recent_images/5_task_thumbnail.png	147721	8	147721	
+35.257991	[WA]	/system/recent_images/5_task_thumbnail.png	147729	4096	147729	
+35.258070	[WA]	/system/recent_images/5_task_thumbnail.png	151825	4096	151825	
+35.258176	[WA]	/system/recent_images/5_task_thumbnail.png	155921	4	155921	
+35.321993	[WA]	/system/recent_images/5_task_thumbnail.png	155925	8	155925	
+35.322096	[WA]	/system/recent_images/5_task_thumbnail.png	155933	4096	155933	
+35.322191	[WA]	/system/recent_images/5_task_thumbnail.png	160029	4096	160029	
+35.322317	[WA]	/system/recent_images/5_task_thumbnail.png	164125	4	164125	
+35.322373	[WA]	/system/recent_images/5_task_thumbnail.png	164129	8	164129	
+35.322426	[WA]	/system/recent_images/5_task_thumbnail.png	164137	4096	164137	
+35.322508	[WA]	/system/recent_images/5_task_thumbnail.png	168233	1212	168233	
+35.322579	[WA]	/system/recent_images/5_task_thumbnail.png	169445	4	169445	
+35.322633	[WA]	/system/recent_images/5_task_thumbnail.png	169449	8	169449	
+35.322685	[WA]	/system/recent_images/5_task_thumbnail.png	169457	4	169457	
+35.339811	[UN]	/system/recent_tasks/4_task.xml	
+35.340819	[UN]	/system/recent_images/4_task_thumbnail.png	
+33.118126	[UN]	/dalvik-cache/profiles/com.campmobile.snow	
+33.120768	[UN]	/data/com.campmobile.snow/lib	
+33.120966	[RD]	/data/com.campmobile.snow/cache	
+33.121184	[RD]	/data/com.campmobile.snow/code_cache	
+33.121421	[UN]	/data/com.campmobile.snow/files/.realm.temp/3682036481_realm.note	
+33.121551	[RD]	/data/com.campmobile.snow/files/.realm.temp	
+33.121743	[UN]	/data/com.campmobile.snow/files/snow.realm.management/access_control.write.mx	
+33.121840	[UN]	/data/com.campmobile.snow/files/snow.realm.management/access_control.control.mx	
+33.121932	[UN]	/data/com.campmobile.snow/files/snow.realm.management/access_control.new_commit.cv	
+33.122022	[UN]	/data/com.campmobile.snow/files/snow.realm.management/access_control.pick_writer.cv	
+33.122123	[RD]	/data/com.campmobile.snow/files/snow.realm.management	
+33.122269	[UN]	/data/com.campmobile.snow/files/snow.realm.lock	
+33.122428	[UN]	/data/com.campmobile.snow/files/snow.realm	
+33.122645	[UN]	/data/com.campmobile.snow/files/nelo2_install.id	
+33.122790	[UN]	/data/com.campmobile.snow/files/nelo2_app_version_snow-android.id	
+33.123053	[RD]	/data/com.campmobile.snow/files/SNOW/process_temp	
+33.123259	[RD]	/data/com.campmobile.snow/files/SNOW/etc	
+33.123452	[RD]	/data/com.campmobile.snow/files/SNOW/profiles	
+33.123648	[RD]	/data/com.campmobile.snow/files/SNOW/lives	
+33.123847	[RD]	/data/com.campmobile.snow/files/SNOW/last_lives	
+33.124043	[RD]	/data/com.campmobile.snow/files/SNOW/deco_sticker	
+33.124193	[RD]	/data/com.campmobile.snow/files/SNOW	
+33.124356	[UN]	/data/com.campmobile.snow/files/72d629ed317c5a266e2db9a7beb1e2b9.1_0.nelolog	
+33.124427	[RD]	/data/com.campmobile.snow/files	
+33.124672	[UN]	/data/com.campmobile.snow/shared_prefs/com.facebook.internal.preferences.APP_SETTINGS.xml	
+33.124874	[UN]	/data/com.campmobile.snow/shared_prefs/common_info.xml	
+33.125019	[UN]	/data/com.campmobile.snow/shared_prefs/com.campmobile.snow_preferences.xml	
+33.125162	[UN]	/data/com.campmobile.snow/shared_prefs/appsflyer-data.xml	
+33.125294	[UN]	/data/com.campmobile.snow/shared_prefs/com.facebook.sdk.appEventPreferences.xml	
+33.125435	[UN]	/data/com.campmobile.snow/shared_prefs/com.facebook.sdk.attributionTracking.xml	
+33.125582	[UN]	/data/com.campmobile.snow/shared_prefs/com.google.android.gms.appid.xml	
+33.125714	[UN]	/data/com.campmobile.snow/shared_prefs/my_info.xml	
+33.125853	[UN]	/data/com.campmobile.snow/shared_prefs/livecast.xml	
+33.126011	[RD]	/data/com.campmobile.snow/shared_prefs	
+33.126368	[UN]	/data/com.campmobile.snow/databases/snow_app.db	
+33.126427	[UN]	/data/com.campmobile.snow/databases/snow_app.db-journal	
+33.126638	[UN]	/data/com.campmobile.snow/databases/voip.db	
+33.126692	[UN]	/data/com.campmobile.snow/databases/voip.db-journal	
+33.126870	[UN]	/data/com.campmobile.snow/databases/2eqbm8myjbpq0b3e6gvbo64ib.db	
+33.126928	[UN]	/data/com.campmobile.snow/databases/2eqbm8myjbpq0b3e6gvbo64ib.db-journal	
+33.127119	[RD]	/data/com.campmobile.snow/databases	
+33.127281	[UN]	/data/com.campmobile.snow/no_backup/com.google.android.gms.appid-no-backup	
+33.127389	[RD]	/data/com.campmobile.snow/no_backup	
+33.127555	[RD]	/data/com.campmobile.snow	
+33.541434	[RN]	/system/users/0/runtime-permissions.xml	/system/users/0/runtime-permissions.xml.bak	
+33.542169	[CR]	/system/users/0/runtime-permissions.xml	
+33.551228	[WA]	/system/users/0/runtime-permissions.xml	0	8192	0	
+33.562123	[WA]	/system/users/0/runtime-permissions.xml	8192	7406	8192	
+33.562289	[FS]	/system/users/0/runtime-permissions.xml	0	
+33.583972	[UN]	/system/users/0/runtime-permissions.xml.bak	
+33.648111	[UN]	/app/com.campmobile.snow-2/base.apk	
+33.648301	[UN]	/app/com.campmobile.snow-2/lib/arm/libopencv_java3.so	
+33.660851	[UN]	/app/com.campmobile.snow-2/lib/arm/libSnowBinaryParser.so	
+33.661195	[UN]	/app/com.campmobile.snow-2/lib/arm/libSnowEngine.so	
+33.661619	[UN]	/app/com.campmobile.snow-2/lib/arm/libswresample-2.so	
+33.661866	[UN]	/app/com.campmobile.snow-2/lib/arm/libffmpeg-encoder.so	
+33.662141	[UN]	/app/com.campmobile.snow-2/lib/arm/libjnidispatch.so	
+33.662388	[UN]	/app/com.campmobile.snow-2/lib/arm/libc++_shared.so	
+33.663549	[UN]	/app/com.campmobile.snow-2/lib/arm/libffmpeg-runner.so	
+33.664086	[UN]	/app/com.campmobile.snow-2/lib/arm/libavcodec-57.so	
+33.680436	[UN]	/app/com.campmobile.snow-2/lib/arm/libffmpegencoder.so	
+33.680714	[UN]	/app/com.campmobile.snow-2/lib/arm/libandromeda-effect.so	
+33.681084	[UN]	/app/com.campmobile.snow-2/lib/arm/libsnow_common.so	
+33.681216	[UN]	/app/com.campmobile.snow-2/lib/arm/libpostproc-54.so	
+33.681576	[UN]	/app/com.campmobile.snow-2/lib/arm/libyuv-jni.so	
+33.681741	[UN]	/app/com.campmobile.snow-2/lib/arm/libVidChaser.so	
+33.686965	[UN]	/app/com.campmobile.snow-2/lib/arm/liboutput-texture-library.so	
+33.687274	[UN]	/app/com.campmobile.snow-2/lib/arm/libgpuimage-library.so	
+33.687423	[UN]	/app/com.campmobile.snow-2/lib/arm/libstateMachine.so	
+33.687834	[UN]	/app/com.campmobile.snow-2/lib/arm/libnalbi-segment.so	
+33.688204	[UN]	/app/com.campmobile.snow-2/lib/arm/libtype_caster.so	
+33.688382	[UN]	/app/com.campmobile.snow-2/lib/arm/libst_mobile.so	
+33.693207	[UN]	/app/com.campmobile.snow-2/lib/arm/libdetection_based_tracker.so	
+33.693459	[UN]	/app/com.campmobile.snow-2/lib/arm/libLive2DLoader.so	
+33.694153	[UN]	/app/com.campmobile.snow-2/lib/arm/libcutils.so	
+33.694454	[UN]	/app/com.campmobile.snow-2/lib/arm/libnalbi-jni.so	
+33.694758	[UN]	/app/com.campmobile.snow-2/lib/arm/libavformat-57.so	
+33.697826	[UN]	/app/com.campmobile.snow-2/lib/arm/libline-sdk-encryption.so	
+33.697994	[UN]	/app/com.campmobile.snow-2/lib/arm/libswscale-4.so	
+33.698594	[UN]	/app/com.campmobile.snow-2/lib/arm/libavdevice-57.so	
+33.698904	[UN]	/app/com.campmobile.snow-2/lib/arm/libstlport_shared.so	
+33.699526	[UN]	/app/com.campmobile.snow-2/lib/arm/liboutputtexture.so	
+33.699849	[UN]	/app/com.campmobile.snow-2/lib/arm/libavutil-55.so	
+33.700523	[UN]	/app/com.campmobile.snow-2/lib/arm/libAlcheraLib.so	
+33.700832	[UN]	/app/com.campmobile.snow-2/lib/arm/libamp.so	
+33.706414	[UN]	/app/com.campmobile.snow-2/lib/arm/libavresample-3.so	
+33.706673	[UN]	/app/com.campmobile.snow-2/lib/arm/librsjni.so	
+33.706894	[UN]	/app/com.campmobile.snow-2/lib/arm/libui.so	
+33.707132	[UN]	/app/com.campmobile.snow-2/lib/arm/libalFITLib.so	
+33.718189	[UN]	/app/com.campmobile.snow-2/lib/arm/libparfait-lib.so	
+33.719655	[UN]	/app/com.campmobile.snow-2/lib/arm/libkuru.so	
+33.726928	[UN]	/app/com.campmobile.snow-2/lib/arm/libavfilter-6.so	
+33.729557	[UN]	/app/com.campmobile.snow-2/lib/arm/libMaxstAR.so	
+33.733035	[UN]	/app/com.campmobile.snow-2/lib/arm/libRSSupport.so	
+33.734641	[UN]	/app/com.campmobile.snow-2/lib/arm/libyuv.so	
+33.735104	[UN]	/app/com.campmobile.snow-2/lib/arm/libSnowKuruLib.so	
+33.735422	[UN]	/app/com.campmobile.snow-2/lib/arm/librealm-jni.so	
+33.737832	[UN]	/app/com.campmobile.snow-2/lib/arm/libpl_droidsonroids_gif.so	
+33.738004	[UN]	/app/com.campmobile.snow-2/lib/arm/lib7z.so	
+33.740418	[RD]	/app/com.campmobile.snow-2/lib/arm	
+33.740808	[RD]	/app/com.campmobile.snow-2/lib	
+33.741044	[UN]	/app/com.campmobile.snow-2/oat/arm/base.odex	
+33.829303	[RD]	/app/com.campmobile.snow-2/oat/arm	
+33.829469	[RD]	/app/com.campmobile.snow-2/oat	
+33.829618	[RD]	/app/com.campmobile.snow-2	
+33.953365	[CR]	/system/recent_images/5_task_thumbnail.png	
+33.953624	[WA]	/system/recent_images/5_task_thumbnail.png	0	8	0	
+33.956750	[WA]	/system/recent_images/5_task_thumbnail.png	8	8	8	
+33.958719	[WA]	/system/recent_images/5_task_thumbnail.png	16	13	16	
+33.958953	[WA]	/system/recent_images/5_task_thumbnail.png	29	4	29	
+33.959073	[WA]	/system/recent_images/5_task_thumbnail.png	33	8	33	
+33.959136	[WA]	/system/recent_images/5_task_thumbnail.png	41	4	41	
+33.959195	[WA]	/system/recent_images/5_task_thumbnail.png	45	4	45	
+34.058222	[WA]	/system/recent_images/5_task_thumbnail.png	49	8	49	
+34.058332	[WA]	/system/recent_images/5_task_thumbnail.png	57	4096	57	
+34.058436	[WA]	/system/recent_images/5_task_thumbnail.png	4153	4096	4153	
+34.058565	[WA]	/system/recent_images/5_task_thumbnail.png	8249	4	8249	
+34.097287	[RN]	/system/netpolicy.xml	/system/netpolicy.xml.bak	
+34.097687	[CR]	/system/netpolicy.xml	
+34.106767	[WA]	/system/netpolicy.xml	0	113	0	
+34.106912	[FS]	/system/netpolicy.xml	0	
+34.112892	[UN]	/system/netpolicy.xml.bak	
+34.129498	[WA]	/system/recent_images/5_task_thumbnail.png	8253	8	8253	
+34.129613	[WA]	/system/recent_images/5_task_thumbnail.png	8261	4096	8261	
+34.129718	[WA]	/system/recent_images/5_task_thumbnail.png	12357	4096	12357	
+34.129851	[WA]	/system/recent_images/5_task_thumbnail.png	16453	4	16453	
+34.130101	[WA]	/system/recent_images/5_task_thumbnail.png	16457	8	16457	
+34.130162	[WA]	/system/recent_images/5_task_thumbnail.png	16465	4096	16465	
+34.130251	[WA]	/system/recent_images/5_task_thumbnail.png	20561	4096	20561	
+34.130375	[WA]	/system/recent_images/5_task_thumbnail.png	24657	4	24657	
+34.136188	[RN]	/system/netstats/uid.1507300282106-	/system/netstats/uid.1507300282106-.backup	
+34.136422	[CR]	/system/netstats/uid.1507300282106-	
+34.139535	[WA]	/system/netstats/uid.1507300282106-	0	8189	0	
+34.141679	[WA]	/system/netstats/uid.1507300282106-	8189	8192	8189	
+34.143010	[WA]	/system/netstats/uid.1507300282106-	16381	5297	16381	
+34.143135	[FS]	/system/netstats/uid.1507300282106-	0	
+34.155872	[UN]	/system/netstats/uid.1507300282106-.backup	
+34.171796	[RN]	/system/netstats/uid_tag.1507783616261-	/system/netstats/uid_tag.1507783616261-.backup	
+34.172034	[CR]	/system/netstats/uid_tag.1507783616261-	
+34.175964	[WA]	/system/netstats/uid_tag.1507783616261-	0	8190	0	
+34.177464	[WA]	/system/netstats/uid_tag.1507783616261-	8190	4892	8190	
+34.177603	[FS]	/system/netstats/uid_tag.1507783616261-	0	
+34.203490	[UN]	/system/netstats/uid_tag.1507783616261-.backup	
+34.240143	[WA]	/system/recent_images/5_task_thumbnail.png	24661	8	24661	
+34.240245	[WA]	/system/recent_images/5_task_thumbnail.png	24669	4096	24669	
+34.240338	[WA]	/system/recent_images/5_task_thumbnail.png	28765	4096	28765	
+34.240451	[WA]	/system/recent_images/5_task_thumbnail.png	32861	4	32861	
+34.240666	[WA]	/system/recent_images/5_task_thumbnail.png	32865	8	32865	
+34.240720	[WA]	/system/recent_images/5_task_thumbnail.png	32873	4096	32873	
+34.240800	[WA]	/system/recent_images/5_task_thumbnail.png	36969	4096	36969	
+34.241050	[WA]	/system/recent_images/5_task_thumbnail.png	41065	4	41065	
+34.282179	[RN]	/system/netstats/uid.1507300282106-	/system/netstats/uid.1507300282106-.backup	
+34.282477	[CR]	/system/netstats/uid.1507300282106-	
+34.284992	[WA]	/system/netstats/uid.1507300282106-	0	8189	0	
+34.289215	[WA]	/system/netstats/uid.1507300282106-	8189	8192	8189	
+34.291663	[WA]	/system/netstats/uid.1507300282106-	16381	5162	16381	
+34.291813	[FS]	/system/netstats/uid.1507300282106-	0	
+34.307702	[UN]	/system/netstats/uid.1507300282106-.backup	
+34.330423	[WA]	/system/recent_images/5_task_thumbnail.png	41069	8	41069	
+34.330524	[WA]	/system/recent_images/5_task_thumbnail.png	41077	4096	41077	
+34.330616	[WA]	/system/recent_images/5_task_thumbnail.png	45173	4096	45173	
+34.330729	[WA]	/system/recent_images/5_task_thumbnail.png	49269	4	49269	
+34.487825	[WA]	/system/recent_images/5_task_thumbnail.png	49273	8	49273	
+34.488112	[WA]	/system/recent_images/5_task_thumbnail.png	49281	4096	49281	
+34.488205	[WA]	/system/recent_images/5_task_thumbnail.png	53377	4096	53377	
+34.488319	[WA]	/system/recent_images/5_task_thumbnail.png	57473	4	57473	
+34.488538	[WA]	/system/recent_images/5_task_thumbnail.png	57477	8	57477	
+34.488593	[WA]	/system/recent_images/5_task_thumbnail.png	57485	4096	57485	
+34.488674	[WA]	/system/recent_images/5_task_thumbnail.png	61581	4096	61581	
+34.488791	[WA]	/system/recent_images/5_task_thumbnail.png	65677	4	65677	
+34.627686	[WA]	/system/recent_images/5_task_thumbnail.png	65681	8	65681	
+34.633777	[WA]	/system/recent_images/5_task_thumbnail.png	65689	4096	65689	
+34.633899	[WA]	/system/recent_images/5_task_thumbnail.png	69785	4096	69785	
+34.634016	[WA]	/system/recent_images/5_task_thumbnail.png	73881	4	73881	
+34.634234	[WA]	/system/recent_images/5_task_thumbnail.png	73885	8	73885	
+34.634290	[WA]	/system/recent_images/5_task_thumbnail.png	73893	4096	73893	
+34.634373	[WA]	/system/recent_images/5_task_thumbnail.png	77989	4096	77989	
+34.634482	[WA]	/system/recent_images/5_task_thumbnail.png	82085	4	82085	
+34.722961	[WA]	/system/recent_images/5_task_thumbnail.png	82089	8	82089	
+34.723220	[WA]	/system/recent_images/5_task_thumbnail.png	82097	4096	82097	
+34.723312	[WA]	/system/recent_images/5_task_thumbnail.png	86193	4096	86193	
+34.723431	[WA]	/system/recent_images/5_task_thumbnail.png	90289	4	90289	
+35.016470	[WA]	/system/recent_images/5_task_thumbnail.png	90293	8	90293	
+35.016634	[WA]	/system/recent_images/5_task_thumbnail.png	90301	4096	90301	
+35.016734	[WA]	/system/recent_images/5_task_thumbnail.png	94397	4096	94397	
+35.016849	[WA]	/system/recent_images/5_task_thumbnail.png	98493	4	98493	
+35.016907	[WA]	/system/recent_images/5_task_thumbnail.png	98497	8	98497	
+35.016960	[WA]	/system/recent_images/5_task_thumbnail.png	98505	4096	98505	
+35.017041	[WA]	/system/recent_images/5_task_thumbnail.png	102601	4096	102601	
+35.017152	[WA]	/system/recent_images/5_task_thumbnail.png	106697	4	106697	
+35.017208	[WA]	/system/recent_images/5_task_thumbnail.png	106701	8	106701	
+35.017262	[WA]	/system/recent_images/5_task_thumbnail.png	106709	4096	106709	
+35.017341	[WA]	/system/recent_images/5_task_thumbnail.png	110805	4096	110805	
+35.017449	[WA]	/system/recent_images/5_task_thumbnail.png	114901	4	114901	
+35.017504	[WA]	/system/recent_images/5_task_thumbnail.png	114905	8	114905	
+35.017556	[WA]	/system/recent_images/5_task_thumbnail.png	114913	4096	114913	
+35.017637	[WA]	/system/recent_images/5_task_thumbnail.png	119009	4096	119009	
+35.017744	[WA]	/system/recent_images/5_task_thumbnail.png	123105	4	123105	
+35.256844	[WA]	/system/recent_images/5_task_thumbnail.png	123109	8	123109	
+35.256948	[WA]	/system/recent_images/5_task_thumbnail.png	123117	4096	123117	
+35.257044	[WA]	/system/recent_images/5_task_thumbnail.png	127213	4096	127213	
+35.257160	[WA]	/system/recent_images/5_task_thumbnail.png	131309	4	131309	
+35.257336	[WA]	/system/recent_images/5_task_thumbnail.png	131313	8	131313	
+35.257390	[WA]	/system/recent_images/5_task_thumbnail.png	131321	4096	131321	
+35.257473	[WA]	/system/recent_images/5_task_thumbnail.png	135417	4096	135417	
+35.257584	[WA]	/system/recent_images/5_task_thumbnail.png	139513	4	139513	
+35.257640	[WA]	/system/recent_images/5_task_thumbnail.png	139517	8	139517	
+35.257694	[WA]	/system/recent_images/5_task_thumbnail.png	139525	4096	139525	
+35.257772	[WA]	/system/recent_images/5_task_thumbnail.png	143621	4096	143621	
+35.257882	[WA]	/system/recent_images/5_task_thumbnail.png	147717	4	147717	
+35.257938	[WA]	/system/recent_images/5_task_thumbnail.png	147721	8	147721	
+35.257991	[WA]	/system/recent_images/5_task_thumbnail.png	147729	4096	147729	
+35.258070	[WA]	/system/recent_images/5_task_thumbnail.png	151825	4096	151825	
+35.258176	[WA]	/system/recent_images/5_task_thumbnail.png	155921	4	155921	
+35.321993	[WA]	/system/recent_images/5_task_thumbnail.png	155925	8	155925	
+35.322096	[WA]	/system/recent_images/5_task_thumbnail.png	155933	4096	155933	
+35.322191	[WA]	/system/recent_images/5_task_thumbnail.png	160029	4096	160029	
+35.322317	[WA]	/system/recent_images/5_task_thumbnail.png	164125	4	164125	
+35.322373	[WA]	/system/recent_images/5_task_thumbnail.png	164129	8	164129	
+35.322426	[WA]	/system/recent_images/5_task_thumbnail.png	164137	4096	164137	
+35.322508	[WA]	/system/recent_images/5_task_thumbnail.png	168233	1212	168233	
+35.322579	[WA]	/system/recent_images/5_task_thumbnail.png	169445	4	169445	
+35.322633	[WA]	/system/recent_images/5_task_thumbnail.png	169449	8	169449	
+35.322685	[WA]	/system/recent_images/5_task_thumbnail.png	169457	4	169457	
+35.339811	[UN]	/system/recent_tasks/4_task.xml	
+35.340819	[UN]	/system/recent_images/4_task_thumbnail.png	
+33.118126	[UN]	/dalvik-cache/profiles/com.campmobile.snow	
+33.120768	[UN]	/data/com.campmobile.snow/lib	
+33.120966	[RD]	/data/com.campmobile.snow/cache	
+33.121184	[RD]	/data/com.campmobile.snow/code_cache	
+33.121421	[UN]	/data/com.campmobile.snow/files/.realm.temp/3682036481_realm.note	
+33.121551	[RD]	/data/com.campmobile.snow/files/.realm.temp	
+33.121743	[UN]	/data/com.campmobile.snow/files/snow.realm.management/access_control.write.mx	
+33.121840	[UN]	/data/com.campmobile.snow/files/snow.realm.management/access_control.control.mx	
+33.121932	[UN]	/data/com.campmobile.snow/files/snow.realm.management/access_control.new_commit.cv	
+33.122022	[UN]	/data/com.campmobile.snow/files/snow.realm.management/access_control.pick_writer.cv	
+33.122123	[RD]	/data/com.campmobile.snow/files/snow.realm.management	
+33.122269	[UN]	/data/com.campmobile.snow/files/snow.realm.lock	
+33.122428	[UN]	/data/com.campmobile.snow/files/snow.realm	
+33.122645	[UN]	/data/com.campmobile.snow/files/nelo2_install.id	
+33.122790	[UN]	/data/com.campmobile.snow/files/nelo2_app_version_snow-android.id	
+33.123053	[RD]	/data/com.campmobile.snow/files/SNOW/process_temp	
+33.123259	[RD]	/data/com.campmobile.snow/files/SNOW/etc	
+33.123452	[RD]	/data/com.campmobile.snow/files/SNOW/profiles	
+33.123648	[RD]	/data/com.campmobile.snow/files/SNOW/lives	
+33.123847	[RD]	/data/com.campmobile.snow/files/SNOW/last_lives	
+33.124043	[RD]	/data/com.campmobile.snow/files/SNOW/deco_sticker	
+33.124193	[RD]	/data/com.campmobile.snow/files/SNOW	
+33.124356	[UN]	/data/com.campmobile.snow/files/72d629ed317c5a266e2db9a7beb1e2b9.1_0.nelolog	
+33.124427	[RD]	/data/com.campmobile.snow/files	
+33.124672	[UN]	/data/com.campmobile.snow/shared_prefs/com.facebook.internal.preferences.APP_SETTINGS.xml	
+33.124874	[UN]	/data/com.campmobile.snow/shared_prefs/common_info.xml	
+33.125019	[UN]	/data/com.campmobile.snow/shared_prefs/com.campmobile.snow_preferences.xml	
+33.125162	[UN]	/data/com.campmobile.snow/shared_prefs/appsflyer-data.xml	
+33.125294	[UN]	/data/com.campmobile.snow/shared_prefs/com.facebook.sdk.appEventPreferences.xml	
+33.125435	[UN]	/data/com.campmobile.snow/shared_prefs/com.facebook.sdk.attributionTracking.xml	
+33.125582	[UN]	/data/com.campmobile.snow/shared_prefs/com.google.android.gms.appid.xml	
+33.125714	[UN]	/data/com.campmobile.snow/shared_prefs/my_info.xml	
+33.125853	[UN]	/data/com.campmobile.snow/shared_prefs/livecast.xml	
+33.126011	[RD]	/data/com.campmobile.snow/shared_prefs	
+33.126368	[UN]	/data/com.campmobile.snow/databases/snow_app.db	
+33.126427	[UN]	/data/com.campmobile.snow/databases/snow_app.db-journal	
+33.126638	[UN]	/data/com.campmobile.snow/databases/voip.db	
+33.126692	[UN]	/data/com.campmobile.snow/databases/voip.db-journal	
+33.126870	[UN]	/data/com.campmobile.snow/databases/2eqbm8myjbpq0b3e6gvbo64ib.db	
+33.126928	[UN]	/data/com.campmobile.snow/databases/2eqbm8myjbpq0b3e6gvbo64ib.db-journal	
+33.127119	[RD]	/data/com.campmobile.snow/databases	
+33.127281	[UN]	/data/com.campmobile.snow/no_backup/com.google.android.gms.appid-no-backup	
+33.127389	[RD]	/data/com.campmobile.snow/no_backup	
+33.127555	[RD]	/data/com.campmobile.snow	
+33.541434	[RN]	/system/users/0/runtime-permissions.xml	/system/users/0/runtime-permissions.xml.bak	
+33.542169	[CR]	/system/users/0/runtime-permissions.xml	
+33.551228	[WA]	/system/users/0/runtime-permissions.xml	0	8192	0	
+33.562123	[WA]	/system/users/0/runtime-permissions.xml	8192	7406	8192	
+33.562289	[FS]	/system/users/0/runtime-permissions.xml	0	
+33.583972	[UN]	/system/users/0/runtime-permissions.xml.bak	
+33.648111	[UN]	/app/com.campmobile.snow-2/base.apk	
+33.648301	[UN]	/app/com.campmobile.snow-2/lib/arm/libopencv_java3.so	
+33.660851	[UN]	/app/com.campmobile.snow-2/lib/arm/libSnowBinaryParser.so	
+33.661195	[UN]	/app/com.campmobile.snow-2/lib/arm/libSnowEngine.so	
+33.661619	[UN]	/app/com.campmobile.snow-2/lib/arm/libswresample-2.so	
+33.661866	[UN]	/app/com.campmobile.snow-2/lib/arm/libffmpeg-encoder.so	
+33.662141	[UN]	/app/com.campmobile.snow-2/lib/arm/libjnidispatch.so	
+33.662388	[UN]	/app/com.campmobile.snow-2/lib/arm/libc++_shared.so	
+33.663549	[UN]	/app/com.campmobile.snow-2/lib/arm/libffmpeg-runner.so	
+33.664086	[UN]	/app/com.campmobile.snow-2/lib/arm/libavcodec-57.so	
+33.680436	[UN]	/app/com.campmobile.snow-2/lib/arm/libffmpegencoder.so	
+33.680714	[UN]	/app/com.campmobile.snow-2/lib/arm/libandromeda-effect.so	
+33.681084	[UN]	/app/com.campmobile.snow-2/lib/arm/libsnow_common.so	
+33.681216	[UN]	/app/com.campmobile.snow-2/lib/arm/libpostproc-54.so	
+33.681576	[UN]	/app/com.campmobile.snow-2/lib/arm/libyuv-jni.so	
+33.681741	[UN]	/app/com.campmobile.snow-2/lib/arm/libVidChaser.so	
+33.686965	[UN]	/app/com.campmobile.snow-2/lib/arm/liboutput-texture-library.so	
+33.687274	[UN]	/app/com.campmobile.snow-2/lib/arm/libgpuimage-library.so	
+33.687423	[UN]	/app/com.campmobile.snow-2/lib/arm/libstateMachine.so	
+33.687834	[UN]	/app/com.campmobile.snow-2/lib/arm/libnalbi-segment.so	
+33.688204	[UN]	/app/com.campmobile.snow-2/lib/arm/libtype_caster.so	
+33.688382	[UN]	/app/com.campmobile.snow-2/lib/arm/libst_mobile.so	
+33.693207	[UN]	/app/com.campmobile.snow-2/lib/arm/libdetection_based_tracker.so	
+33.693459	[UN]	/app/com.campmobile.snow-2/lib/arm/libLive2DLoader.so	
+33.694153	[UN]	/app/com.campmobile.snow-2/lib/arm/libcutils.so	
+33.694454	[UN]	/app/com.campmobile.snow-2/lib/arm/libnalbi-jni.so	
+33.694758	[UN]	/app/com.campmobile.snow-2/lib/arm/libavformat-57.so	
+33.697826	[UN]	/app/com.campmobile.snow-2/lib/arm/libline-sdk-encryption.so	
+33.697994	[UN]	/app/com.campmobile.snow-2/lib/arm/libswscale-4.so	
+33.698594	[UN]	/app/com.campmobile.snow-2/lib/arm/libavdevice-57.so	
+33.698904	[UN]	/app/com.campmobile.snow-2/lib/arm/libstlport_shared.so	
+33.699526	[UN]	/app/com.campmobile.snow-2/lib/arm/liboutputtexture.so	
+33.699849	[UN]	/app/com.campmobile.snow-2/lib/arm/libavutil-55.so	
+33.700523	[UN]	/app/com.campmobile.snow-2/lib/arm/libAlcheraLib.so	
+33.700832	[UN]	/app/com.campmobile.snow-2/lib/arm/libamp.so	
+33.706414	[UN]	/app/com.campmobile.snow-2/lib/arm/libavresample-3.so	
+33.706673	[UN]	/app/com.campmobile.snow-2/lib/arm/librsjni.so	
+33.706894	[UN]	/app/com.campmobile.snow-2/lib/arm/libui.so	
+33.707132	[UN]	/app/com.campmobile.snow-2/lib/arm/libalFITLib.so	
+33.718189	[UN]	/app/com.campmobile.snow-2/lib/arm/libparfait-lib.so	
+33.719655	[UN]	/app/com.campmobile.snow-2/lib/arm/libkuru.so	
+33.726928	[UN]	/app/com.campmobile.snow-2/lib/arm/libavfilter-6.so	
+33.729557	[UN]	/app/com.campmobile.snow-2/lib/arm/libMaxstAR.so	
+33.733035	[UN]	/app/com.campmobile.snow-2/lib/arm/libRSSupport.so	
+33.734641	[UN]	/app/com.campmobile.snow-2/lib/arm/libyuv.so	
+33.735104	[UN]	/app/com.campmobile.snow-2/lib/arm/libSnowKuruLib.so	
+33.735422	[UN]	/app/com.campmobile.snow-2/lib/arm/librealm-jni.so	
+33.737832	[UN]	/app/com.campmobile.snow-2/lib/arm/libpl_droidsonroids_gif.so	
+33.738004	[UN]	/app/com.campmobile.snow-2/lib/arm/lib7z.so	
+33.740418	[RD]	/app/com.campmobile.snow-2/lib/arm	
+33.740808	[RD]	/app/com.campmobile.snow-2/lib	
+33.741044	[UN]	/app/com.campmobile.snow-2/oat/arm/base.odex	
+33.829303	[RD]	/app/com.campmobile.snow-2/oat/arm	
+33.829469	[RD]	/app/com.campmobile.snow-2/oat	
+33.829618	[RD]	/app/com.campmobile.snow-2	
+33.953365	[CR]	/system/recent_images/5_task_thumbnail.png	
+33.953624	[WA]	/system/recent_images/5_task_thumbnail.png	0	8	0	
+33.956750	[WA]	/system/recent_images/5_task_thumbnail.png	8	8	8	
+33.958719	[WA]	/system/recent_images/5_task_thumbnail.png	16	13	16	
+33.958953	[WA]	/system/recent_images/5_task_thumbnail.png	29	4	29	
+33.959073	[WA]	/system/recent_images/5_task_thumbnail.png	33	8	33	
+33.959136	[WA]	/system/recent_images/5_task_thumbnail.png	41	4	41	
+33.959195	[WA]	/system/recent_images/5_task_thumbnail.png	45	4	45	
+34.058222	[WA]	/system/recent_images/5_task_thumbnail.png	49	8	49	
+34.058332	[WA]	/system/recent_images/5_task_thumbnail.png	57	4096	57	
+34.058436	[WA]	/system/recent_images/5_task_thumbnail.png	4153	4096	4153	
+34.058565	[WA]	/system/recent_images/5_task_thumbnail.png	8249	4	8249	
+34.097287	[RN]	/system/netpolicy.xml	/system/netpolicy.xml.bak	
+34.097687	[CR]	/system/netpolicy.xml	
+34.106767	[WA]	/system/netpolicy.xml	0	113	0	
+34.106912	[FS]	/system/netpolicy.xml	0	
+34.112892	[UN]	/system/netpolicy.xml.bak	
+34.129498	[WA]	/system/recent_images/5_task_thumbnail.png	8253	8	8253	
+34.129613	[WA]	/system/recent_images/5_task_thumbnail.png	8261	4096	8261	
+34.129718	[WA]	/system/recent_images/5_task_thumbnail.png	12357	4096	12357	
+34.129851	[WA]	/system/recent_images/5_task_thumbnail.png	16453	4	16453	
+34.130101	[WA]	/system/recent_images/5_task_thumbnail.png	16457	8	16457	
+34.130162	[WA]	/system/recent_images/5_task_thumbnail.png	16465	4096	16465	
+34.130251	[WA]	/system/recent_images/5_task_thumbnail.png	20561	4096	20561	
+34.130375	[WA]	/system/recent_images/5_task_thumbnail.png	24657	4	24657	
+34.136188	[RN]	/system/netstats/uid.1507300282106-	/system/netstats/uid.1507300282106-.backup	
+34.136422	[CR]	/system/netstats/uid.1507300282106-	
+34.139535	[WA]	/system/netstats/uid.1507300282106-	0	8189	0	
+34.141679	[WA]	/system/netstats/uid.1507300282106-	8189	8192	8189	
+34.143010	[WA]	/system/netstats/uid.1507300282106-	16381	5297	16381	
+34.143135	[FS]	/system/netstats/uid.1507300282106-	0	
+34.155872	[UN]	/system/netstats/uid.1507300282106-.backup	
+34.171796	[RN]	/system/netstats/uid_tag.1507783616261-	/system/netstats/uid_tag.1507783616261-.backup	
+34.172034	[CR]	/system/netstats/uid_tag.1507783616261-	
+34.175964	[WA]	/system/netstats/uid_tag.1507783616261-	0	8190	0	
+34.177464	[WA]	/system/netstats/uid_tag.1507783616261-	8190	4892	8190	
+34.177603	[FS]	/system/netstats/uid_tag.1507783616261-	0	
+34.203490	[UN]	/system/netstats/uid_tag.1507783616261-.backup	
+34.240143	[WA]	/system/recent_images/5_task_thumbnail.png	24661	8	24661	
+34.240245	[WA]	/system/recent_images/5_task_thumbnail.png	24669	4096	24669	
+34.240338	[WA]	/system/recent_images/5_task_thumbnail.png	28765	4096	28765	
+34.240451	[WA]	/system/recent_images/5_task_thumbnail.png	32861	4	32861	
+34.240666	[WA]	/system/recent_images/5_task_thumbnail.png	32865	8	32865	
+34.240720	[WA]	/system/recent_images/5_task_thumbnail.png	32873	4096	32873	
+34.240800	[WA]	/system/recent_images/5_task_thumbnail.png	36969	4096	36969	
+34.241050	[WA]	/system/recent_images/5_task_thumbnail.png	41065	4	41065	
+34.282179	[RN]	/system/netstats/uid.1507300282106-	/system/netstats/uid.1507300282106-.backup	
+34.282477	[CR]	/system/netstats/uid.1507300282106-	
+34.284992	[WA]	/system/netstats/uid.1507300282106-	0	8189	0	
+34.289215	[WA]	/system/netstats/uid.1507300282106-	8189	8192	8189	
+34.291663	[WA]	/system/netstats/uid.1507300282106-	16381	5162	16381	
+34.291813	[FS]	/system/netstats/uid.1507300282106-	0	
+34.307702	[UN]	/system/netstats/uid.1507300282106-.backup	
+34.330423	[WA]	/system/recent_images/5_task_thumbnail.png	41069	8	41069	
+34.330524	[WA]	/system/recent_images/5_task_thumbnail.png	41077	4096	41077	
+34.330616	[WA]	/system/recent_images/5_task_thumbnail.png	45173	4096	45173	
+34.330729	[WA]	/system/recent_images/5_task_thumbnail.png	49269	4	49269	
+34.487825	[WA]	/system/recent_images/5_task_thumbnail.png	49273	8	49273	
+34.488112	[WA]	/system/recent_images/5_task_thumbnail.png	49281	4096	49281	
+34.488205	[WA]	/system/recent_images/5_task_thumbnail.png	53377	4096	53377	
+34.488319	[WA]	/system/recent_images/5_task_thumbnail.png	57473	4	57473	
+34.488538	[WA]	/system/recent_images/5_task_thumbnail.png	57477	8	57477	
+34.488593	[WA]	/system/recent_images/5_task_thumbnail.png	57485	4096	57485	
+34.488674	[WA]	/system/recent_images/5_task_thumbnail.png	61581	4096	61581	
+34.488791	[WA]	/system/recent_images/5_task_thumbnail.png	65677	4	65677	
+34.627686	[WA]	/system/recent_images/5_task_thumbnail.png	65681	8	65681	
+34.633777	[WA]	/system/recent_images/5_task_thumbnail.png	65689	4096	65689	
+34.633899	[WA]	/system/recent_images/5_task_thumbnail.png	69785	4096	69785	
+34.634016	[WA]	/system/recent_images/5_task_thumbnail.png	73881	4	73881	
+34.634234	[WA]	/system/recent_images/5_task_thumbnail.png	73885	8	73885	
+34.634290	[WA]	/system/recent_images/5_task_thumbnail.png	73893	4096	73893	
+34.634373	[WA]	/system/recent_images/5_task_thumbnail.png	77989	4096	77989	
+34.634482	[WA]	/system/recent_images/5_task_thumbnail.png	82085	4	82085	
+34.722961	[WA]	/system/recent_images/5_task_thumbnail.png	82089	8	82089	
+34.723220	[WA]	/system/recent_images/5_task_thumbnail.png	82097	4096	82097	
+34.723312	[WA]	/system/recent_images/5_task_thumbnail.png	86193	4096	86193	
+34.723431	[WA]	/system/recent_images/5_task_thumbnail.png	90289	4	90289	
+35.016470	[WA]	/system/recent_images/5_task_thumbnail.png	90293	8	90293	
+35.016634	[WA]	/system/recent_images/5_task_thumbnail.png	90301	4096	90301	
+35.016734	[WA]	/system/recent_images/5_task_thumbnail.png	94397	4096	94397	
+35.016849	[WA]	/system/recent_images/5_task_thumbnail.png	98493	4	98493	
+35.016907	[WA]	/system/recent_images/5_task_thumbnail.png	98497	8	98497	
+35.016960	[WA]	/system/recent_images/5_task_thumbnail.png	98505	4096	98505	
+35.017041	[WA]	/system/recent_images/5_task_thumbnail.png	102601	4096	102601	
+35.017152	[WA]	/system/recent_images/5_task_thumbnail.png	106697	4	106697	
+35.017208	[WA]	/system/recent_images/5_task_thumbnail.png	106701	8	106701	
+35.017262	[WA]	/system/recent_images/5_task_thumbnail.png	106709	4096	106709	
+35.017341	[WA]	/system/recent_images/5_task_thumbnail.png	110805	4096	110805	
+35.017449	[WA]	/system/recent_images/5_task_thumbnail.png	114901	4	114901	
+35.017504	[WA]	/system/recent_images/5_task_thumbnail.png	114905	8	114905	
+35.017556	[WA]	/system/recent_images/5_task_thumbnail.png	114913	4096	114913	
+35.017637	[WA]	/system/recent_images/5_task_thumbnail.png	119009	4096	119009	
+35.017744	[WA]	/system/recent_images/5_task_thumbnail.png	123105	4	123105	
+35.256844	[WA]	/system/recent_images/5_task_thumbnail.png	123109	8	123109	
+35.256948	[WA]	/system/recent_images/5_task_thumbnail.png	123117	4096	123117	
+35.257044	[WA]	/system/recent_images/5_task_thumbnail.png	127213	4096	127213	
+35.257160	[WA]	/system/recent_images/5_task_thumbnail.png	131309	4	131309	
+35.257336	[WA]	/system/recent_images/5_task_thumbnail.png	131313	8	131313	
+35.257390	[WA]	/system/recent_images/5_task_thumbnail.png	131321	4096	131321	
+35.257473	[WA]	/system/recent_images/5_task_thumbnail.png	135417	4096	135417	
+35.257584	[WA]	/system/recent_images/5_task_thumbnail.png	139513	4	139513	
+35.257640	[WA]	/system/recent_images/5_task_thumbnail.png	139517	8	139517	
+35.257694	[WA]	/system/recent_images/5_task_thumbnail.png	139525	4096	139525	
+35.257772	[WA]	/system/recent_images/5_task_thumbnail.png	143621	4096	143621	
+35.257882	[WA]	/system/recent_images/5_task_thumbnail.png	147717	4	147717	
+35.257938	[WA]	/system/recent_images/5_task_thumbnail.png	147721	8	147721	
+35.257991	[WA]	/system/recent_images/5_task_thumbnail.png	147729	4096	147729	
+35.258070	[WA]	/system/recent_images/5_task_thumbnail.png	151825	4096	151825	
+35.258176	[WA]	/system/recent_images/5_task_thumbnail.png	155921	4	155921	
+35.321993	[WA]	/system/recent_images/5_task_thumbnail.png	155925	8	155925	
+35.322096	[WA]	/system/recent_images/5_task_thumbnail.png	155933	4096	155933	
+35.322191	[WA]	/system/recent_images/5_task_thumbnail.png	160029	4096	160029	
+35.322317	[WA]	/system/recent_images/5_task_thumbnail.png	164125	4	164125	
+35.322373	[WA]	/system/recent_images/5_task_thumbnail.png	164129	8	164129	
+35.322426	[WA]	/system/recent_images/5_task_thumbnail.png	164137	4096	164137	
+35.322508	[WA]	/system/recent_images/5_task_thumbnail.png	168233	1212	168233	
+35.322579	[WA]	/system/recent_images/5_task_thumbnail.png	169445	4	169445	
+35.322633	[WA]	/system/recent_images/5_task_thumbnail.png	169449	8	169449	
+35.322685	[WA]	/system/recent_images/5_task_thumbnail.png	169457	4	169457	
+35.339811	[UN]	/system/recent_tasks/4_task.xml	
+35.340819	[UN]	/system/recent_images/4_task_thumbnail.png	

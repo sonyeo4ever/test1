@@ -326,3 +326,659 @@
 51.356127	[WA]	/system/recent_images/5_task_thumbnail.png	24669	4096	24669	
 51.356221	[WA]	/system/recent_images/5_task_thumbnail.png	28765	4096	28765	
 51.356335	[WA]	/system/recent_images/5_task_thumbnail.png	32861	4	32861	
+1.892150	[WO]	/system/sync/pending.xml	0	322	278	
+1.892272	[FS]	/system/sync/pending.xml	0	
+2.070504	[WA]	/system/sync/pending.xml	0	657	0	
+2.070593	[FS]	/system/sync/pending.xml	0	
+2.356159	[RN]	/system/sync/accounts.xml	/system/sync/accounts.xml.bak	
+2.360255	[CR]	/system/sync/accounts.xml	
+2.361283	[WA]	/system/sync/accounts.xml	0	8185	0	
+2.361515	[WA]	/system/sync/accounts.xml	8185	1435	8185	
+2.361574	[FS]	/system/sync/accounts.xml	0	
+2.378356	[UN]	/system/sync/accounts.xml.bak	
+2.378671	[RN]	/system/sync/status.bin	/system/sync/status.bin.bak	
+2.378856	[CR]	/system/sync/status.bin	
+2.379367	[WA]	/system/sync/status.bin	0	3716	0	
+2.379446	[FS]	/system/sync/status.bin	0	
+2.389825	[UN]	/system/sync/status.bin.bak	
+2.394496	[WA]	/system/sync/pending.xml	0	681	0	
+2.394583	[FS]	/system/sync/pending.xml	0	
+2.638129	[RN]	/system/sync/accounts.xml	/system/sync/accounts.xml.bak	
+2.638336	[CR]	/system/sync/accounts.xml	
+2.639290	[WA]	/system/sync/accounts.xml	0	8185	0	
+2.639523	[WA]	/system/sync/accounts.xml	8185	1435	8185	
+2.639591	[FS]	/system/sync/accounts.xml	0	
+2.654761	[UN]	/system/sync/accounts.xml.bak	
+2.655065	[RN]	/system/sync/status.bin	/system/sync/status.bin.bak	
+2.655245	[CR]	/system/sync/status.bin	
+2.655747	[WA]	/system/sync/status.bin	0	3716	0	
+2.655822	[FS]	/system/sync/status.bin	0	
+2.672426	[UN]	/system/sync/status.bin.bak	
+3.528418	[FS]	/mediadrm/IDM1013/L1/cert.bin	0	
+3.739766	[RN]	/system/sync/accounts.xml	/system/sync/accounts.xml.bak	
+3.739975	[CR]	/system/sync/accounts.xml	
+3.741151	[WA]	/system/sync/accounts.xml	0	8185	0	
+3.741414	[WA]	/system/sync/accounts.xml	8185	1435	8185	
+3.741475	[FS]	/system/sync/accounts.xml	0	
+3.753219	[UN]	/system/sync/accounts.xml.bak	
+3.753542	[RN]	/system/sync/status.bin	/system/sync/status.bin.bak	
+3.753683	[CR]	/system/sync/status.bin	
+3.754407	[WA]	/system/sync/status.bin	0	3716	0	
+3.754488	[FS]	/system/sync/status.bin	0	
+3.764391	[UN]	/system/sync/status.bin.bak	
+3.975631	[FS]	/mediadrm/IDM1013/L1/cert.bin	0	
+4.171590	[RN]	/system/job/jobs.xml	/system/job/jobs.xml.bak	
+4.171782	[CR]	/system/job/jobs.xml	
+4.171876	[WA]	/system/job/jobs.xml	0	5486	0	
+4.171959	[FS]	/system/job/jobs.xml	0	
+4.183825	[UN]	/system/job/jobs.xml.bak	
+4.661420	[RN]	/system/sync/accounts.xml	/system/sync/accounts.xml.bak	
+4.661665	[CR]	/system/sync/accounts.xml	
+4.662893	[WA]	/system/sync/accounts.xml	0	8185	0	
+4.663236	[WA]	/system/sync/accounts.xml	8185	1435	8185	
+4.663334	[FS]	/system/sync/accounts.xml	0	
+4.678776	[UN]	/system/sync/accounts.xml.bak	
+4.679189	[RN]	/system/sync/status.bin	/system/sync/status.bin.bak	
+4.679443	[CR]	/system/sync/status.bin	
+4.680131	[WA]	/system/sync/status.bin	0	3716	0	
+4.680237	[FS]	/system/sync/status.bin	0	
+4.688349	[UN]	/system/sync/status.bin.bak	
+5.029428	[WO]	/system/notification_log.db-journal	0	512	49760	
+5.029498	[WO]	/system/notification_log.db-journal	512	4	49760	
+5.029517	[WO]	/system/notification_log.db-journal	516	4096	49760	
+5.029546	[WO]	/system/notification_log.db-journal	4612	4	49760	
+5.029577	[WO]	/system/notification_log.db-journal	4616	4	49760	
+5.029596	[WO]	/system/notification_log.db-journal	4620	4096	49760	
+5.029623	[WO]	/system/notification_log.db-journal	8716	4	49760	
+5.029671	[WO]	/system/notification_log.db-journal	8720	4	49760	
+5.029693	[WO]	/system/notification_log.db-journal	8724	4096	49760	
+5.029720	[WO]	/system/notification_log.db-journal	12820	4	49760	
+5.029746	[FS]	/system/notification_log.db-journal	1	
+5.042261	[FS]	/system	1	
+5.045523	[WO]	/system/notification_log.db-journal	0	12	49760	
+5.045581	[FS]	/system/notification_log.db-journal	1	
+5.049465	[WO]	/system/notification_log.db	0	4096	53248	
+5.049522	[WO]	/system/notification_log.db	16384	4096	53248	
+5.049550	[WO]	/system/notification_log.db	49152	4096	53248	
+5.049581	[FS]	/system/notification_log.db	1	
+5.055501	[WO]	/system/notification_log.db-journal	0	28	49760	
+5.056161	[FS]	/system/notification_log.db-journal	1	
+7.399551	[RN]	/system/job/jobs.xml	/system/job/jobs.xml.bak	
+7.399830	[CR]	/system/job/jobs.xml	
+7.399953	[WA]	/system/job/jobs.xml	0	5394	0	
+7.400117	[FS]	/system/job/jobs.xml	0	
+7.411914	[UN]	/system/job/jobs.xml.bak	
+7.512153	[RN]	/system/job/jobs.xml	/system/job/jobs.xml.bak	
+7.512414	[CR]	/system/job/jobs.xml	
+7.512579	[WA]	/system/job/jobs.xml	0	5721	0	
+7.512697	[FS]	/system/job/jobs.xml	0	
+7.523396	[UN]	/system/job/jobs.xml.bak	
+17.200282	[WO]	/system/users/0/accounts.db-journal	0	512	41552	
+17.200370	[WO]	/system/users/0/accounts.db-journal	512	4	41552	
+17.200390	[WO]	/system/users/0/accounts.db-journal	516	4096	41552	
+17.200889	[WO]	/system/users/0/accounts.db-journal	4612	4	41552	
+17.201140	[WO]	/system/users/0/accounts.db-journal	4616	4	41552	
+17.201165	[WO]	/system/users/0/accounts.db-journal	4620	4096	41552	
+17.201565	[WO]	/system/users/0/accounts.db-journal	8716	4	41552	
+17.201602	[FS]	/system/users/0/accounts.db-journal	1	
+17.203465	[FS]	/system/users/0	1	
+17.211987	[WO]	/system/users/0/accounts.db-journal	0	12	41552	
+17.212054	[FS]	/system/users/0/accounts.db-journal	1	
+17.213556	[WO]	/system/users/0/accounts.db	0	4096	180224	
+17.213617	[WO]	/system/users/0/accounts.db	167936	4096	180224	
+17.213656	[FS]	/system/users/0/accounts.db	1	
+17.215546	[WO]	/system/users/0/accounts.db-journal	0	28	41552	
+17.215578	[FS]	/system/users/0/accounts.db-journal	1	
+18.145880	[RN]	/system/job/jobs.xml	/system/job/jobs.xml.bak	
+18.146133	[CR]	/system/job/jobs.xml	
+18.146229	[WA]	/system/job/jobs.xml	0	5982	0	
+18.146342	[FS]	/system/job/jobs.xml	0	
+18.154923	[UN]	/system/job/jobs.xml.bak	
+26.081039	[WO]	/system/notification_log.db-journal	0	512	49760	
+26.081105	[WO]	/system/notification_log.db-journal	512	4	49760	
+26.081127	[WO]	/system/notification_log.db-journal	516	4096	49760	
+26.081343	[WO]	/system/notification_log.db-journal	4612	4	49760	
+26.081483	[WO]	/system/notification_log.db-journal	4616	4	49760	
+26.081503	[WO]	/system/notification_log.db-journal	4620	4096	49760	
+26.081533	[WO]	/system/notification_log.db-journal	8716	4	49760	
+26.081590	[WO]	/system/notification_log.db-journal	8720	4	49760	
+26.081610	[WO]	/system/notification_log.db-journal	8724	4096	49760	
+26.081642	[WO]	/system/notification_log.db-journal	12820	4	49760	
+26.081672	[FS]	/system/notification_log.db-journal	1	
+26.090179	[FS]	/system	1	
+26.097405	[WO]	/system/notification_log.db-journal	0	12	49760	
+26.097472	[FS]	/system/notification_log.db-journal	1	
+26.098580	[WO]	/system/notification_log.db	0	4096	53248	
+26.098621	[WO]	/system/notification_log.db	16384	4096	53248	
+26.098646	[WO]	/system/notification_log.db	49152	4096	53248	
+26.098677	[FS]	/system/notification_log.db	1	
+26.101660	[WO]	/system/notification_log.db-journal	0	28	49760	
+26.101782	[FS]	/system/notification_log.db-journal	1	
+47.579166	[UN]	/dalvik-cache/profiles/com.fingersoft.hillclimb	
+47.579658	[UN]	/data/com.fingersoft.hillclimb/lib	
+47.584233	[RD]	/data/com.fingersoft.hillclimb/cache/WebView/SafeBrowsing	
+47.587074	[RD]	/data/com.fingersoft.hillclimb/cache/WebView	
+47.587320	[UN]	/data/com.fingersoft.hillclimb/cache/1496809943795.tmp	
+47.590215	[RD]	/data/com.fingersoft.hillclimb/cache/.chartboost/css	
+47.592939	[UN]	/data/com.fingersoft.hillclimb/cache/.chartboost/html/video-olympus-with-elcapitan-2-hudoff--2087144000	
+47.593731	[UN]	/data/com.fingersoft.hillclimb/cache/.chartboost/html/video-olympus-with-elcapitan-2-hudon-838025748	
+47.593966	[UN]	/data/com.fingersoft.hillclimb/cache/.chartboost/html/static-etna--436722679	
+47.594190	[UN]	/data/com.fingersoft.hillclimb/cache/.chartboost/html/video-olympus-with-elcapitan-hudoff-789066570	
+47.594408	[UN]	/data/com.fingersoft.hillclimb/cache/.chartboost/html/video-elbrus-hudon-ab-for-olympus--1327361353	
+47.594641	[UN]	/data/com.fingersoft.hillclimb/cache/.chartboost/html/video-olympus-with-elcapitan--1037161938	
+47.594860	[UN]	/data/com.fingersoft.hillclimb/cache/.chartboost/html/video-olympus-with-elcapitan-hudon-1497916324	
+47.595076	[UN]	/data/com.fingersoft.hillclimb/cache/.chartboost/html/video-elbrus-ab-for-olympus-2098075285	
+47.595297	[UN]	/data/com.fingersoft.hillclimb/cache/.chartboost/html/playable-core-783653283	
+47.595472	[RD]	/data/com.fingersoft.hillclimb/cache/.chartboost/html	
+47.596081	[UN]	/data/com.fingersoft.hillclimb/cache/.chartboost/images/webview-60x60.png	
+47.596308	[UN]	/data/com.fingersoft.hillclimb/cache/.chartboost/images/download.png	
+47.596520	[UN]	/data/com.fingersoft.hillclimb/cache/.chartboost/images/watch_button.png	
+47.596706	[UN]	/data/com.fingersoft.hillclimb/cache/.chartboost/images/55dd7afdf6cd4550b1e483fb.57.png	
+47.596893	[UN]	/data/com.fingersoft.hillclimb/cache/.chartboost/images/video-2048x1536.png	
+47.597076	[UN]	/data/com.fingersoft.hillclimb/cache/.chartboost/images/playfree.png	
+47.597255	[UN]	/data/com.fingersoft.hillclimb/cache/.chartboost/images/replay_white.png	
+47.597443	[UN]	/data/com.fingersoft.hillclimb/cache/.chartboost/images/b37938163ade41911f1e0e955684ad5049837348.jpeg	
+47.597647	[UN]	/data/com.fingersoft.hillclimb/cache/.chartboost/images/5996cd30f6cd457ba78607e4.114.png	
+47.597804	[RD]	/data/com.fingersoft.hillclimb/cache/.chartboost/images	
+47.598559	[RD]	/data/com.fingersoft.hillclimb/cache/.chartboost/js	
+47.600220	[RD]	/data/com.fingersoft.hillclimb/cache/.chartboost/templates	
+47.602083	[UN]	/data/com.fingersoft.hillclimb/cache/.chartboost/videos/59b7eda7ae38920d0317193e_568-1505226151.mp4	
+47.602439	[UN]	/data/com.fingersoft.hillclimb/cache/.chartboost/videos/59bc574cd989d60fc5d18b9b_568-1505515340.mp4	
+47.602958	[UN]	/data/com.fingersoft.hillclimb/cache/.chartboost/videos/5995b5c643150f6c63e3d6f3_568-1502983623.mp4	
+47.603383	[UN]	/data/com.fingersoft.hillclimb/cache/.chartboost/videos/59d8e6870e9b2a1146746e0e_568-1507387015.mp4	
+47.604084	[RD]	/data/com.fingersoft.hillclimb/cache/.chartboost/videos	
+47.604581	[UN]	/data/com.fingersoft.hillclimb/cache/.chartboost/session/cb_previous_session_info	
+47.604762	[RD]	/data/com.fingersoft.hillclimb/cache/.chartboost/session	
+47.604907	[RD]	/data/com.fingersoft.hillclimb/cache/.chartboost	
+47.608375	[UN]	/data/com.fingersoft.hillclimb/cache/org.chromium.android_webview/index	
+47.612832	[UN]	/data/com.fingersoft.hillclimb/cache/org.chromium.android_webview/index-dir/the-real-index	
+47.613011	[RD]	/data/com.fingersoft.hillclimb/cache/org.chromium.android_webview/index-dir	
+47.613445	[UN]	/data/com.fingersoft.hillclimb/cache/org.chromium.android_webview/a0d8bad2b0d39fd8_0	
+47.613625	[UN]	/data/com.fingersoft.hillclimb/cache/org.chromium.android_webview/083f69fcdbccdd5e_0	
+47.613768	[RD]	/data/com.fingersoft.hillclimb/cache/org.chromium.android_webview	
+47.613927	[RD]	/data/com.fingersoft.hillclimb/cache	
+47.614540	[RD]	/data/com.fingersoft.hillclimb/code_cache	
+47.616351	[UN]	/data/com.fingersoft.hillclimb/no_backup/com.google.android.gms.appid-no-backup	
+47.616466	[RD]	/data/com.fingersoft.hillclimb/no_backup	
+47.616827	[UN]	/data/com.fingersoft.hillclimb/shared_prefs/com.google.android.gms.measurement.prefs.xml	
+47.618906	[UN]	/data/com.fingersoft.hillclimb/shared_prefs/ADMANAGER_SETTINGS.xml	
+47.620363	[UN]	/data/com.fingersoft.hillclimb/shared_prefs/AD_STATS.xml	
+47.620548	[UN]	/data/com.fingersoft.hillclimb/shared_prefs/com.applovin.sdk.1.xml	
+47.620809	[UN]	/data/com.fingersoft.hillclimb/shared_prefs/com.fingersoft.hillclimb_preferences.xml	
+47.620974	[UN]	/data/com.fingersoft.hillclimb/shared_prefs/WebViewChromiumPrefs.xml	
+47.621133	[UN]	/data/com.fingersoft.hillclimb/shared_prefs/admob.xml	
+47.621294	[UN]	/data/com.fingersoft.hillclimb/shared_prefs/appsflyer-data.xml	
+47.621451	[UN]	/data/com.fingersoft.hillclimb/shared_prefs/com.applovin.sdk.impl.postbackQueue.domain.xml	
+47.621607	[UN]	/data/com.fingersoft.hillclimb/shared_prefs/APP_SETTINGS.xml	
+47.621769	[UN]	/data/com.fingersoft.hillclimb/shared_prefs/hillclimbprefs.xml	
+47.622497	[UN]	/data/com.fingersoft.hillclimb/shared_prefs/com.google.android.gms.appid.xml	
+47.622671	[UN]	/data/com.fingersoft.hillclimb/shared_prefs/cbPrefs.xml	
+47.622833	[UN]	/data/com.fingersoft.hillclimb/shared_prefs/com.im.keyValueStore.sdk_version_store.xml	
+47.622992	[UN]	/data/com.fingersoft.hillclimb/shared_prefs/com.im.keyValueStore.uid_store.xml	
+47.623243	[UN]	/data/com.fingersoft.hillclimb/shared_prefs/Mediation_Shared_Preferences.xml	
+47.623402	[UN]	/data/com.fingersoft.hillclimb/shared_prefs/VUNGLE_PUB_APP_INFO.xml	
+47.623558	[UN]	/data/com.fingersoft.hillclimb/shared_prefs/com.im.keyValueStore.aes_key_store.xml	
+47.623717	[UN]	/data/com.fingersoft.hillclimb/shared_prefs/com.im.keyValueStore.config_store.xml	
+47.623876	[UN]	/data/com.fingersoft.hillclimb/shared_prefs/supersonic_shared_preferen.xml	
+47.624178	[RD]	/data/com.fingersoft.hillclimb/shared_prefs	
+47.627451	[RD]	/data/com.fingersoft.hillclimb/files/AFRequestCache	
+47.627711	[UN]	/data/com.fingersoft.hillclimb/files/.flurryagent.-627734f1	
+47.630192	[UN]	/data/com.fingersoft.hillclimb/files/adc3/media/40156f3f-f070-46ce-ab2f-f2340e78ec69.m4v	
+47.630709	[UN]	/data/com.fingersoft.hillclimb/files/adc3/media/f1bc794b-1e48-4185-ac28-efa124b0e688	
+47.630881	[UN]	/data/com.fingersoft.hillclimb/files/adc3/media/322300e7-9ee5-4488-913c-d9f0d6a4a32b	
+47.631043	[UN]	/data/com.fingersoft.hillclimb/files/adc3/media/d5e36809-02c5-430b-aae4-e642e202b7ad	
+47.631206	[UN]	/data/com.fingersoft.hillclimb/files/adc3/media/798bf757-aa05-450b-8c29-1f102d346762	
+47.631361	[RD]	/data/com.fingersoft.hillclimb/files/adc3/media	
+47.631949	[UN]	/data/com.fingersoft.hillclimb/files/adc3/data/ad_cache_report.txt	
+47.632137	[UN]	/data/com.fingersoft.hillclimb/files/adc3/data/network_requests	
+47.632306	[UN]	/data/com.fingersoft.hillclimb/files/adc3/data/b1a5d672-ad63-4b36-ac54-4da12856852e	
+47.632470	[UN]	/data/com.fingersoft.hillclimb/files/adc3/data/422de421e0f4e019426b9abfd780746bc40740eb	
+47.632636	[UN]	/data/com.fingersoft.hillclimb/files/adc3/data/8bbcfb3f-5116-4d0c-a4cb-adac5d10049e	
+47.632833	[UN]	/data/com.fingersoft.hillclimb/files/adc3/data/2ad45847-672d-42f6-b722-283f7cc0bd11	
+47.633006	[UN]	/data/com.fingersoft.hillclimb/files/adc3/data/media	
+47.633140	[RD]	/data/com.fingersoft.hillclimb/files/adc3/data	
+47.633404	[RD]	/data/com.fingersoft.hillclimb/files/adc3/tmp	
+47.633565	[UN]	/data/com.fingersoft.hillclimb/files/adc3/AppVersion	
+47.633722	[UN]	/data/com.fingersoft.hillclimb/files/adc3/AppInfo	
+47.633885	[UN]	/data/com.fingersoft.hillclimb/files/adc3/026ae9c9824b3e483fa6c71fa88f57ae27816141	
+47.634062	[UN]	/data/com.fingersoft.hillclimb/files/adc3/7bf3a1e7bbd31e612eda3310c2cdb8075c43c6b5	
+47.634246	[RD]	/data/com.fingersoft.hillclimb/files/adc3	
+47.634573	[UN]	/data/com.fingersoft.hillclimb/files/INSTALLATION	
+47.634751	[UN]	/data/com.fingersoft.hillclimb/files/com.scientificrevenue.queue	
+47.635281	[RD]	/data/com.fingersoft.hillclimb/files/im_cached_content	
+47.635468	[UN]	/data/com.fingersoft.hillclimb/files/com.scientificrevenue.nonurgent_batch	
+47.635605	[RD]	/data/com.fingersoft.hillclimb/files	
+47.645675	[UN]	/data/com.fingersoft.hillclimb/app_webview/webview_data.lock	
+47.645844	[UN]	/data/com.fingersoft.hillclimb/app_webview/Web Data	
+47.646046	[UN]	/data/com.fingersoft.hillclimb/app_webview/Web Data-journal	
+47.646166	[UN]	/data/com.fingersoft.hillclimb/app_webview/metrics_guid	
+47.646342	[UN]	/data/com.fingersoft.hillclimb/app_webview/Cookies	
+47.646565	[UN]	/data/com.fingersoft.hillclimb/app_webview/Cookies-journal	
+47.646823	[UN]	/data/com.fingersoft.hillclimb/app_webview/GPUCache/index	
+47.647126	[UN]	/data/com.fingersoft.hillclimb/app_webview/GPUCache/index-dir/the-real-index	
+47.647282	[RD]	/data/com.fingersoft.hillclimb/app_webview/GPUCache/index-dir	
+47.647436	[RD]	/data/com.fingersoft.hillclimb/app_webview/GPUCache	
+47.650035	[UN]	/data/com.fingersoft.hillclimb/app_webview/Application Cache/Cache/index	
+47.652426	[UN]	/data/com.fingersoft.hillclimb/app_webview/Application Cache/Cache/4cb013792b196a35_0	
+47.652625	[UN]	/data/com.fingersoft.hillclimb/app_webview/Application Cache/Cache/f1cdccba37924bda_0	
+47.654710	[UN]	/data/com.fingersoft.hillclimb/app_webview/Application Cache/Cache/index-dir/the-real-index	
+47.654880	[RD]	/data/com.fingersoft.hillclimb/app_webview/Application Cache/Cache/index-dir	
+47.655053	[UN]	/data/com.fingersoft.hillclimb/app_webview/Application Cache/Cache/ba23d8ecda68de77_0	
+47.655243	[UN]	/data/com.fingersoft.hillclimb/app_webview/Application Cache/Cache/67a473248953641b_0	
+47.655376	[RD]	/data/com.fingersoft.hillclimb/app_webview/Application Cache/Cache	
+47.655564	[UN]	/data/com.fingersoft.hillclimb/app_webview/Application Cache/Index	
+47.655733	[UN]	/data/com.fingersoft.hillclimb/app_webview/Application Cache/Index-journal	
+47.655826	[RD]	/data/com.fingersoft.hillclimb/app_webview/Application Cache	
+47.656006	[UN]	/data/com.fingersoft.hillclimb/app_webview/QuotaManager	
+47.657557	[UN]	/data/com.fingersoft.hillclimb/app_webview/databases/Databases.db	
+47.657777	[UN]	/data/com.fingersoft.hillclimb/app_webview/databases/Databases.db-journal	
+47.657886	[RD]	/data/com.fingersoft.hillclimb/app_webview/databases	
+47.658131	[UN]	/data/com.fingersoft.hillclimb/app_webview/QuotaManager-journal	
+47.658969	[UN]	/data/com.fingersoft.hillclimb/app_webview/Local Storage/leveldb/LOG	
+47.659175	[UN]	/data/com.fingersoft.hillclimb/app_webview/Local Storage/leveldb/LOCK	
+47.659300	[UN]	/data/com.fingersoft.hillclimb/app_webview/Local Storage/leveldb/MANIFEST-000001	
+47.659474	[UN]	/data/com.fingersoft.hillclimb/app_webview/Local Storage/leveldb/000003.log	
+47.659597	[UN]	/data/com.fingersoft.hillclimb/app_webview/Local Storage/leveldb/CURRENT	
+47.659770	[UN]	/data/com.fingersoft.hillclimb/app_webview/Local Storage/leveldb/LOG.old	
+47.659909	[RD]	/data/com.fingersoft.hillclimb/app_webview/Local Storage/leveldb	
+47.660086	[RD]	/data/com.fingersoft.hillclimb/app_webview/Local Storage	
+47.660233	[RD]	/data/com.fingersoft.hillclimb/app_webview	
+47.664154	[RD]	/data/com.fingersoft.hillclimb/app_textures	
+47.664485	[RD]	/data/com.fingersoft.hillclimb/app_download_internal	
+47.664828	[UN]	/data/com.fingersoft.hillclimb/databases/google_app_measurement_local.db	
+47.665030	[UN]	/data/com.fingersoft.hillclimb/databases/google_app_measurement_local.db-journal	
+47.665180	[UN]	/data/com.fingersoft.hillclimb/databases/google_app_measurement.db	
+47.665524	[UN]	/data/com.fingersoft.hillclimb/databases/google_app_measurement.db-journal	
+47.667505	[UN]	/data/com.fingersoft.hillclimb/databases/com.scientificrevenue.db	
+47.667802	[UN]	/data/com.fingersoft.hillclimb/databases/com.scientificrevenue.db-journal	
+47.668748	[UN]	/data/com.fingersoft.hillclimb/databases/supersonic_sdk.db	
+47.668936	[UN]	/data/com.fingersoft.hillclimb/databases/supersonic_sdk.db-journal	
+47.669486	[UN]	/data/com.fingersoft.hillclimb/databases/vungle	
+47.669684	[UN]	/data/com.fingersoft.hillclimb/databases/vungle-journal	
+47.670040	[UN]	/data/com.fingersoft.hillclimb/databases/com.im_6.2.4.db	
+47.670261	[UN]	/data/com.fingersoft.hillclimb/databases/com.im_6.2.4.db-journal	
+47.670442	[RD]	/data/com.fingersoft.hillclimb/databases	
+47.670663	[UN]	/data/com.fingersoft.hillclimb/UserDefault.xml	
+47.670916	[RD]	/data/com.fingersoft.hillclimb/app_data	
+47.671064	[RD]	/data/com.fingersoft.hillclimb	
+48.010740	[UN]	/app/com.fingersoft.hillclimb-2/base.apk	
+48.012062	[UN]	/app/com.fingersoft.hillclimb-2/lib/arm/libgame.so	
+48.015912	[UN]	/app/com.fingersoft.hillclimb-2/lib/arm/libjs.so	
+48.016819	[UN]	/app/com.fingersoft.hillclimb-2/lib/arm/libadcolony.so	
+48.017003	[RD]	/app/com.fingersoft.hillclimb-2/lib/arm	
+48.017168	[RD]	/app/com.fingersoft.hillclimb-2/lib	
+48.017845	[UN]	/app/com.fingersoft.hillclimb-2/oat/arm/base.odex	
+48.042289	[RD]	/app/com.fingersoft.hillclimb-2/oat/arm	
+48.042527	[RD]	/app/com.fingersoft.hillclimb-2/oat	
+48.043622	[RD]	/app/com.fingersoft.hillclimb-2	
+48.485778	[RN]	/system/netpolicy.xml	/system/netpolicy.xml.bak	
+48.486024	[CR]	/system/netpolicy.xml	
+48.486723	[WA]	/system/netpolicy.xml	0	113	0	
+48.486821	[FS]	/system/netpolicy.xml	0	
+48.507403	[UN]	/system/netpolicy.xml.bak	
+48.576533	[RN]	/system/netstats/uid.1507300282106-	/system/netstats/uid.1507300282106-.backup	
+48.576768	[CR]	/system/netstats/uid.1507300282106-	
+48.579451	[WA]	/system/netstats/uid.1507300282106-	0	8189	0	
+48.583783	[WA]	/system/netstats/uid.1507300282106-	8189	8192	8189	
+48.585533	[WA]	/system/netstats/uid.1507300282106-	16381	6826	16381	
+48.585650	[FS]	/system/netstats/uid.1507300282106-	0	
+48.662882	[UN]	/system/netstats/uid.1507300282106-.backup	
+48.722541	[RN]	/system/netstats/uid_tag.1507334483767-1507767426252	/system/netstats/uid_tag.1507334483767-1507767426252.backup	
+48.722812	[CR]	/system/netstats/uid_tag.1507334483767-1507767426252	
+48.725370	[WA]	/system/netstats/uid_tag.1507334483767-1507767426252	0	8192	0	
+48.737725	[WA]	/system/netstats/uid_tag.1507334483767-1507767426252	8192	8191	8192	
+48.738435	[WA]	/system/netstats/uid_tag.1507334483767-1507767426252	16383	2536	16383	
+48.738535	[FS]	/system/netstats/uid_tag.1507334483767-1507767426252	0	
+48.748215	[UN]	/system/netstats/uid_tag.1507334483767-1507767426252.backup	
+51.178453	[CR]	/system/recent_images/5_task_thumbnail.png	
+51.178827	[WA]	/system/recent_images/5_task_thumbnail.png	0	8	0	
+51.178935	[WA]	/system/recent_images/5_task_thumbnail.png	8	8	8	
+51.178988	[WA]	/system/recent_images/5_task_thumbnail.png	16	13	16	
+51.179040	[WA]	/system/recent_images/5_task_thumbnail.png	29	4	29	
+51.179091	[WA]	/system/recent_images/5_task_thumbnail.png	33	8	33	
+51.179142	[WA]	/system/recent_images/5_task_thumbnail.png	41	4	41	
+51.179192	[WA]	/system/recent_images/5_task_thumbnail.png	45	4	45	
+51.217282	[WA]	/system/recent_images/5_task_thumbnail.png	49	8	49	
+51.217374	[WA]	/system/recent_images/5_task_thumbnail.png	57	4096	57	
+51.217458	[WA]	/system/recent_images/5_task_thumbnail.png	4153	4096	4153	
+51.217568	[WA]	/system/recent_images/5_task_thumbnail.png	8249	4	8249	
+51.299120	[WA]	/system/recent_images/5_task_thumbnail.png	8253	8	8253	
+51.299217	[WA]	/system/recent_images/5_task_thumbnail.png	8261	4096	8261	
+51.299308	[WA]	/system/recent_images/5_task_thumbnail.png	12357	4096	12357	
+51.300057	[WA]	/system/recent_images/5_task_thumbnail.png	16453	4	16453	
+51.300275	[WA]	/system/recent_images/5_task_thumbnail.png	16457	8	16457	
+51.300331	[WA]	/system/recent_images/5_task_thumbnail.png	16465	4096	16465	
+51.300411	[WA]	/system/recent_images/5_task_thumbnail.png	20561	4096	20561	
+51.300516	[WA]	/system/recent_images/5_task_thumbnail.png	24657	4	24657	
+51.356025	[WA]	/system/recent_images/5_task_thumbnail.png	24661	8	24661	
+51.356127	[WA]	/system/recent_images/5_task_thumbnail.png	24669	4096	24669	
+51.356221	[WA]	/system/recent_images/5_task_thumbnail.png	28765	4096	28765	
+51.356335	[WA]	/system/recent_images/5_task_thumbnail.png	32861	4	32861	
+1.892150	[WO]	/system/sync/pending.xml	0	322	278	
+1.892272	[FS]	/system/sync/pending.xml	0	
+2.070504	[WA]	/system/sync/pending.xml	0	657	0	
+2.070593	[FS]	/system/sync/pending.xml	0	
+2.356159	[RN]	/system/sync/accounts.xml	/system/sync/accounts.xml.bak	
+2.360255	[CR]	/system/sync/accounts.xml	
+2.361283	[WA]	/system/sync/accounts.xml	0	8185	0	
+2.361515	[WA]	/system/sync/accounts.xml	8185	1435	8185	
+2.361574	[FS]	/system/sync/accounts.xml	0	
+2.378356	[UN]	/system/sync/accounts.xml.bak	
+2.378671	[RN]	/system/sync/status.bin	/system/sync/status.bin.bak	
+2.378856	[CR]	/system/sync/status.bin	
+2.379367	[WA]	/system/sync/status.bin	0	3716	0	
+2.379446	[FS]	/system/sync/status.bin	0	
+2.389825	[UN]	/system/sync/status.bin.bak	
+2.394496	[WA]	/system/sync/pending.xml	0	681	0	
+2.394583	[FS]	/system/sync/pending.xml	0	
+2.638129	[RN]	/system/sync/accounts.xml	/system/sync/accounts.xml.bak	
+2.638336	[CR]	/system/sync/accounts.xml	
+2.639290	[WA]	/system/sync/accounts.xml	0	8185	0	
+2.639523	[WA]	/system/sync/accounts.xml	8185	1435	8185	
+2.639591	[FS]	/system/sync/accounts.xml	0	
+2.654761	[UN]	/system/sync/accounts.xml.bak	
+2.655065	[RN]	/system/sync/status.bin	/system/sync/status.bin.bak	
+2.655245	[CR]	/system/sync/status.bin	
+2.655747	[WA]	/system/sync/status.bin	0	3716	0	
+2.655822	[FS]	/system/sync/status.bin	0	
+2.672426	[UN]	/system/sync/status.bin.bak	
+3.528418	[FS]	/mediadrm/IDM1013/L1/cert.bin	0	
+3.739766	[RN]	/system/sync/accounts.xml	/system/sync/accounts.xml.bak	
+3.739975	[CR]	/system/sync/accounts.xml	
+3.741151	[WA]	/system/sync/accounts.xml	0	8185	0	
+3.741414	[WA]	/system/sync/accounts.xml	8185	1435	8185	
+3.741475	[FS]	/system/sync/accounts.xml	0	
+3.753219	[UN]	/system/sync/accounts.xml.bak	
+3.753542	[RN]	/system/sync/status.bin	/system/sync/status.bin.bak	
+3.753683	[CR]	/system/sync/status.bin	
+3.754407	[WA]	/system/sync/status.bin	0	3716	0	
+3.754488	[FS]	/system/sync/status.bin	0	
+3.764391	[UN]	/system/sync/status.bin.bak	
+3.975631	[FS]	/mediadrm/IDM1013/L1/cert.bin	0	
+4.171590	[RN]	/system/job/jobs.xml	/system/job/jobs.xml.bak	
+4.171782	[CR]	/system/job/jobs.xml	
+4.171876	[WA]	/system/job/jobs.xml	0	5486	0	
+4.171959	[FS]	/system/job/jobs.xml	0	
+4.183825	[UN]	/system/job/jobs.xml.bak	
+4.661420	[RN]	/system/sync/accounts.xml	/system/sync/accounts.xml.bak	
+4.661665	[CR]	/system/sync/accounts.xml	
+4.662893	[WA]	/system/sync/accounts.xml	0	8185	0	
+4.663236	[WA]	/system/sync/accounts.xml	8185	1435	8185	
+4.663334	[FS]	/system/sync/accounts.xml	0	
+4.678776	[UN]	/system/sync/accounts.xml.bak	
+4.679189	[RN]	/system/sync/status.bin	/system/sync/status.bin.bak	
+4.679443	[CR]	/system/sync/status.bin	
+4.680131	[WA]	/system/sync/status.bin	0	3716	0	
+4.680237	[FS]	/system/sync/status.bin	0	
+4.688349	[UN]	/system/sync/status.bin.bak	
+5.029428	[WO]	/system/notification_log.db-journal	0	512	49760	
+5.029498	[WO]	/system/notification_log.db-journal	512	4	49760	
+5.029517	[WO]	/system/notification_log.db-journal	516	4096	49760	
+5.029546	[WO]	/system/notification_log.db-journal	4612	4	49760	
+5.029577	[WO]	/system/notification_log.db-journal	4616	4	49760	
+5.029596	[WO]	/system/notification_log.db-journal	4620	4096	49760	
+5.029623	[WO]	/system/notification_log.db-journal	8716	4	49760	
+5.029671	[WO]	/system/notification_log.db-journal	8720	4	49760	
+5.029693	[WO]	/system/notification_log.db-journal	8724	4096	49760	
+5.029720	[WO]	/system/notification_log.db-journal	12820	4	49760	
+5.029746	[FS]	/system/notification_log.db-journal	1	
+5.042261	[FS]	/system	1	
+5.045523	[WO]	/system/notification_log.db-journal	0	12	49760	
+5.045581	[FS]	/system/notification_log.db-journal	1	
+5.049465	[WO]	/system/notification_log.db	0	4096	53248	
+5.049522	[WO]	/system/notification_log.db	16384	4096	53248	
+5.049550	[WO]	/system/notification_log.db	49152	4096	53248	
+5.049581	[FS]	/system/notification_log.db	1	
+5.055501	[WO]	/system/notification_log.db-journal	0	28	49760	
+5.056161	[FS]	/system/notification_log.db-journal	1	
+7.399551	[RN]	/system/job/jobs.xml	/system/job/jobs.xml.bak	
+7.399830	[CR]	/system/job/jobs.xml	
+7.399953	[WA]	/system/job/jobs.xml	0	5394	0	
+7.400117	[FS]	/system/job/jobs.xml	0	
+7.411914	[UN]	/system/job/jobs.xml.bak	
+7.512153	[RN]	/system/job/jobs.xml	/system/job/jobs.xml.bak	
+7.512414	[CR]	/system/job/jobs.xml	
+7.512579	[WA]	/system/job/jobs.xml	0	5721	0	
+7.512697	[FS]	/system/job/jobs.xml	0	
+7.523396	[UN]	/system/job/jobs.xml.bak	
+17.200282	[WO]	/system/users/0/accounts.db-journal	0	512	41552	
+17.200370	[WO]	/system/users/0/accounts.db-journal	512	4	41552	
+17.200390	[WO]	/system/users/0/accounts.db-journal	516	4096	41552	
+17.200889	[WO]	/system/users/0/accounts.db-journal	4612	4	41552	
+17.201140	[WO]	/system/users/0/accounts.db-journal	4616	4	41552	
+17.201165	[WO]	/system/users/0/accounts.db-journal	4620	4096	41552	
+17.201565	[WO]	/system/users/0/accounts.db-journal	8716	4	41552	
+17.201602	[FS]	/system/users/0/accounts.db-journal	1	
+17.203465	[FS]	/system/users/0	1	
+17.211987	[WO]	/system/users/0/accounts.db-journal	0	12	41552	
+17.212054	[FS]	/system/users/0/accounts.db-journal	1	
+17.213556	[WO]	/system/users/0/accounts.db	0	4096	180224	
+17.213617	[WO]	/system/users/0/accounts.db	167936	4096	180224	
+17.213656	[FS]	/system/users/0/accounts.db	1	
+17.215546	[WO]	/system/users/0/accounts.db-journal	0	28	41552	
+17.215578	[FS]	/system/users/0/accounts.db-journal	1	
+18.145880	[RN]	/system/job/jobs.xml	/system/job/jobs.xml.bak	
+18.146133	[CR]	/system/job/jobs.xml	
+18.146229	[WA]	/system/job/jobs.xml	0	5982	0	
+18.146342	[FS]	/system/job/jobs.xml	0	
+18.154923	[UN]	/system/job/jobs.xml.bak	
+26.081039	[WO]	/system/notification_log.db-journal	0	512	49760	
+26.081105	[WO]	/system/notification_log.db-journal	512	4	49760	
+26.081127	[WO]	/system/notification_log.db-journal	516	4096	49760	
+26.081343	[WO]	/system/notification_log.db-journal	4612	4	49760	
+26.081483	[WO]	/system/notification_log.db-journal	4616	4	49760	
+26.081503	[WO]	/system/notification_log.db-journal	4620	4096	49760	
+26.081533	[WO]	/system/notification_log.db-journal	8716	4	49760	
+26.081590	[WO]	/system/notification_log.db-journal	8720	4	49760	
+26.081610	[WO]	/system/notification_log.db-journal	8724	4096	49760	
+26.081642	[WO]	/system/notification_log.db-journal	12820	4	49760	
+26.081672	[FS]	/system/notification_log.db-journal	1	
+26.090179	[FS]	/system	1	
+26.097405	[WO]	/system/notification_log.db-journal	0	12	49760	
+26.097472	[FS]	/system/notification_log.db-journal	1	
+26.098580	[WO]	/system/notification_log.db	0	4096	53248	
+26.098621	[WO]	/system/notification_log.db	16384	4096	53248	
+26.098646	[WO]	/system/notification_log.db	49152	4096	53248	
+26.098677	[FS]	/system/notification_log.db	1	
+26.101660	[WO]	/system/notification_log.db-journal	0	28	49760	
+26.101782	[FS]	/system/notification_log.db-journal	1	
+47.579166	[UN]	/dalvik-cache/profiles/com.fingersoft.hillclimb	
+47.579658	[UN]	/data/com.fingersoft.hillclimb/lib	
+47.584233	[RD]	/data/com.fingersoft.hillclimb/cache/WebView/SafeBrowsing	
+47.587074	[RD]	/data/com.fingersoft.hillclimb/cache/WebView	
+47.587320	[UN]	/data/com.fingersoft.hillclimb/cache/1496809943795.tmp	
+47.590215	[RD]	/data/com.fingersoft.hillclimb/cache/.chartboost/css	
+47.592939	[UN]	/data/com.fingersoft.hillclimb/cache/.chartboost/html/video-olympus-with-elcapitan-2-hudoff--2087144000	
+47.593731	[UN]	/data/com.fingersoft.hillclimb/cache/.chartboost/html/video-olympus-with-elcapitan-2-hudon-838025748	
+47.593966	[UN]	/data/com.fingersoft.hillclimb/cache/.chartboost/html/static-etna--436722679	
+47.594190	[UN]	/data/com.fingersoft.hillclimb/cache/.chartboost/html/video-olympus-with-elcapitan-hudoff-789066570	
+47.594408	[UN]	/data/com.fingersoft.hillclimb/cache/.chartboost/html/video-elbrus-hudon-ab-for-olympus--1327361353	
+47.594641	[UN]	/data/com.fingersoft.hillclimb/cache/.chartboost/html/video-olympus-with-elcapitan--1037161938	
+47.594860	[UN]	/data/com.fingersoft.hillclimb/cache/.chartboost/html/video-olympus-with-elcapitan-hudon-1497916324	
+47.595076	[UN]	/data/com.fingersoft.hillclimb/cache/.chartboost/html/video-elbrus-ab-for-olympus-2098075285	
+47.595297	[UN]	/data/com.fingersoft.hillclimb/cache/.chartboost/html/playable-core-783653283	
+47.595472	[RD]	/data/com.fingersoft.hillclimb/cache/.chartboost/html	
+47.596081	[UN]	/data/com.fingersoft.hillclimb/cache/.chartboost/images/webview-60x60.png	
+47.596308	[UN]	/data/com.fingersoft.hillclimb/cache/.chartboost/images/download.png	
+47.596520	[UN]	/data/com.fingersoft.hillclimb/cache/.chartboost/images/watch_button.png	
+47.596706	[UN]	/data/com.fingersoft.hillclimb/cache/.chartboost/images/55dd7afdf6cd4550b1e483fb.57.png	
+47.596893	[UN]	/data/com.fingersoft.hillclimb/cache/.chartboost/images/video-2048x1536.png	
+47.597076	[UN]	/data/com.fingersoft.hillclimb/cache/.chartboost/images/playfree.png	
+47.597255	[UN]	/data/com.fingersoft.hillclimb/cache/.chartboost/images/replay_white.png	
+47.597443	[UN]	/data/com.fingersoft.hillclimb/cache/.chartboost/images/b37938163ade41911f1e0e955684ad5049837348.jpeg	
+47.597647	[UN]	/data/com.fingersoft.hillclimb/cache/.chartboost/images/5996cd30f6cd457ba78607e4.114.png	
+47.597804	[RD]	/data/com.fingersoft.hillclimb/cache/.chartboost/images	
+47.598559	[RD]	/data/com.fingersoft.hillclimb/cache/.chartboost/js	
+47.600220	[RD]	/data/com.fingersoft.hillclimb/cache/.chartboost/templates	
+47.602083	[UN]	/data/com.fingersoft.hillclimb/cache/.chartboost/videos/59b7eda7ae38920d0317193e_568-1505226151.mp4	
+47.602439	[UN]	/data/com.fingersoft.hillclimb/cache/.chartboost/videos/59bc574cd989d60fc5d18b9b_568-1505515340.mp4	
+47.602958	[UN]	/data/com.fingersoft.hillclimb/cache/.chartboost/videos/5995b5c643150f6c63e3d6f3_568-1502983623.mp4	
+47.603383	[UN]	/data/com.fingersoft.hillclimb/cache/.chartboost/videos/59d8e6870e9b2a1146746e0e_568-1507387015.mp4	
+47.604084	[RD]	/data/com.fingersoft.hillclimb/cache/.chartboost/videos	
+47.604581	[UN]	/data/com.fingersoft.hillclimb/cache/.chartboost/session/cb_previous_session_info	
+47.604762	[RD]	/data/com.fingersoft.hillclimb/cache/.chartboost/session	
+47.604907	[RD]	/data/com.fingersoft.hillclimb/cache/.chartboost	
+47.608375	[UN]	/data/com.fingersoft.hillclimb/cache/org.chromium.android_webview/index	
+47.612832	[UN]	/data/com.fingersoft.hillclimb/cache/org.chromium.android_webview/index-dir/the-real-index	
+47.613011	[RD]	/data/com.fingersoft.hillclimb/cache/org.chromium.android_webview/index-dir	
+47.613445	[UN]	/data/com.fingersoft.hillclimb/cache/org.chromium.android_webview/a0d8bad2b0d39fd8_0	
+47.613625	[UN]	/data/com.fingersoft.hillclimb/cache/org.chromium.android_webview/083f69fcdbccdd5e_0	
+47.613768	[RD]	/data/com.fingersoft.hillclimb/cache/org.chromium.android_webview	
+47.613927	[RD]	/data/com.fingersoft.hillclimb/cache	
+47.614540	[RD]	/data/com.fingersoft.hillclimb/code_cache	
+47.616351	[UN]	/data/com.fingersoft.hillclimb/no_backup/com.google.android.gms.appid-no-backup	
+47.616466	[RD]	/data/com.fingersoft.hillclimb/no_backup	
+47.616827	[UN]	/data/com.fingersoft.hillclimb/shared_prefs/com.google.android.gms.measurement.prefs.xml	
+47.618906	[UN]	/data/com.fingersoft.hillclimb/shared_prefs/ADMANAGER_SETTINGS.xml	
+47.620363	[UN]	/data/com.fingersoft.hillclimb/shared_prefs/AD_STATS.xml	
+47.620548	[UN]	/data/com.fingersoft.hillclimb/shared_prefs/com.applovin.sdk.1.xml	
+47.620809	[UN]	/data/com.fingersoft.hillclimb/shared_prefs/com.fingersoft.hillclimb_preferences.xml	
+47.620974	[UN]	/data/com.fingersoft.hillclimb/shared_prefs/WebViewChromiumPrefs.xml	
+47.621133	[UN]	/data/com.fingersoft.hillclimb/shared_prefs/admob.xml	
+47.621294	[UN]	/data/com.fingersoft.hillclimb/shared_prefs/appsflyer-data.xml	
+47.621451	[UN]	/data/com.fingersoft.hillclimb/shared_prefs/com.applovin.sdk.impl.postbackQueue.domain.xml	
+47.621607	[UN]	/data/com.fingersoft.hillclimb/shared_prefs/APP_SETTINGS.xml	
+47.621769	[UN]	/data/com.fingersoft.hillclimb/shared_prefs/hillclimbprefs.xml	
+47.622497	[UN]	/data/com.fingersoft.hillclimb/shared_prefs/com.google.android.gms.appid.xml	
+47.622671	[UN]	/data/com.fingersoft.hillclimb/shared_prefs/cbPrefs.xml	
+47.622833	[UN]	/data/com.fingersoft.hillclimb/shared_prefs/com.im.keyValueStore.sdk_version_store.xml	
+47.622992	[UN]	/data/com.fingersoft.hillclimb/shared_prefs/com.im.keyValueStore.uid_store.xml	
+47.623243	[UN]	/data/com.fingersoft.hillclimb/shared_prefs/Mediation_Shared_Preferences.xml	
+47.623402	[UN]	/data/com.fingersoft.hillclimb/shared_prefs/VUNGLE_PUB_APP_INFO.xml	
+47.623558	[UN]	/data/com.fingersoft.hillclimb/shared_prefs/com.im.keyValueStore.aes_key_store.xml	
+47.623717	[UN]	/data/com.fingersoft.hillclimb/shared_prefs/com.im.keyValueStore.config_store.xml	
+47.623876	[UN]	/data/com.fingersoft.hillclimb/shared_prefs/supersonic_shared_preferen.xml	
+47.624178	[RD]	/data/com.fingersoft.hillclimb/shared_prefs	
+47.627451	[RD]	/data/com.fingersoft.hillclimb/files/AFRequestCache	
+47.627711	[UN]	/data/com.fingersoft.hillclimb/files/.flurryagent.-627734f1	
+47.630192	[UN]	/data/com.fingersoft.hillclimb/files/adc3/media/40156f3f-f070-46ce-ab2f-f2340e78ec69.m4v	
+47.630709	[UN]	/data/com.fingersoft.hillclimb/files/adc3/media/f1bc794b-1e48-4185-ac28-efa124b0e688	
+47.630881	[UN]	/data/com.fingersoft.hillclimb/files/adc3/media/322300e7-9ee5-4488-913c-d9f0d6a4a32b	
+47.631043	[UN]	/data/com.fingersoft.hillclimb/files/adc3/media/d5e36809-02c5-430b-aae4-e642e202b7ad	
+47.631206	[UN]	/data/com.fingersoft.hillclimb/files/adc3/media/798bf757-aa05-450b-8c29-1f102d346762	
+47.631361	[RD]	/data/com.fingersoft.hillclimb/files/adc3/media	
+47.631949	[UN]	/data/com.fingersoft.hillclimb/files/adc3/data/ad_cache_report.txt	
+47.632137	[UN]	/data/com.fingersoft.hillclimb/files/adc3/data/network_requests	
+47.632306	[UN]	/data/com.fingersoft.hillclimb/files/adc3/data/b1a5d672-ad63-4b36-ac54-4da12856852e	
+47.632470	[UN]	/data/com.fingersoft.hillclimb/files/adc3/data/422de421e0f4e019426b9abfd780746bc40740eb	
+47.632636	[UN]	/data/com.fingersoft.hillclimb/files/adc3/data/8bbcfb3f-5116-4d0c-a4cb-adac5d10049e	
+47.632833	[UN]	/data/com.fingersoft.hillclimb/files/adc3/data/2ad45847-672d-42f6-b722-283f7cc0bd11	
+47.633006	[UN]	/data/com.fingersoft.hillclimb/files/adc3/data/media	
+47.633140	[RD]	/data/com.fingersoft.hillclimb/files/adc3/data	
+47.633404	[RD]	/data/com.fingersoft.hillclimb/files/adc3/tmp	
+47.633565	[UN]	/data/com.fingersoft.hillclimb/files/adc3/AppVersion	
+47.633722	[UN]	/data/com.fingersoft.hillclimb/files/adc3/AppInfo	
+47.633885	[UN]	/data/com.fingersoft.hillclimb/files/adc3/026ae9c9824b3e483fa6c71fa88f57ae27816141	
+47.634062	[UN]	/data/com.fingersoft.hillclimb/files/adc3/7bf3a1e7bbd31e612eda3310c2cdb8075c43c6b5	
+47.634246	[RD]	/data/com.fingersoft.hillclimb/files/adc3	
+47.634573	[UN]	/data/com.fingersoft.hillclimb/files/INSTALLATION	
+47.634751	[UN]	/data/com.fingersoft.hillclimb/files/com.scientificrevenue.queue	
+47.635281	[RD]	/data/com.fingersoft.hillclimb/files/im_cached_content	
+47.635468	[UN]	/data/com.fingersoft.hillclimb/files/com.scientificrevenue.nonurgent_batch	
+47.635605	[RD]	/data/com.fingersoft.hillclimb/files	
+47.645675	[UN]	/data/com.fingersoft.hillclimb/app_webview/webview_data.lock	
+47.645844	[UN]	/data/com.fingersoft.hillclimb/app_webview/Web Data	
+47.646046	[UN]	/data/com.fingersoft.hillclimb/app_webview/Web Data-journal	
+47.646166	[UN]	/data/com.fingersoft.hillclimb/app_webview/metrics_guid	
+47.646342	[UN]	/data/com.fingersoft.hillclimb/app_webview/Cookies	
+47.646565	[UN]	/data/com.fingersoft.hillclimb/app_webview/Cookies-journal	
+47.646823	[UN]	/data/com.fingersoft.hillclimb/app_webview/GPUCache/index	
+47.647126	[UN]	/data/com.fingersoft.hillclimb/app_webview/GPUCache/index-dir/the-real-index	
+47.647282	[RD]	/data/com.fingersoft.hillclimb/app_webview/GPUCache/index-dir	
+47.647436	[RD]	/data/com.fingersoft.hillclimb/app_webview/GPUCache	
+47.650035	[UN]	/data/com.fingersoft.hillclimb/app_webview/Application Cache/Cache/index	
+47.652426	[UN]	/data/com.fingersoft.hillclimb/app_webview/Application Cache/Cache/4cb013792b196a35_0	
+47.652625	[UN]	/data/com.fingersoft.hillclimb/app_webview/Application Cache/Cache/f1cdccba37924bda_0	
+47.654710	[UN]	/data/com.fingersoft.hillclimb/app_webview/Application Cache/Cache/index-dir/the-real-index	
+47.654880	[RD]	/data/com.fingersoft.hillclimb/app_webview/Application Cache/Cache/index-dir	
+47.655053	[UN]	/data/com.fingersoft.hillclimb/app_webview/Application Cache/Cache/ba23d8ecda68de77_0	
+47.655243	[UN]	/data/com.fingersoft.hillclimb/app_webview/Application Cache/Cache/67a473248953641b_0	
+47.655376	[RD]	/data/com.fingersoft.hillclimb/app_webview/Application Cache/Cache	
+47.655564	[UN]	/data/com.fingersoft.hillclimb/app_webview/Application Cache/Index	
+47.655733	[UN]	/data/com.fingersoft.hillclimb/app_webview/Application Cache/Index-journal	
+47.655826	[RD]	/data/com.fingersoft.hillclimb/app_webview/Application Cache	
+47.656006	[UN]	/data/com.fingersoft.hillclimb/app_webview/QuotaManager	
+47.657557	[UN]	/data/com.fingersoft.hillclimb/app_webview/databases/Databases.db	
+47.657777	[UN]	/data/com.fingersoft.hillclimb/app_webview/databases/Databases.db-journal	
+47.657886	[RD]	/data/com.fingersoft.hillclimb/app_webview/databases	
+47.658131	[UN]	/data/com.fingersoft.hillclimb/app_webview/QuotaManager-journal	
+47.658969	[UN]	/data/com.fingersoft.hillclimb/app_webview/Local Storage/leveldb/LOG	
+47.659175	[UN]	/data/com.fingersoft.hillclimb/app_webview/Local Storage/leveldb/LOCK	
+47.659300	[UN]	/data/com.fingersoft.hillclimb/app_webview/Local Storage/leveldb/MANIFEST-000001	
+47.659474	[UN]	/data/com.fingersoft.hillclimb/app_webview/Local Storage/leveldb/000003.log	
+47.659597	[UN]	/data/com.fingersoft.hillclimb/app_webview/Local Storage/leveldb/CURRENT	
+47.659770	[UN]	/data/com.fingersoft.hillclimb/app_webview/Local Storage/leveldb/LOG.old	
+47.659909	[RD]	/data/com.fingersoft.hillclimb/app_webview/Local Storage/leveldb	
+47.660086	[RD]	/data/com.fingersoft.hillclimb/app_webview/Local Storage	
+47.660233	[RD]	/data/com.fingersoft.hillclimb/app_webview	
+47.664154	[RD]	/data/com.fingersoft.hillclimb/app_textures	
+47.664485	[RD]	/data/com.fingersoft.hillclimb/app_download_internal	
+47.664828	[UN]	/data/com.fingersoft.hillclimb/databases/google_app_measurement_local.db	
+47.665030	[UN]	/data/com.fingersoft.hillclimb/databases/google_app_measurement_local.db-journal	
+47.665180	[UN]	/data/com.fingersoft.hillclimb/databases/google_app_measurement.db	
+47.665524	[UN]	/data/com.fingersoft.hillclimb/databases/google_app_measurement.db-journal	
+47.667505	[UN]	/data/com.fingersoft.hillclimb/databases/com.scientificrevenue.db	
+47.667802	[UN]	/data/com.fingersoft.hillclimb/databases/com.scientificrevenue.db-journal	
+47.668748	[UN]	/data/com.fingersoft.hillclimb/databases/supersonic_sdk.db	
+47.668936	[UN]	/data/com.fingersoft.hillclimb/databases/supersonic_sdk.db-journal	
+47.669486	[UN]	/data/com.fingersoft.hillclimb/databases/vungle	
+47.669684	[UN]	/data/com.fingersoft.hillclimb/databases/vungle-journal	
+47.670040	[UN]	/data/com.fingersoft.hillclimb/databases/com.im_6.2.4.db	
+47.670261	[UN]	/data/com.fingersoft.hillclimb/databases/com.im_6.2.4.db-journal	
+47.670442	[RD]	/data/com.fingersoft.hillclimb/databases	
+47.670663	[UN]	/data/com.fingersoft.hillclimb/UserDefault.xml	
+47.670916	[RD]	/data/com.fingersoft.hillclimb/app_data	
+47.671064	[RD]	/data/com.fingersoft.hillclimb	
+48.010740	[UN]	/app/com.fingersoft.hillclimb-2/base.apk	
+48.012062	[UN]	/app/com.fingersoft.hillclimb-2/lib/arm/libgame.so	
+48.015912	[UN]	/app/com.fingersoft.hillclimb-2/lib/arm/libjs.so	
+48.016819	[UN]	/app/com.fingersoft.hillclimb-2/lib/arm/libadcolony.so	
+48.017003	[RD]	/app/com.fingersoft.hillclimb-2/lib/arm	
+48.017168	[RD]	/app/com.fingersoft.hillclimb-2/lib	
+48.017845	[UN]	/app/com.fingersoft.hillclimb-2/oat/arm/base.odex	
+48.042289	[RD]	/app/com.fingersoft.hillclimb-2/oat/arm	
+48.042527	[RD]	/app/com.fingersoft.hillclimb-2/oat	
+48.043622	[RD]	/app/com.fingersoft.hillclimb-2	
+48.485778	[RN]	/system/netpolicy.xml	/system/netpolicy.xml.bak	
+48.486024	[CR]	/system/netpolicy.xml	
+48.486723	[WA]	/system/netpolicy.xml	0	113	0	
+48.486821	[FS]	/system/netpolicy.xml	0	
+48.507403	[UN]	/system/netpolicy.xml.bak	
+48.576533	[RN]	/system/netstats/uid.1507300282106-	/system/netstats/uid.1507300282106-.backup	
+48.576768	[CR]	/system/netstats/uid.1507300282106-	
+48.579451	[WA]	/system/netstats/uid.1507300282106-	0	8189	0	
+48.583783	[WA]	/system/netstats/uid.1507300282106-	8189	8192	8189	
+48.585533	[WA]	/system/netstats/uid.1507300282106-	16381	6826	16381	
+48.585650	[FS]	/system/netstats/uid.1507300282106-	0	
+48.662882	[UN]	/system/netstats/uid.1507300282106-.backup	
+48.722541	[RN]	/system/netstats/uid_tag.1507334483767-1507767426252	/system/netstats/uid_tag.1507334483767-1507767426252.backup	
+48.722812	[CR]	/system/netstats/uid_tag.1507334483767-1507767426252	
+48.725370	[WA]	/system/netstats/uid_tag.1507334483767-1507767426252	0	8192	0	
+48.737725	[WA]	/system/netstats/uid_tag.1507334483767-1507767426252	8192	8191	8192	
+48.738435	[WA]	/system/netstats/uid_tag.1507334483767-1507767426252	16383	2536	16383	
+48.738535	[FS]	/system/netstats/uid_tag.1507334483767-1507767426252	0	
+48.748215	[UN]	/system/netstats/uid_tag.1507334483767-1507767426252.backup	
+51.178453	[CR]	/system/recent_images/5_task_thumbnail.png	
+51.178827	[WA]	/system/recent_images/5_task_thumbnail.png	0	8	0	
+51.178935	[WA]	/system/recent_images/5_task_thumbnail.png	8	8	8	
+51.178988	[WA]	/system/recent_images/5_task_thumbnail.png	16	13	16	
+51.179040	[WA]	/system/recent_images/5_task_thumbnail.png	29	4	29	
+51.179091	[WA]	/system/recent_images/5_task_thumbnail.png	33	8	33	
+51.179142	[WA]	/system/recent_images/5_task_thumbnail.png	41	4	41	
+51.179192	[WA]	/system/recent_images/5_task_thumbnail.png	45	4	45	
+51.217282	[WA]	/system/recent_images/5_task_thumbnail.png	49	8	49	
+51.217374	[WA]	/system/recent_images/5_task_thumbnail.png	57	4096	57	
+51.217458	[WA]	/system/recent_images/5_task_thumbnail.png	4153	4096	4153	
+51.217568	[WA]	/system/recent_images/5_task_thumbnail.png	8249	4	8249	
+51.299120	[WA]	/system/recent_images/5_task_thumbnail.png	8253	8	8253	
+51.299217	[WA]	/system/recent_images/5_task_thumbnail.png	8261	4096	8261	
+51.299308	[WA]	/system/recent_images/5_task_thumbnail.png	12357	4096	12357	
+51.300057	[WA]	/system/recent_images/5_task_thumbnail.png	16453	4	16453	
+51.300275	[WA]	/system/recent_images/5_task_thumbnail.png	16457	8	16457	
+51.300331	[WA]	/system/recent_images/5_task_thumbnail.png	16465	4096	16465	
+51.300411	[WA]	/system/recent_images/5_task_thumbnail.png	20561	4096	20561	
+51.300516	[WA]	/system/recent_images/5_task_thumbnail.png	24657	4	24657	
+51.356025	[WA]	/system/recent_images/5_task_thumbnail.png	24661	8	24661	
+51.356127	[WA]	/system/recent_images/5_task_thumbnail.png	24669	4096	24669	
+51.356221	[WA]	/system/recent_images/5_task_thumbnail.png	28765	4096	28765	
+51.356335	[WA]	/system/recent_images/5_task_thumbnail.png	32861	4	32861	

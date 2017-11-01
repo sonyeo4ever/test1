@@ -82,3 +82,129 @@
 3.565293	[FS]	/data/com.nhn.android.band/files/jackpotlog.realm	0	
 3.635517	[CR]	/data/com.nhn.android.band/files/AppEventsLogger.persistedevents	
 3.650387	[WA]	/data/com.nhn.android.band/files/AppEventsLogger.persistedevents	0	178	0	
+2.700541	[RN]	/data/com.nhn.android.band/shared_prefs/STAT_PREFS.xml	/data/com.nhn.android.band/shared_prefs/STAT_PREFS.xml.bak	
+2.700754	[CR]	/data/com.nhn.android.band/shared_prefs/STAT_PREFS.xml	
+2.701154	[WA]	/data/com.nhn.android.band/shared_prefs/STAT_PREFS.xml	0	447	0	
+2.701237	[FS]	/data/com.nhn.android.band/shared_prefs/STAT_PREFS.xml	0	
+2.713398	[UN]	/data/com.nhn.android.band/shared_prefs/STAT_PREFS.xml.bak	
+3.047955	[RN]	/data/com.nhn.android.band/shared_prefs/appsflyer-data.xml	/data/com.nhn.android.band/shared_prefs/appsflyer-data.xml.bak	
+3.048159	[CR]	/data/com.nhn.android.band/shared_prefs/appsflyer-data.xml	
+3.049017	[WA]	/data/com.nhn.android.band/shared_prefs/appsflyer-data.xml	0	1240	0	
+3.049102	[FS]	/data/com.nhn.android.band/shared_prefs/appsflyer-data.xml	0	
+3.060614	[UN]	/data/com.nhn.android.band/shared_prefs/appsflyer-data.xml.bak	
+3.140291	[RN]	/data/com.nhn.android.band/shared_prefs/appsflyer-data.xml	/data/com.nhn.android.band/shared_prefs/appsflyer-data.xml.bak	
+3.140481	[CR]	/data/com.nhn.android.band/shared_prefs/appsflyer-data.xml	
+3.140998	[WA]	/data/com.nhn.android.band/shared_prefs/appsflyer-data.xml	0	1240	0	
+3.141072	[FS]	/data/com.nhn.android.band/shared_prefs/appsflyer-data.xml	0	
+3.147455	[UN]	/data/com.nhn.android.band/shared_prefs/appsflyer-data.xml.bak	
+3.180125	[RN]	/data/com.nhn.android.band/shared_prefs/appsflyer-data.xml	/data/com.nhn.android.band/shared_prefs/appsflyer-data.xml.bak	
+3.180295	[CR]	/data/com.nhn.android.band/shared_prefs/appsflyer-data.xml	
+3.180783	[WA]	/data/com.nhn.android.band/shared_prefs/appsflyer-data.xml	0	1240	0	
+3.180861	[FS]	/data/com.nhn.android.band/shared_prefs/appsflyer-data.xml	0	
+3.186430	[UN]	/data/com.nhn.android.band/shared_prefs/appsflyer-data.xml.bak	
+3.186739	[RN]	/data/com.nhn.android.band/shared_prefs/com.nhn.android.band_preferences.xml	/data/com.nhn.android.band/shared_prefs/com.nhn.android.band_preferences.xml.bak	
+3.186895	[CR]	/data/com.nhn.android.band/shared_prefs/com.nhn.android.band_preferences.xml	
+3.188324	[WA]	/data/com.nhn.android.band/shared_prefs/com.nhn.android.band_preferences.xml	0	448	0	
+3.188412	[FS]	/data/com.nhn.android.band/shared_prefs/com.nhn.android.band_preferences.xml	0	
+3.196866	[UN]	/data/com.nhn.android.band/shared_prefs/com.nhn.android.band_preferences.xml.bak	
+3.452590	[RN]	/data/com.nhn.android.band/shared_prefs/com.nhn.android.band_preferences.xml	/data/com.nhn.android.band/shared_prefs/com.nhn.android.band_preferences.xml.bak	
+3.452800	[CR]	/data/com.nhn.android.band/shared_prefs/com.nhn.android.band_preferences.xml	
+3.453158	[WA]	/data/com.nhn.android.band/shared_prefs/com.nhn.android.band_preferences.xml	0	448	0	
+3.453233	[FS]	/data/com.nhn.android.band/shared_prefs/com.nhn.android.band_preferences.xml	0	
+3.458867	[UN]	/data/com.nhn.android.band/shared_prefs/com.nhn.android.band_preferences.xml.bak	
+3.459215	[RN]	/data/com.nhn.android.band/shared_prefs/STAT_PREFS.xml	/data/com.nhn.android.band/shared_prefs/STAT_PREFS.xml.bak	
+3.459370	[CR]	/data/com.nhn.android.band/shared_prefs/STAT_PREFS.xml	
+3.459725	[WA]	/data/com.nhn.android.band/shared_prefs/STAT_PREFS.xml	0	448	0	
+3.459793	[FS]	/data/com.nhn.android.band/shared_prefs/STAT_PREFS.xml	0	
+3.463507	[UN]	/data/com.nhn.android.band/shared_prefs/STAT_PREFS.xml.bak	
+3.547593	[WA]	/data/com.nhn.android.band/files/jackpotlog.realm.lock	0	1184	0	
+3.548641	[WA]	/data/com.nhn.android.band/files/jackpotlog.realm.lock	0	1184	0	
+3.552152	[FS]	/data/com.nhn.android.band/files/jackpotlog.realm	0	
+3.560170	[FS]	/data/com.nhn.android.band/files/jackpotlog.realm	0	
+3.565293	[FS]	/data/com.nhn.android.band/files/jackpotlog.realm	0	
+3.635517	[CR]	/data/com.nhn.android.band/files/AppEventsLogger.persistedevents	
+3.650387	[WA]	/data/com.nhn.android.band/files/AppEventsLogger.persistedevents	0	178	0	
+2.700541	[RN]	/data/com.nhn.android.band/shared_prefs/STAT_PREFS.xml	/data/com.nhn.android.band/shared_prefs/STAT_PREFS.xml.bak	
+2.700754	[CR]	/data/com.nhn.android.band/shared_prefs/STAT_PREFS.xml	
+2.701154	[WA]	/data/com.nhn.android.band/shared_prefs/STAT_PREFS.xml	0	447	0	
+2.701237	[FS]	/data/com.nhn.android.band/shared_prefs/STAT_PREFS.xml	0	
+2.713398	[UN]	/data/com.nhn.android.band/shared_prefs/STAT_PREFS.xml.bak	
+3.047955	[RN]	/data/com.nhn.android.band/shared_prefs/appsflyer-data.xml	/data/com.nhn.android.band/shared_prefs/appsflyer-data.xml.bak	
+3.048159	[CR]	/data/com.nhn.android.band/shared_prefs/appsflyer-data.xml	
+3.049017	[WA]	/data/com.nhn.android.band/shared_prefs/appsflyer-data.xml	0	1240	0	
+3.049102	[FS]	/data/com.nhn.android.band/shared_prefs/appsflyer-data.xml	0	
+3.060614	[UN]	/data/com.nhn.android.band/shared_prefs/appsflyer-data.xml.bak	
+3.140291	[RN]	/data/com.nhn.android.band/shared_prefs/appsflyer-data.xml	/data/com.nhn.android.band/shared_prefs/appsflyer-data.xml.bak	
+3.140481	[CR]	/data/com.nhn.android.band/shared_prefs/appsflyer-data.xml	
+3.140998	[WA]	/data/com.nhn.android.band/shared_prefs/appsflyer-data.xml	0	1240	0	
+3.141072	[FS]	/data/com.nhn.android.band/shared_prefs/appsflyer-data.xml	0	
+3.147455	[UN]	/data/com.nhn.android.band/shared_prefs/appsflyer-data.xml.bak	
+3.180125	[RN]	/data/com.nhn.android.band/shared_prefs/appsflyer-data.xml	/data/com.nhn.android.band/shared_prefs/appsflyer-data.xml.bak	
+3.180295	[CR]	/data/com.nhn.android.band/shared_prefs/appsflyer-data.xml	
+3.180783	[WA]	/data/com.nhn.android.band/shared_prefs/appsflyer-data.xml	0	1240	0	
+3.180861	[FS]	/data/com.nhn.android.band/shared_prefs/appsflyer-data.xml	0	
+3.186430	[UN]	/data/com.nhn.android.band/shared_prefs/appsflyer-data.xml.bak	
+3.186739	[RN]	/data/com.nhn.android.band/shared_prefs/com.nhn.android.band_preferences.xml	/data/com.nhn.android.band/shared_prefs/com.nhn.android.band_preferences.xml.bak	
+3.186895	[CR]	/data/com.nhn.android.band/shared_prefs/com.nhn.android.band_preferences.xml	
+3.188324	[WA]	/data/com.nhn.android.band/shared_prefs/com.nhn.android.band_preferences.xml	0	448	0	
+3.188412	[FS]	/data/com.nhn.android.band/shared_prefs/com.nhn.android.band_preferences.xml	0	
+3.196866	[UN]	/data/com.nhn.android.band/shared_prefs/com.nhn.android.band_preferences.xml.bak	
+3.452590	[RN]	/data/com.nhn.android.band/shared_prefs/com.nhn.android.band_preferences.xml	/data/com.nhn.android.band/shared_prefs/com.nhn.android.band_preferences.xml.bak	
+3.452800	[CR]	/data/com.nhn.android.band/shared_prefs/com.nhn.android.band_preferences.xml	
+3.453158	[WA]	/data/com.nhn.android.band/shared_prefs/com.nhn.android.band_preferences.xml	0	448	0	
+3.453233	[FS]	/data/com.nhn.android.band/shared_prefs/com.nhn.android.band_preferences.xml	0	
+3.458867	[UN]	/data/com.nhn.android.band/shared_prefs/com.nhn.android.band_preferences.xml.bak	
+3.459215	[RN]	/data/com.nhn.android.band/shared_prefs/STAT_PREFS.xml	/data/com.nhn.android.band/shared_prefs/STAT_PREFS.xml.bak	
+3.459370	[CR]	/data/com.nhn.android.band/shared_prefs/STAT_PREFS.xml	
+3.459725	[WA]	/data/com.nhn.android.band/shared_prefs/STAT_PREFS.xml	0	448	0	
+3.459793	[FS]	/data/com.nhn.android.band/shared_prefs/STAT_PREFS.xml	0	
+3.463507	[UN]	/data/com.nhn.android.band/shared_prefs/STAT_PREFS.xml.bak	
+3.547593	[WA]	/data/com.nhn.android.band/files/jackpotlog.realm.lock	0	1184	0	
+3.548641	[WA]	/data/com.nhn.android.band/files/jackpotlog.realm.lock	0	1184	0	
+3.552152	[FS]	/data/com.nhn.android.band/files/jackpotlog.realm	0	
+3.560170	[FS]	/data/com.nhn.android.band/files/jackpotlog.realm	0	
+3.565293	[FS]	/data/com.nhn.android.band/files/jackpotlog.realm	0	
+3.635517	[CR]	/data/com.nhn.android.band/files/AppEventsLogger.persistedevents	
+3.650387	[WA]	/data/com.nhn.android.band/files/AppEventsLogger.persistedevents	0	178	0	
+2.700541	[RN]	/data/com.nhn.android.band/shared_prefs/STAT_PREFS.xml	/data/com.nhn.android.band/shared_prefs/STAT_PREFS.xml.bak	
+2.700754	[CR]	/data/com.nhn.android.band/shared_prefs/STAT_PREFS.xml	
+2.701154	[WA]	/data/com.nhn.android.band/shared_prefs/STAT_PREFS.xml	0	447	0	
+2.701237	[FS]	/data/com.nhn.android.band/shared_prefs/STAT_PREFS.xml	0	
+2.713398	[UN]	/data/com.nhn.android.band/shared_prefs/STAT_PREFS.xml.bak	
+3.047955	[RN]	/data/com.nhn.android.band/shared_prefs/appsflyer-data.xml	/data/com.nhn.android.band/shared_prefs/appsflyer-data.xml.bak	
+3.048159	[CR]	/data/com.nhn.android.band/shared_prefs/appsflyer-data.xml	
+3.049017	[WA]	/data/com.nhn.android.band/shared_prefs/appsflyer-data.xml	0	1240	0	
+3.049102	[FS]	/data/com.nhn.android.band/shared_prefs/appsflyer-data.xml	0	
+3.060614	[UN]	/data/com.nhn.android.band/shared_prefs/appsflyer-data.xml.bak	
+3.140291	[RN]	/data/com.nhn.android.band/shared_prefs/appsflyer-data.xml	/data/com.nhn.android.band/shared_prefs/appsflyer-data.xml.bak	
+3.140481	[CR]	/data/com.nhn.android.band/shared_prefs/appsflyer-data.xml	
+3.140998	[WA]	/data/com.nhn.android.band/shared_prefs/appsflyer-data.xml	0	1240	0	
+3.141072	[FS]	/data/com.nhn.android.band/shared_prefs/appsflyer-data.xml	0	
+3.147455	[UN]	/data/com.nhn.android.band/shared_prefs/appsflyer-data.xml.bak	
+3.180125	[RN]	/data/com.nhn.android.band/shared_prefs/appsflyer-data.xml	/data/com.nhn.android.band/shared_prefs/appsflyer-data.xml.bak	
+3.180295	[CR]	/data/com.nhn.android.band/shared_prefs/appsflyer-data.xml	
+3.180783	[WA]	/data/com.nhn.android.band/shared_prefs/appsflyer-data.xml	0	1240	0	
+3.180861	[FS]	/data/com.nhn.android.band/shared_prefs/appsflyer-data.xml	0	
+3.186430	[UN]	/data/com.nhn.android.band/shared_prefs/appsflyer-data.xml.bak	
+3.186739	[RN]	/data/com.nhn.android.band/shared_prefs/com.nhn.android.band_preferences.xml	/data/com.nhn.android.band/shared_prefs/com.nhn.android.band_preferences.xml.bak	
+3.186895	[CR]	/data/com.nhn.android.band/shared_prefs/com.nhn.android.band_preferences.xml	
+3.188324	[WA]	/data/com.nhn.android.band/shared_prefs/com.nhn.android.band_preferences.xml	0	448	0	
+3.188412	[FS]	/data/com.nhn.android.band/shared_prefs/com.nhn.android.band_preferences.xml	0	
+3.196866	[UN]	/data/com.nhn.android.band/shared_prefs/com.nhn.android.band_preferences.xml.bak	
+3.452590	[RN]	/data/com.nhn.android.band/shared_prefs/com.nhn.android.band_preferences.xml	/data/com.nhn.android.band/shared_prefs/com.nhn.android.band_preferences.xml.bak	
+3.452800	[CR]	/data/com.nhn.android.band/shared_prefs/com.nhn.android.band_preferences.xml	
+3.453158	[WA]	/data/com.nhn.android.band/shared_prefs/com.nhn.android.band_preferences.xml	0	448	0	
+3.453233	[FS]	/data/com.nhn.android.band/shared_prefs/com.nhn.android.band_preferences.xml	0	
+3.458867	[UN]	/data/com.nhn.android.band/shared_prefs/com.nhn.android.band_preferences.xml.bak	
+3.459215	[RN]	/data/com.nhn.android.band/shared_prefs/STAT_PREFS.xml	/data/com.nhn.android.band/shared_prefs/STAT_PREFS.xml.bak	
+3.459370	[CR]	/data/com.nhn.android.band/shared_prefs/STAT_PREFS.xml	
+3.459725	[WA]	/data/com.nhn.android.band/shared_prefs/STAT_PREFS.xml	0	448	0	
+3.459793	[FS]	/data/com.nhn.android.band/shared_prefs/STAT_PREFS.xml	0	
+3.463507	[UN]	/data/com.nhn.android.band/shared_prefs/STAT_PREFS.xml.bak	
+3.547593	[WA]	/data/com.nhn.android.band/files/jackpotlog.realm.lock	0	1184	0	
+3.548641	[WA]	/data/com.nhn.android.band/files/jackpotlog.realm.lock	0	1184	0	
+3.552152	[FS]	/data/com.nhn.android.band/files/jackpotlog.realm	0	
+3.560170	[FS]	/data/com.nhn.android.band/files/jackpotlog.realm	0	
+3.565293	[FS]	/data/com.nhn.android.band/files/jackpotlog.realm	0	
+3.635517	[CR]	/data/com.nhn.android.band/files/AppEventsLogger.persistedevents	
+3.650387	[WA]	/data/com.nhn.android.band/files/AppEventsLogger.persistedevents	0	178	0	

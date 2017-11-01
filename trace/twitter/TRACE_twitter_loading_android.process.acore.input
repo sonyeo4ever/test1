@@ -238,3 +238,243 @@
 9.379741	[FS]	/data/com.android.providers.contacts/databases/contacts2.db	1	
 9.383231	[WO]	/data/com.android.providers.contacts/databases/contacts2.db-journal	0	28	12824	
 9.383277	[FS]	/data/com.android.providers.contacts/databases/contacts2.db-journal	1	
+8.904552	[WO]	/data/com.android.providers.contacts/databases/contacts2.db-journal	0	512	12824	
+8.904615	[WO]	/data/com.android.providers.contacts/databases/contacts2.db-journal	512	4	12824	
+8.904637	[WO]	/data/com.android.providers.contacts/databases/contacts2.db-journal	516	4096	12824	
+8.904670	[WO]	/data/com.android.providers.contacts/databases/contacts2.db-journal	4612	4	12824	
+8.904697	[WO]	/data/com.android.providers.contacts/databases/contacts2.db-journal	4616	4	12824	
+8.904716	[WO]	/data/com.android.providers.contacts/databases/contacts2.db-journal	4620	4096	12824	
+8.904748	[WO]	/data/com.android.providers.contacts/databases/contacts2.db-journal	8716	4	12824	
+8.904812	[WO]	/data/com.android.providers.contacts/databases/contacts2.db-journal	8720	4	12824	
+8.904834	[WO]	/data/com.android.providers.contacts/databases/contacts2.db-journal	8724	4096	12824	
+8.904866	[WO]	/data/com.android.providers.contacts/databases/contacts2.db-journal	12820	4	12824	
+8.904896	[FS]	/data/com.android.providers.contacts/databases/contacts2.db-journal	1	
+8.909329	[FS]	/data/com.android.providers.contacts/databases	1	
+8.913777	[WO]	/data/com.android.providers.contacts/databases/contacts2.db-journal	0	12	12824	
+8.913843	[FS]	/data/com.android.providers.contacts/databases/contacts2.db-journal	1	
+8.917337	[WO]	/data/com.android.providers.contacts/databases/contacts2.db	0	4096	3985408	
+8.917391	[WO]	/data/com.android.providers.contacts/databases/contacts2.db	24576	4096	3985408	
+8.917417	[WO]	/data/com.android.providers.contacts/databases/contacts2.db	28672	4096	3985408	
+8.917451	[FS]	/data/com.android.providers.contacts/databases/contacts2.db	1	
+8.922443	[WO]	/data/com.android.providers.contacts/databases/contacts2.db-journal	0	28	12824	
+8.922492	[FS]	/data/com.android.providers.contacts/databases/contacts2.db-journal	1	
+8.942580	[WO]	/data/com.android.providers.contacts/databases/contacts2.db-journal	0	512	12824	
+8.942644	[WO]	/data/com.android.providers.contacts/databases/contacts2.db-journal	512	4	12824	
+8.942667	[WO]	/data/com.android.providers.contacts/databases/contacts2.db-journal	516	4096	12824	
+8.942703	[WO]	/data/com.android.providers.contacts/databases/contacts2.db-journal	4612	4	12824	
+8.942739	[WO]	/data/com.android.providers.contacts/databases/contacts2.db-journal	4616	4	12824	
+8.942759	[WO]	/data/com.android.providers.contacts/databases/contacts2.db-journal	4620	4096	12824	
+8.942791	[WO]	/data/com.android.providers.contacts/databases/contacts2.db-journal	8716	4	12824	
+8.942847	[WO]	/data/com.android.providers.contacts/databases/contacts2.db-journal	8720	4	12824	
+8.942869	[WO]	/data/com.android.providers.contacts/databases/contacts2.db-journal	8724	4096	12824	
+8.942902	[WO]	/data/com.android.providers.contacts/databases/contacts2.db-journal	12820	4	12824	
+8.942934	[FS]	/data/com.android.providers.contacts/databases/contacts2.db-journal	1	
+8.946568	[FS]	/data/com.android.providers.contacts/databases	1	
+8.952891	[WO]	/data/com.android.providers.contacts/databases/contacts2.db-journal	0	12	12824	
+8.953427	[FS]	/data/com.android.providers.contacts/databases/contacts2.db-journal	1	
+8.956277	[WO]	/data/com.android.providers.contacts/databases/contacts2.db	0	4096	3985408	
+8.956331	[WO]	/data/com.android.providers.contacts/databases/contacts2.db	36864	4096	3985408	
+8.956528	[WO]	/data/com.android.providers.contacts/databases/contacts2.db	208896	4096	3985408	
+8.956562	[FS]	/data/com.android.providers.contacts/databases/contacts2.db	1	
+8.961886	[WO]	/data/com.android.providers.contacts/databases/contacts2.db-journal	0	28	12824	
+8.962092	[FS]	/data/com.android.providers.contacts/databases/contacts2.db-journal	1	
+8.972079	[WO]	/data/com.android.providers.contacts/databases/contacts2.db-journal	0	512	12824	
+8.972137	[WO]	/data/com.android.providers.contacts/databases/contacts2.db-journal	512	4	12824	
+8.972159	[WO]	/data/com.android.providers.contacts/databases/contacts2.db-journal	516	4096	12824	
+8.972371	[WO]	/data/com.android.providers.contacts/databases/contacts2.db-journal	4612	4	12824	
+8.972412	[WO]	/data/com.android.providers.contacts/databases/contacts2.db-journal	4616	4	12824	
+8.972433	[WO]	/data/com.android.providers.contacts/databases/contacts2.db-journal	4620	4096	12824	
+8.972467	[WO]	/data/com.android.providers.contacts/databases/contacts2.db-journal	8716	4	12824	
+8.972528	[WO]	/data/com.android.providers.contacts/databases/contacts2.db-journal	8720	4	12824	
+8.972550	[WO]	/data/com.android.providers.contacts/databases/contacts2.db-journal	8724	4096	12824	
+8.972584	[WO]	/data/com.android.providers.contacts/databases/contacts2.db-journal	12820	4	12824	
+8.972616	[FS]	/data/com.android.providers.contacts/databases/contacts2.db-journal	1	
+8.979689	[FS]	/data/com.android.providers.contacts/databases	1	
+8.984049	[WO]	/data/com.android.providers.contacts/databases/contacts2.db-journal	0	12	12824	
+8.991603	[FS]	/data/com.android.providers.contacts/databases/contacts2.db-journal	1	
+9.015734	[WO]	/data/com.android.providers.contacts/databases/contacts2.db	0	4096	3985408	
+9.015809	[WO]	/data/com.android.providers.contacts/databases/contacts2.db	36864	4096	3985408	
+9.015835	[WO]	/data/com.android.providers.contacts/databases/contacts2.db	208896	4096	3985408	
+9.015871	[FS]	/data/com.android.providers.contacts/databases/contacts2.db	1	
+9.020758	[WO]	/data/com.android.providers.contacts/databases/contacts2.db-journal	0	28	12824	
+9.020822	[FS]	/data/com.android.providers.contacts/databases/contacts2.db-journal	1	
+9.359939	[WO]	/data/com.android.providers.contacts/databases/contacts2.db-journal	0	512	12824	
+9.360008	[WO]	/data/com.android.providers.contacts/databases/contacts2.db-journal	512	4	12824	
+9.360031	[WO]	/data/com.android.providers.contacts/databases/contacts2.db-journal	516	4096	12824	
+9.360065	[WO]	/data/com.android.providers.contacts/databases/contacts2.db-journal	4612	4	12824	
+9.360092	[WO]	/data/com.android.providers.contacts/databases/contacts2.db-journal	4616	4	12824	
+9.360111	[WO]	/data/com.android.providers.contacts/databases/contacts2.db-journal	4620	4096	12824	
+9.360144	[WO]	/data/com.android.providers.contacts/databases/contacts2.db-journal	8716	4	12824	
+9.360207	[WO]	/data/com.android.providers.contacts/databases/contacts2.db-journal	8720	4	12824	
+9.360227	[WO]	/data/com.android.providers.contacts/databases/contacts2.db-journal	8724	4096	12824	
+9.360260	[WO]	/data/com.android.providers.contacts/databases/contacts2.db-journal	12820	4	12824	
+9.360290	[FS]	/data/com.android.providers.contacts/databases/contacts2.db-journal	1	
+9.365090	[FS]	/data/com.android.providers.contacts/databases	1	
+9.377306	[WO]	/data/com.android.providers.contacts/databases/contacts2.db-journal	0	12	12824	
+9.377377	[FS]	/data/com.android.providers.contacts/databases/contacts2.db-journal	1	
+9.379615	[WO]	/data/com.android.providers.contacts/databases/contacts2.db	0	4096	3985408	
+9.379679	[WO]	/data/com.android.providers.contacts/databases/contacts2.db	24576	4096	3985408	
+9.379706	[WO]	/data/com.android.providers.contacts/databases/contacts2.db	28672	4096	3985408	
+9.379741	[FS]	/data/com.android.providers.contacts/databases/contacts2.db	1	
+9.383231	[WO]	/data/com.android.providers.contacts/databases/contacts2.db-journal	0	28	12824	
+9.383277	[FS]	/data/com.android.providers.contacts/databases/contacts2.db-journal	1	
+8.904552	[WO]	/data/com.android.providers.contacts/databases/contacts2.db-journal	0	512	12824	
+8.904615	[WO]	/data/com.android.providers.contacts/databases/contacts2.db-journal	512	4	12824	
+8.904637	[WO]	/data/com.android.providers.contacts/databases/contacts2.db-journal	516	4096	12824	
+8.904670	[WO]	/data/com.android.providers.contacts/databases/contacts2.db-journal	4612	4	12824	
+8.904697	[WO]	/data/com.android.providers.contacts/databases/contacts2.db-journal	4616	4	12824	
+8.904716	[WO]	/data/com.android.providers.contacts/databases/contacts2.db-journal	4620	4096	12824	
+8.904748	[WO]	/data/com.android.providers.contacts/databases/contacts2.db-journal	8716	4	12824	
+8.904812	[WO]	/data/com.android.providers.contacts/databases/contacts2.db-journal	8720	4	12824	
+8.904834	[WO]	/data/com.android.providers.contacts/databases/contacts2.db-journal	8724	4096	12824	
+8.904866	[WO]	/data/com.android.providers.contacts/databases/contacts2.db-journal	12820	4	12824	
+8.904896	[FS]	/data/com.android.providers.contacts/databases/contacts2.db-journal	1	
+8.909329	[FS]	/data/com.android.providers.contacts/databases	1	
+8.913777	[WO]	/data/com.android.providers.contacts/databases/contacts2.db-journal	0	12	12824	
+8.913843	[FS]	/data/com.android.providers.contacts/databases/contacts2.db-journal	1	
+8.917337	[WO]	/data/com.android.providers.contacts/databases/contacts2.db	0	4096	3985408	
+8.917391	[WO]	/data/com.android.providers.contacts/databases/contacts2.db	24576	4096	3985408	
+8.917417	[WO]	/data/com.android.providers.contacts/databases/contacts2.db	28672	4096	3985408	
+8.917451	[FS]	/data/com.android.providers.contacts/databases/contacts2.db	1	
+8.922443	[WO]	/data/com.android.providers.contacts/databases/contacts2.db-journal	0	28	12824	
+8.922492	[FS]	/data/com.android.providers.contacts/databases/contacts2.db-journal	1	
+8.942580	[WO]	/data/com.android.providers.contacts/databases/contacts2.db-journal	0	512	12824	
+8.942644	[WO]	/data/com.android.providers.contacts/databases/contacts2.db-journal	512	4	12824	
+8.942667	[WO]	/data/com.android.providers.contacts/databases/contacts2.db-journal	516	4096	12824	
+8.942703	[WO]	/data/com.android.providers.contacts/databases/contacts2.db-journal	4612	4	12824	
+8.942739	[WO]	/data/com.android.providers.contacts/databases/contacts2.db-journal	4616	4	12824	
+8.942759	[WO]	/data/com.android.providers.contacts/databases/contacts2.db-journal	4620	4096	12824	
+8.942791	[WO]	/data/com.android.providers.contacts/databases/contacts2.db-journal	8716	4	12824	
+8.942847	[WO]	/data/com.android.providers.contacts/databases/contacts2.db-journal	8720	4	12824	
+8.942869	[WO]	/data/com.android.providers.contacts/databases/contacts2.db-journal	8724	4096	12824	
+8.942902	[WO]	/data/com.android.providers.contacts/databases/contacts2.db-journal	12820	4	12824	
+8.942934	[FS]	/data/com.android.providers.contacts/databases/contacts2.db-journal	1	
+8.946568	[FS]	/data/com.android.providers.contacts/databases	1	
+8.952891	[WO]	/data/com.android.providers.contacts/databases/contacts2.db-journal	0	12	12824	
+8.953427	[FS]	/data/com.android.providers.contacts/databases/contacts2.db-journal	1	
+8.956277	[WO]	/data/com.android.providers.contacts/databases/contacts2.db	0	4096	3985408	
+8.956331	[WO]	/data/com.android.providers.contacts/databases/contacts2.db	36864	4096	3985408	
+8.956528	[WO]	/data/com.android.providers.contacts/databases/contacts2.db	208896	4096	3985408	
+8.956562	[FS]	/data/com.android.providers.contacts/databases/contacts2.db	1	
+8.961886	[WO]	/data/com.android.providers.contacts/databases/contacts2.db-journal	0	28	12824	
+8.962092	[FS]	/data/com.android.providers.contacts/databases/contacts2.db-journal	1	
+8.972079	[WO]	/data/com.android.providers.contacts/databases/contacts2.db-journal	0	512	12824	
+8.972137	[WO]	/data/com.android.providers.contacts/databases/contacts2.db-journal	512	4	12824	
+8.972159	[WO]	/data/com.android.providers.contacts/databases/contacts2.db-journal	516	4096	12824	
+8.972371	[WO]	/data/com.android.providers.contacts/databases/contacts2.db-journal	4612	4	12824	
+8.972412	[WO]	/data/com.android.providers.contacts/databases/contacts2.db-journal	4616	4	12824	
+8.972433	[WO]	/data/com.android.providers.contacts/databases/contacts2.db-journal	4620	4096	12824	
+8.972467	[WO]	/data/com.android.providers.contacts/databases/contacts2.db-journal	8716	4	12824	
+8.972528	[WO]	/data/com.android.providers.contacts/databases/contacts2.db-journal	8720	4	12824	
+8.972550	[WO]	/data/com.android.providers.contacts/databases/contacts2.db-journal	8724	4096	12824	
+8.972584	[WO]	/data/com.android.providers.contacts/databases/contacts2.db-journal	12820	4	12824	
+8.972616	[FS]	/data/com.android.providers.contacts/databases/contacts2.db-journal	1	
+8.979689	[FS]	/data/com.android.providers.contacts/databases	1	
+8.984049	[WO]	/data/com.android.providers.contacts/databases/contacts2.db-journal	0	12	12824	
+8.991603	[FS]	/data/com.android.providers.contacts/databases/contacts2.db-journal	1	
+9.015734	[WO]	/data/com.android.providers.contacts/databases/contacts2.db	0	4096	3985408	
+9.015809	[WO]	/data/com.android.providers.contacts/databases/contacts2.db	36864	4096	3985408	
+9.015835	[WO]	/data/com.android.providers.contacts/databases/contacts2.db	208896	4096	3985408	
+9.015871	[FS]	/data/com.android.providers.contacts/databases/contacts2.db	1	
+9.020758	[WO]	/data/com.android.providers.contacts/databases/contacts2.db-journal	0	28	12824	
+9.020822	[FS]	/data/com.android.providers.contacts/databases/contacts2.db-journal	1	
+9.359939	[WO]	/data/com.android.providers.contacts/databases/contacts2.db-journal	0	512	12824	
+9.360008	[WO]	/data/com.android.providers.contacts/databases/contacts2.db-journal	512	4	12824	
+9.360031	[WO]	/data/com.android.providers.contacts/databases/contacts2.db-journal	516	4096	12824	
+9.360065	[WO]	/data/com.android.providers.contacts/databases/contacts2.db-journal	4612	4	12824	
+9.360092	[WO]	/data/com.android.providers.contacts/databases/contacts2.db-journal	4616	4	12824	
+9.360111	[WO]	/data/com.android.providers.contacts/databases/contacts2.db-journal	4620	4096	12824	
+9.360144	[WO]	/data/com.android.providers.contacts/databases/contacts2.db-journal	8716	4	12824	
+9.360207	[WO]	/data/com.android.providers.contacts/databases/contacts2.db-journal	8720	4	12824	
+9.360227	[WO]	/data/com.android.providers.contacts/databases/contacts2.db-journal	8724	4096	12824	
+9.360260	[WO]	/data/com.android.providers.contacts/databases/contacts2.db-journal	12820	4	12824	
+9.360290	[FS]	/data/com.android.providers.contacts/databases/contacts2.db-journal	1	
+9.365090	[FS]	/data/com.android.providers.contacts/databases	1	
+9.377306	[WO]	/data/com.android.providers.contacts/databases/contacts2.db-journal	0	12	12824	
+9.377377	[FS]	/data/com.android.providers.contacts/databases/contacts2.db-journal	1	
+9.379615	[WO]	/data/com.android.providers.contacts/databases/contacts2.db	0	4096	3985408	
+9.379679	[WO]	/data/com.android.providers.contacts/databases/contacts2.db	24576	4096	3985408	
+9.379706	[WO]	/data/com.android.providers.contacts/databases/contacts2.db	28672	4096	3985408	
+9.379741	[FS]	/data/com.android.providers.contacts/databases/contacts2.db	1	
+9.383231	[WO]	/data/com.android.providers.contacts/databases/contacts2.db-journal	0	28	12824	
+9.383277	[FS]	/data/com.android.providers.contacts/databases/contacts2.db-journal	1	
+8.904552	[WO]	/data/com.android.providers.contacts/databases/contacts2.db-journal	0	512	12824	
+8.904615	[WO]	/data/com.android.providers.contacts/databases/contacts2.db-journal	512	4	12824	
+8.904637	[WO]	/data/com.android.providers.contacts/databases/contacts2.db-journal	516	4096	12824	
+8.904670	[WO]	/data/com.android.providers.contacts/databases/contacts2.db-journal	4612	4	12824	
+8.904697	[WO]	/data/com.android.providers.contacts/databases/contacts2.db-journal	4616	4	12824	
+8.904716	[WO]	/data/com.android.providers.contacts/databases/contacts2.db-journal	4620	4096	12824	
+8.904748	[WO]	/data/com.android.providers.contacts/databases/contacts2.db-journal	8716	4	12824	
+8.904812	[WO]	/data/com.android.providers.contacts/databases/contacts2.db-journal	8720	4	12824	
+8.904834	[WO]	/data/com.android.providers.contacts/databases/contacts2.db-journal	8724	4096	12824	
+8.904866	[WO]	/data/com.android.providers.contacts/databases/contacts2.db-journal	12820	4	12824	
+8.904896	[FS]	/data/com.android.providers.contacts/databases/contacts2.db-journal	1	
+8.909329	[FS]	/data/com.android.providers.contacts/databases	1	
+8.913777	[WO]	/data/com.android.providers.contacts/databases/contacts2.db-journal	0	12	12824	
+8.913843	[FS]	/data/com.android.providers.contacts/databases/contacts2.db-journal	1	
+8.917337	[WO]	/data/com.android.providers.contacts/databases/contacts2.db	0	4096	3985408	
+8.917391	[WO]	/data/com.android.providers.contacts/databases/contacts2.db	24576	4096	3985408	
+8.917417	[WO]	/data/com.android.providers.contacts/databases/contacts2.db	28672	4096	3985408	
+8.917451	[FS]	/data/com.android.providers.contacts/databases/contacts2.db	1	
+8.922443	[WO]	/data/com.android.providers.contacts/databases/contacts2.db-journal	0	28	12824	
+8.922492	[FS]	/data/com.android.providers.contacts/databases/contacts2.db-journal	1	
+8.942580	[WO]	/data/com.android.providers.contacts/databases/contacts2.db-journal	0	512	12824	
+8.942644	[WO]	/data/com.android.providers.contacts/databases/contacts2.db-journal	512	4	12824	
+8.942667	[WO]	/data/com.android.providers.contacts/databases/contacts2.db-journal	516	4096	12824	
+8.942703	[WO]	/data/com.android.providers.contacts/databases/contacts2.db-journal	4612	4	12824	
+8.942739	[WO]	/data/com.android.providers.contacts/databases/contacts2.db-journal	4616	4	12824	
+8.942759	[WO]	/data/com.android.providers.contacts/databases/contacts2.db-journal	4620	4096	12824	
+8.942791	[WO]	/data/com.android.providers.contacts/databases/contacts2.db-journal	8716	4	12824	
+8.942847	[WO]	/data/com.android.providers.contacts/databases/contacts2.db-journal	8720	4	12824	
+8.942869	[WO]	/data/com.android.providers.contacts/databases/contacts2.db-journal	8724	4096	12824	
+8.942902	[WO]	/data/com.android.providers.contacts/databases/contacts2.db-journal	12820	4	12824	
+8.942934	[FS]	/data/com.android.providers.contacts/databases/contacts2.db-journal	1	
+8.946568	[FS]	/data/com.android.providers.contacts/databases	1	
+8.952891	[WO]	/data/com.android.providers.contacts/databases/contacts2.db-journal	0	12	12824	
+8.953427	[FS]	/data/com.android.providers.contacts/databases/contacts2.db-journal	1	
+8.956277	[WO]	/data/com.android.providers.contacts/databases/contacts2.db	0	4096	3985408	
+8.956331	[WO]	/data/com.android.providers.contacts/databases/contacts2.db	36864	4096	3985408	
+8.956528	[WO]	/data/com.android.providers.contacts/databases/contacts2.db	208896	4096	3985408	
+8.956562	[FS]	/data/com.android.providers.contacts/databases/contacts2.db	1	
+8.961886	[WO]	/data/com.android.providers.contacts/databases/contacts2.db-journal	0	28	12824	
+8.962092	[FS]	/data/com.android.providers.contacts/databases/contacts2.db-journal	1	
+8.972079	[WO]	/data/com.android.providers.contacts/databases/contacts2.db-journal	0	512	12824	
+8.972137	[WO]	/data/com.android.providers.contacts/databases/contacts2.db-journal	512	4	12824	
+8.972159	[WO]	/data/com.android.providers.contacts/databases/contacts2.db-journal	516	4096	12824	
+8.972371	[WO]	/data/com.android.providers.contacts/databases/contacts2.db-journal	4612	4	12824	
+8.972412	[WO]	/data/com.android.providers.contacts/databases/contacts2.db-journal	4616	4	12824	
+8.972433	[WO]	/data/com.android.providers.contacts/databases/contacts2.db-journal	4620	4096	12824	
+8.972467	[WO]	/data/com.android.providers.contacts/databases/contacts2.db-journal	8716	4	12824	
+8.972528	[WO]	/data/com.android.providers.contacts/databases/contacts2.db-journal	8720	4	12824	
+8.972550	[WO]	/data/com.android.providers.contacts/databases/contacts2.db-journal	8724	4096	12824	
+8.972584	[WO]	/data/com.android.providers.contacts/databases/contacts2.db-journal	12820	4	12824	
+8.972616	[FS]	/data/com.android.providers.contacts/databases/contacts2.db-journal	1	
+8.979689	[FS]	/data/com.android.providers.contacts/databases	1	
+8.984049	[WO]	/data/com.android.providers.contacts/databases/contacts2.db-journal	0	12	12824	
+8.991603	[FS]	/data/com.android.providers.contacts/databases/contacts2.db-journal	1	
+9.015734	[WO]	/data/com.android.providers.contacts/databases/contacts2.db	0	4096	3985408	
+9.015809	[WO]	/data/com.android.providers.contacts/databases/contacts2.db	36864	4096	3985408	
+9.015835	[WO]	/data/com.android.providers.contacts/databases/contacts2.db	208896	4096	3985408	
+9.015871	[FS]	/data/com.android.providers.contacts/databases/contacts2.db	1	
+9.020758	[WO]	/data/com.android.providers.contacts/databases/contacts2.db-journal	0	28	12824	
+9.020822	[FS]	/data/com.android.providers.contacts/databases/contacts2.db-journal	1	
+9.359939	[WO]	/data/com.android.providers.contacts/databases/contacts2.db-journal	0	512	12824	
+9.360008	[WO]	/data/com.android.providers.contacts/databases/contacts2.db-journal	512	4	12824	
+9.360031	[WO]	/data/com.android.providers.contacts/databases/contacts2.db-journal	516	4096	12824	
+9.360065	[WO]	/data/com.android.providers.contacts/databases/contacts2.db-journal	4612	4	12824	
+9.360092	[WO]	/data/com.android.providers.contacts/databases/contacts2.db-journal	4616	4	12824	
+9.360111	[WO]	/data/com.android.providers.contacts/databases/contacts2.db-journal	4620	4096	12824	
+9.360144	[WO]	/data/com.android.providers.contacts/databases/contacts2.db-journal	8716	4	12824	
+9.360207	[WO]	/data/com.android.providers.contacts/databases/contacts2.db-journal	8720	4	12824	
+9.360227	[WO]	/data/com.android.providers.contacts/databases/contacts2.db-journal	8724	4096	12824	
+9.360260	[WO]	/data/com.android.providers.contacts/databases/contacts2.db-journal	12820	4	12824	
+9.360290	[FS]	/data/com.android.providers.contacts/databases/contacts2.db-journal	1	
+9.365090	[FS]	/data/com.android.providers.contacts/databases	1	
+9.377306	[WO]	/data/com.android.providers.contacts/databases/contacts2.db-journal	0	12	12824	
+9.377377	[FS]	/data/com.android.providers.contacts/databases/contacts2.db-journal	1	
+9.379615	[WO]	/data/com.android.providers.contacts/databases/contacts2.db	0	4096	3985408	
+9.379679	[WO]	/data/com.android.providers.contacts/databases/contacts2.db	24576	4096	3985408	
+9.379706	[WO]	/data/com.android.providers.contacts/databases/contacts2.db	28672	4096	3985408	
+9.379741	[FS]	/data/com.android.providers.contacts/databases/contacts2.db	1	
+9.383231	[WO]	/data/com.android.providers.contacts/databases/contacts2.db-journal	0	28	12824	
+9.383277	[FS]	/data/com.android.providers.contacts/databases/contacts2.db-journal	1	

@@ -32,3 +32,71 @@
 21.890393	[UN]	/system/netstats/uid.1507300282106-.backup	
 21.900792	[WO]	/system/notification_log.db-journal	0	28	49760	
 21.901935	[FS]	/system/notification_log.db-journal	1	
+21.534028	[RD]	/media/0/Android/data/com.skb.btvmobile/files	
+21.534763	[RD]	/media/0/Android/data/com.skb.btvmobile	
+21.731323	[RN]	/system/netpolicy.xml	/system/netpolicy.xml.bak	
+21.731589	[CR]	/system/netpolicy.xml	
+21.732269	[WA]	/system/netpolicy.xml	0	113	0	
+21.732413	[FS]	/system/netpolicy.xml	0	
+21.744681	[UN]	/system/netpolicy.xml.bak	
+21.828818	[WO]	/system/notification_log.db-journal	0	512	49760	
+21.828879	[WO]	/system/notification_log.db-journal	512	4	49760	
+21.828900	[WO]	/system/notification_log.db-journal	516	4096	49760	
+21.828934	[WO]	/system/notification_log.db-journal	4612	4	49760	
+21.828968	[WO]	/system/notification_log.db-journal	4616	4	49760	
+21.828988	[WO]	/system/notification_log.db-journal	4620	4096	49760	
+21.829021	[WO]	/system/notification_log.db-journal	8716	4	49760	
+21.844066	[WO]	/system/notification_log.db-journal	8720	4	49760	
+21.844540	[WO]	/system/notification_log.db-journal	8724	4096	49760	
+21.844579	[WO]	/system/notification_log.db-journal	12820	4	49760	
+21.844614	[FS]	/system/notification_log.db-journal	1	
+21.855394	[FS]	/system	1	
+21.860730	[RN]	/system/netstats/uid.1507300282106-	/system/netstats/uid.1507300282106-.backup	
+21.860977	[CR]	/system/netstats/uid.1507300282106-	
+21.864703	[WA]	/system/netstats/uid.1507300282106-	0	8192	0	
+21.869961	[WA]	/system/netstats/uid.1507300282106-	8192	8192	8192	
+21.871358	[WA]	/system/netstats/uid.1507300282106-	16384	5446	16384	
+21.871460	[FS]	/system/netstats/uid.1507300282106-	0	
+21.874335	[WO]	/system/notification_log.db-journal	0	12	49760	
+21.874396	[FS]	/system/notification_log.db-journal	1	
+21.888926	[WO]	/system/notification_log.db	0	4096	65536	
+21.888989	[WO]	/system/notification_log.db	16384	4096	65536	
+21.889018	[WO]	/system/notification_log.db	61440	4096	65536	
+21.889052	[FS]	/system/notification_log.db	1	
+21.890393	[UN]	/system/netstats/uid.1507300282106-.backup	
+21.900792	[WO]	/system/notification_log.db-journal	0	28	49760	
+21.901935	[FS]	/system/notification_log.db-journal	1	
+21.534028	[RD]	/media/0/Android/data/com.skb.btvmobile/files	
+21.534763	[RD]	/media/0/Android/data/com.skb.btvmobile	
+21.731323	[RN]	/system/netpolicy.xml	/system/netpolicy.xml.bak	
+21.731589	[CR]	/system/netpolicy.xml	
+21.732269	[WA]	/system/netpolicy.xml	0	113	0	
+21.732413	[FS]	/system/netpolicy.xml	0	
+21.744681	[UN]	/system/netpolicy.xml.bak	
+21.828818	[WO]	/system/notification_log.db-journal	0	512	49760	
+21.828879	[WO]	/system/notification_log.db-journal	512	4	49760	
+21.828900	[WO]	/system/notification_log.db-journal	516	4096	49760	
+21.828934	[WO]	/system/notification_log.db-journal	4612	4	49760	
+21.828968	[WO]	/system/notification_log.db-journal	4616	4	49760	
+21.828988	[WO]	/system/notification_log.db-journal	4620	4096	49760	
+21.829021	[WO]	/system/notification_log.db-journal	8716	4	49760	
+21.844066	[WO]	/system/notification_log.db-journal	8720	4	49760	
+21.844540	[WO]	/system/notification_log.db-journal	8724	4096	49760	
+21.844579	[WO]	/system/notification_log.db-journal	12820	4	49760	
+21.844614	[FS]	/system/notification_log.db-journal	1	
+21.855394	[FS]	/system	1	
+21.860730	[RN]	/system/netstats/uid.1507300282106-	/system/netstats/uid.1507300282106-.backup	
+21.860977	[CR]	/system/netstats/uid.1507300282106-	
+21.864703	[WA]	/system/netstats/uid.1507300282106-	0	8192	0	
+21.869961	[WA]	/system/netstats/uid.1507300282106-	8192	8192	8192	
+21.871358	[WA]	/system/netstats/uid.1507300282106-	16384	5446	16384	
+21.871460	[FS]	/system/netstats/uid.1507300282106-	0	
+21.874335	[WO]	/system/notification_log.db-journal	0	12	49760	
+21.874396	[FS]	/system/notification_log.db-journal	1	
+21.888926	[WO]	/system/notification_log.db	0	4096	65536	
+21.888989	[WO]	/system/notification_log.db	16384	4096	65536	
+21.889018	[WO]	/system/notification_log.db	61440	4096	65536	
+21.889052	[FS]	/system/notification_log.db	1	
+21.890393	[UN]	/system/netstats/uid.1507300282106-.backup	
+21.900792	[WO]	/system/notification_log.db-journal	0	28	49760	
+21.901935	[FS]	/system/notification_log.db-journal	1	

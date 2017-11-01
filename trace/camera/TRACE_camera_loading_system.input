@@ -285,3 +285,864 @@
 82.469584	[WA]	/system/recent_images/15_task_thumbnail.png	188749	4096	188749	
 82.469664	[WA]	/system/recent_images/15_task_thumbnail.png	192845	4096	192845	
 82.469768	[WA]	/system/recent_images/15_task_thumbnail.png	196941	4	196941	
+24.832776	[RN]	/system/usagestats/0/screen_on_time	/system/usagestats/0/screen_on_time.bak	
+24.833153	[CR]	/system/usagestats/0/screen_on_time	
+24.833279	[WA]	/system/usagestats/0/screen_on_time	0	8	0	
+24.833382	[FS]	/system/usagestats/0/screen_on_time	0	
+24.846331	[UN]	/system/usagestats/0/screen_on_time.bak	
+30.236461	[CR]	/media/0/Android/data/com.google.android.youtube/cache/cache-987752180probe	
+30.237137	[UN]	/media/0/Android/data/com.google.android.youtube/cache/cache-987752180probe	
+30.474652	[RN]	/media/0/Android/data/com.google.android.youtube/cache/exo/cached_content_index.exi	/media/0/Android/data/com.google.android.youtube/cache/exo/cached_content_index.exi.bak	
+30.476148	[CR]	/media/0/Android/data/com.google.android.youtube/cache/exo/cached_content_index.exi	
+30.477161	[WA]	/media/0/Android/data/com.google.android.youtube/cache/exo/cached_content_index.exi	0	1534	0	
+30.477504	[FS]	/media/0/Android/data/com.google.android.youtube/cache/exo/cached_content_index.exi	0	
+30.484640	[UN]	/media/0/Android/data/com.google.android.youtube/cache/exo/cached_content_index.exi.bak	
+42.212522	[RN]	/system/usagestats/0/daily/1507593600000	/system/usagestats/0/daily/1507593600000.bak	
+42.213776	[CR]	/system/usagestats/0/daily/1507593600000	
+42.216558	[WA]	/system/usagestats/0/daily/1507593600000	0	8189	0	
+42.217863	[WA]	/system/usagestats/0/daily/1507593600000	8189	8166	8189	
+42.219243	[WA]	/system/usagestats/0/daily/1507593600000	16355	8191	16355	
+42.220508	[WA]	/system/usagestats/0/daily/1507593600000	24546	8184	24546	
+42.221789	[WA]	/system/usagestats/0/daily/1507593600000	32730	8180	32730	
+42.223714	[WA]	/system/usagestats/0/daily/1507593600000	40910	8184	40910	
+42.225285	[WA]	/system/usagestats/0/daily/1507593600000	49094	8186	49094	
+42.226275	[WA]	/system/usagestats/0/daily/1507593600000	57280	8181	57280	
+42.227392	[WA]	/system/usagestats/0/daily/1507593600000	65461	5992	65461	
+42.227515	[FS]	/system/usagestats/0/daily/1507593600000	0	
+42.240367	[UN]	/system/usagestats/0/daily/1507593600000.bak	
+42.241786	[RN]	/system/usagestats/0/weekly/1507161603615	/system/usagestats/0/weekly/1507161603615.bak	
+42.242000	[CR]	/system/usagestats/0/weekly/1507161603615	
+42.245709	[WA]	/system/usagestats/0/weekly/1507161603615	0	8186	0	
+42.246212	[WA]	/system/usagestats/0/weekly/1507161603615	8186	240	8186	
+42.246306	[FS]	/system/usagestats/0/weekly/1507161603615	0	
+42.251123	[UN]	/system/usagestats/0/weekly/1507161603615.bak	
+42.251972	[RN]	/system/usagestats/0/monthly/1505952003615	/system/usagestats/0/monthly/1505952003615.bak	
+42.252414	[CR]	/system/usagestats/0/monthly/1505952003615	
+42.255091	[WA]	/system/usagestats/0/monthly/1505952003615	0	8190	0	
+42.255766	[WA]	/system/usagestats/0/monthly/1505952003615	8190	1917	8190	
+42.255860	[FS]	/system/usagestats/0/monthly/1505952003615	0	
+42.262729	[UN]	/system/usagestats/0/monthly/1505952003615.bak	
+42.263651	[RN]	/system/usagestats/0/yearly/1502458468760	/system/usagestats/0/yearly/1502458468760.bak	
+42.264110	[CR]	/system/usagestats/0/yearly/1502458468760	
+42.266019	[WA]	/system/usagestats/0/yearly/1502458468760	0	8192	0	
+42.267403	[WA]	/system/usagestats/0/yearly/1502458468760	8192	8176	8192	
+42.268792	[WA]	/system/usagestats/0/yearly/1502458468760	16368	5116	16368	
+42.268916	[FS]	/system/usagestats/0/yearly/1502458468760	0	
+42.274179	[CR]	/system/recent_tasks/15_task.xml	
+42.274314	[WA]	/system/recent_tasks/15_task.xml	0	1034	0	
+42.274403	[WA]	/system/recent_tasks/15_task.xml	1034	1	1034	
+42.274453	[FS]	/system/recent_tasks/15_task.xml	0	
+42.286740	[UN]	/system/usagestats/0/yearly/1502458468760.bak	
+44.258354	[RN]	/system/users/0/runtime-permissions.xml	/system/users/0/runtime-permissions.xml.bak	
+44.258810	[CR]	/system/users/0/runtime-permissions.xml	
+44.273385	[WA]	/system/users/0/runtime-permissions.xml	0	8192	0	
+44.278799	[WA]	/system/users/0/runtime-permissions.xml	8192	8155	8192	
+44.278933	[FS]	/system/users/0/runtime-permissions.xml	0	
+44.288199	[UN]	/system/users/0/runtime-permissions.xml.bak	
+44.348891	[UN]	/cam_socket1	
+47.955536	[CR]	/media/0/DCIM/Camera/VID_20171010_214149.mp4	
+47.956041	[FS]	/media/0/DCIM/Camera/VID_20171010_214149.mp4	0	
+49.088806	[UN]	/media/0/DCIM/Camera/VID_20171010_214149.mp4	
+54.227575	[WO]	/system/notification_log.db-journal	0	512	49760	
+54.227645	[WO]	/system/notification_log.db-journal	512	4	49760	
+54.227667	[WO]	/system/notification_log.db-journal	516	4096	49760	
+54.227702	[WO]	/system/notification_log.db-journal	4612	4	49760	
+54.227736	[WO]	/system/notification_log.db-journal	4616	4	49760	
+54.227756	[WO]	/system/notification_log.db-journal	4620	4096	49760	
+54.227790	[WO]	/system/notification_log.db-journal	8716	4	49760	
+54.227841	[WO]	/system/notification_log.db-journal	8720	4	49760	
+54.227860	[WO]	/system/notification_log.db-journal	8724	4096	49760	
+54.227893	[WO]	/system/notification_log.db-journal	12820	4	49760	
+54.227924	[FS]	/system/notification_log.db-journal	1	
+54.230867	[FS]	/system	1	
+54.236653	[WO]	/system/notification_log.db-journal	0	12	49760	
+54.236738	[FS]	/system/notification_log.db-journal	1	
+54.239776	[WO]	/system/notification_log.db	0	4096	49152	
+54.239829	[WO]	/system/notification_log.db	16384	4096	49152	
+54.239857	[WO]	/system/notification_log.db	45056	4096	49152	
+54.239892	[FS]	/system/notification_log.db	1	
+54.242487	[WO]	/system/notification_log.db-journal	0	28	49760	
+54.242526	[FS]	/system/notification_log.db-journal	1	
+55.926838	[CR]	/media/0/DCIM/Camera/IMG_20171010_214155.jpg	
+55.953188	[WA]	/media/0/DCIM/Camera/IMG_20171010_214155.jpg	0	65062	0	
+55.954566	[WA]	/media/0/DCIM/Camera/IMG_20171010_214155.jpg	65062	65536	65062	
+55.959618	[WA]	/media/0/DCIM/Camera/IMG_20171010_214155.jpg	130598	65536	130598	
+55.966527	[WA]	/media/0/DCIM/Camera/IMG_20171010_214155.jpg	196134	65536	196134	
+55.967453	[WA]	/media/0/DCIM/Camera/IMG_20171010_214155.jpg	261670	65536	261670	
+55.968333	[WA]	/media/0/DCIM/Camera/IMG_20171010_214155.jpg	327206	65536	327206	
+55.969215	[WA]	/media/0/DCIM/Camera/IMG_20171010_214155.jpg	392742	65536	392742	
+55.970660	[WA]	/media/0/DCIM/Camera/IMG_20171010_214155.jpg	458278	65536	458278	
+55.971551	[WA]	/media/0/DCIM/Camera/IMG_20171010_214155.jpg	523814	65536	523814	
+55.972433	[WA]	/media/0/DCIM/Camera/IMG_20171010_214155.jpg	589350	65536	589350	
+55.973454	[WA]	/media/0/DCIM/Camera/IMG_20171010_214155.jpg	654886	65536	654886	
+55.974347	[WA]	/media/0/DCIM/Camera/IMG_20171010_214155.jpg	720422	65536	720422	
+55.975243	[WA]	/media/0/DCIM/Camera/IMG_20171010_214155.jpg	785958	65536	785958	
+55.976132	[WA]	/media/0/DCIM/Camera/IMG_20171010_214155.jpg	851494	65536	851494	
+55.977027	[WA]	/media/0/DCIM/Camera/IMG_20171010_214155.jpg	917030	65536	917030	
+55.977920	[WA]	/media/0/DCIM/Camera/IMG_20171010_214155.jpg	982566	65536	982566	
+55.978814	[WA]	/media/0/DCIM/Camera/IMG_20171010_214155.jpg	1048102	65536	1048102	
+55.979771	[WA]	/media/0/DCIM/Camera/IMG_20171010_214155.jpg	1113638	65536	1113638	
+55.980659	[WA]	/media/0/DCIM/Camera/IMG_20171010_214155.jpg	1179174	65536	1179174	
+55.981571	[WA]	/media/0/DCIM/Camera/IMG_20171010_214155.jpg	1244710	65536	1244710	
+55.982470	[WA]	/media/0/DCIM/Camera/IMG_20171010_214155.jpg	1310246	65536	1310246	
+55.983499	[WA]	/media/0/DCIM/Camera/IMG_20171010_214155.jpg	1375782	65536	1375782	
+55.984395	[WA]	/media/0/DCIM/Camera/IMG_20171010_214155.jpg	1441318	65536	1441318	
+55.985658	[WA]	/media/0/DCIM/Camera/IMG_20171010_214155.jpg	1506854	65536	1506854	
+55.986540	[WA]	/media/0/DCIM/Camera/IMG_20171010_214155.jpg	1572390	65536	1572390	
+55.987470	[WA]	/media/0/DCIM/Camera/IMG_20171010_214155.jpg	1637926	65536	1637926	
+55.988368	[WA]	/media/0/DCIM/Camera/IMG_20171010_214155.jpg	1703462	65536	1703462	
+55.989259	[WA]	/media/0/DCIM/Camera/IMG_20171010_214155.jpg	1768998	65536	1768998	
+55.990549	[WA]	/media/0/DCIM/Camera/IMG_20171010_214155.jpg	1834534	65536	1834534	
+55.991810	[WA]	/media/0/DCIM/Camera/IMG_20171010_214155.jpg	1900070	65536	1900070	
+55.992890	[WA]	/media/0/DCIM/Camera/IMG_20171010_214155.jpg	1965606	65536	1965606	
+55.993979	[WA]	/media/0/DCIM/Camera/IMG_20171010_214155.jpg	2031142	37170	2031142	
+56.009119	[WO]	/system/notification_log.db-journal	0	512	49760	
+56.009162	[WO]	/system/notification_log.db-journal	512	4	49760	
+56.009183	[WO]	/system/notification_log.db-journal	516	4096	49760	
+56.009218	[WO]	/system/notification_log.db-journal	4612	4	49760	
+56.009252	[WO]	/system/notification_log.db-journal	4616	4	49760	
+56.009271	[WO]	/system/notification_log.db-journal	4620	4096	49760	
+56.009303	[WO]	/system/notification_log.db-journal	8716	4	49760	
+56.009353	[WO]	/system/notification_log.db-journal	8720	4	49760	
+56.009373	[WO]	/system/notification_log.db-journal	8724	4096	49760	
+56.009405	[WO]	/system/notification_log.db-journal	12820	4	49760	
+56.009436	[FS]	/system/notification_log.db-journal	1	
+56.027600	[FS]	/system	1	
+56.036923	[WO]	/system/notification_log.db-journal	0	12	49760	
+56.036964	[FS]	/system/notification_log.db-journal	1	
+56.039027	[WO]	/system/notification_log.db	0	4096	49152	
+56.039067	[WO]	/system/notification_log.db	16384	4096	49152	
+56.039502	[WO]	/system/notification_log.db	45056	4096	49152	
+56.040100	[FS]	/system/notification_log.db	1	
+56.046904	[WO]	/system/notification_log.db-journal	0	28	49760	
+56.047257	[FS]	/system/notification_log.db-journal	1	
+60.268791	[UN]	/cam_socket2	
+69.878133	[WO]	/system/notification_log.db-journal	0	512	49760	
+69.878203	[WO]	/system/notification_log.db-journal	512	4	49760	
+69.878225	[WO]	/system/notification_log.db-journal	516	4096	49760	
+69.878260	[WO]	/system/notification_log.db-journal	4612	4	49760	
+69.878294	[WO]	/system/notification_log.db-journal	4616	4	49760	
+69.878313	[WO]	/system/notification_log.db-journal	4620	4096	49760	
+69.878347	[WO]	/system/notification_log.db-journal	8716	4	49760	
+69.878398	[WO]	/system/notification_log.db-journal	8720	4	49760	
+69.878419	[WO]	/system/notification_log.db-journal	8724	4096	49760	
+69.878451	[WO]	/system/notification_log.db-journal	12820	4	49760	
+69.878482	[FS]	/system/notification_log.db-journal	1	
+69.889874	[FS]	/system	1	
+69.898731	[WO]	/system/notification_log.db-journal	0	12	49760	
+69.898798	[FS]	/system/notification_log.db-journal	1	
+69.900286	[WO]	/system/notification_log.db	0	4096	49152	
+69.900677	[WO]	/system/notification_log.db	16384	4096	49152	
+69.900749	[WO]	/system/notification_log.db	45056	4096	49152	
+69.900781	[FS]	/system/notification_log.db	1	
+69.904863	[WO]	/system/notification_log.db-journal	0	28	49760	
+69.905435	[FS]	/system/notification_log.db-journal	1	
+70.389013	[CR]	/media/0/DCIM/Camera/IMG_20171010_214211.jpg	
+70.391052	[WO]	/system/notification_log.db-journal	0	512	49760	
+70.391112	[WO]	/system/notification_log.db-journal	512	4	49760	
+70.391133	[WO]	/system/notification_log.db-journal	516	4096	49760	
+70.391421	[WO]	/system/notification_log.db-journal	4612	4	49760	
+70.391466	[WO]	/system/notification_log.db-journal	4616	4	49760	
+70.391487	[WO]	/system/notification_log.db-journal	4620	4096	49760	
+70.391520	[WO]	/system/notification_log.db-journal	8716	4	49760	
+70.391652	[WO]	/system/notification_log.db-journal	8720	4	49760	
+70.391675	[WO]	/system/notification_log.db-journal	8724	4096	49760	
+70.391709	[WO]	/system/notification_log.db-journal	12820	4	49760	
+70.391742	[FS]	/system/notification_log.db-journal	1	
+70.392925	[WA]	/media/0/DCIM/Camera/IMG_20171010_214211.jpg	0	64925	0	
+70.394982	[WA]	/media/0/DCIM/Camera/IMG_20171010_214211.jpg	64925	65536	64925	
+70.397799	[WA]	/media/0/DCIM/Camera/IMG_20171010_214211.jpg	130461	65536	130461	
+70.398751	[WA]	/media/0/DCIM/Camera/IMG_20171010_214211.jpg	195997	33525	195997	
+70.399583	[FS]	/system	1	
+70.410438	[WO]	/system/notification_log.db-journal	0	12	49760	
+70.410482	[FS]	/system/notification_log.db-journal	1	
+70.414674	[WO]	/system/notification_log.db	0	4096	49152	
+70.414775	[WO]	/system/notification_log.db	16384	4096	49152	
+70.414803	[WO]	/system/notification_log.db	45056	4096	49152	
+70.414883	[FS]	/system/notification_log.db	1	
+70.418390	[WO]	/system/notification_log.db-journal	0	28	49760	
+70.418473	[FS]	/system/notification_log.db-journal	1	
+76.609545	[UN]	/cam_socket2	
+79.324916	[RN]	/system/usagestats/0/screen_on_time	/system/usagestats/0/screen_on_time.bak	
+79.325221	[CR]	/system/usagestats/0/screen_on_time	
+79.325331	[WA]	/system/usagestats/0/screen_on_time	0	8	0	
+79.325426	[FS]	/system/usagestats/0/screen_on_time	0	
+79.341337	[UN]	/system/usagestats/0/screen_on_time.bak	
+81.833389	[CR]	/system/recent_images/15_task_thumbnail.png	
+81.833557	[WA]	/system/recent_images/15_task_thumbnail.png	0	8	0	
+81.833652	[WA]	/system/recent_images/15_task_thumbnail.png	8	8	8	
+81.833706	[WA]	/system/recent_images/15_task_thumbnail.png	16	13	16	
+81.833759	[WA]	/system/recent_images/15_task_thumbnail.png	29	4	29	
+81.833808	[WA]	/system/recent_images/15_task_thumbnail.png	33	8	33	
+81.833858	[WA]	/system/recent_images/15_task_thumbnail.png	41	4	41	
+81.833908	[WA]	/system/recent_images/15_task_thumbnail.png	45	4	45	
+81.888611	[WA]	/system/recent_images/15_task_thumbnail.png	49	8	49	
+81.888677	[WA]	/system/recent_images/15_task_thumbnail.png	57	4096	57	
+81.888758	[WA]	/system/recent_images/15_task_thumbnail.png	4153	4096	4153	
+81.888868	[WA]	/system/recent_images/15_task_thumbnail.png	8249	4	8249	
+81.888921	[WA]	/system/recent_images/15_task_thumbnail.png	8253	8	8253	
+81.888971	[WA]	/system/recent_images/15_task_thumbnail.png	8261	4096	8261	
+81.889047	[WA]	/system/recent_images/15_task_thumbnail.png	12357	4096	12357	
+81.889152	[WA]	/system/recent_images/15_task_thumbnail.png	16453	4	16453	
+81.947507	[WA]	/system/recent_images/15_task_thumbnail.png	16457	8	16457	
+81.947580	[WA]	/system/recent_images/15_task_thumbnail.png	16465	4096	16465	
+81.947661	[WA]	/system/recent_images/15_task_thumbnail.png	20561	4096	20561	
+81.947769	[WA]	/system/recent_images/15_task_thumbnail.png	24657	4	24657	
+81.947972	[WA]	/system/recent_images/15_task_thumbnail.png	24661	8	24661	
+81.948023	[WA]	/system/recent_images/15_task_thumbnail.png	24669	4096	24669	
+81.948100	[WA]	/system/recent_images/15_task_thumbnail.png	28765	4096	28765	
+81.948204	[WA]	/system/recent_images/15_task_thumbnail.png	32861	4	32861	
+81.948255	[WA]	/system/recent_images/15_task_thumbnail.png	32865	8	32865	
+81.948305	[WA]	/system/recent_images/15_task_thumbnail.png	32873	4096	32873	
+81.948380	[WA]	/system/recent_images/15_task_thumbnail.png	36969	4096	36969	
+81.948483	[WA]	/system/recent_images/15_task_thumbnail.png	41065	4	41065	
+82.017227	[WA]	/system/recent_images/15_task_thumbnail.png	41069	8	41069	
+82.017297	[WA]	/system/recent_images/15_task_thumbnail.png	41077	4096	41077	
+82.017378	[WA]	/system/recent_images/15_task_thumbnail.png	45173	4096	45173	
+82.017485	[WA]	/system/recent_images/15_task_thumbnail.png	49269	4	49269	
+82.017692	[WA]	/system/recent_images/15_task_thumbnail.png	49273	8	49273	
+82.017742	[WA]	/system/recent_images/15_task_thumbnail.png	49281	4096	49281	
+82.017824	[WA]	/system/recent_images/15_task_thumbnail.png	53377	4096	53377	
+82.017930	[WA]	/system/recent_images/15_task_thumbnail.png	57473	4	57473	
+82.092782	[WA]	/system/recent_images/15_task_thumbnail.png	57477	8	57477	
+82.092851	[WA]	/system/recent_images/15_task_thumbnail.png	57485	4096	57485	
+82.092933	[WA]	/system/recent_images/15_task_thumbnail.png	61581	4096	61581	
+82.093039	[WA]	/system/recent_images/15_task_thumbnail.png	65677	4	65677	
+82.093242	[WA]	/system/recent_images/15_task_thumbnail.png	65681	8	65681	
+82.093292	[WA]	/system/recent_images/15_task_thumbnail.png	65689	4096	65689	
+82.093368	[WA]	/system/recent_images/15_task_thumbnail.png	69785	4096	69785	
+82.093473	[WA]	/system/recent_images/15_task_thumbnail.png	73881	4	73881	
+82.093524	[WA]	/system/recent_images/15_task_thumbnail.png	73885	8	73885	
+82.093574	[WA]	/system/recent_images/15_task_thumbnail.png	73893	4096	73893	
+82.093649	[WA]	/system/recent_images/15_task_thumbnail.png	77989	4096	77989	
+82.093754	[WA]	/system/recent_images/15_task_thumbnail.png	82085	4	82085	
+82.171006	[WA]	/system/recent_images/15_task_thumbnail.png	82089	8	82089	
+82.171077	[WA]	/system/recent_images/15_task_thumbnail.png	82097	4096	82097	
+82.171158	[WA]	/system/recent_images/15_task_thumbnail.png	86193	4096	86193	
+82.171264	[WA]	/system/recent_images/15_task_thumbnail.png	90289	4	90289	
+82.171467	[WA]	/system/recent_images/15_task_thumbnail.png	90293	8	90293	
+82.171517	[WA]	/system/recent_images/15_task_thumbnail.png	90301	4096	90301	
+82.171593	[WA]	/system/recent_images/15_task_thumbnail.png	94397	4096	94397	
+82.171698	[WA]	/system/recent_images/15_task_thumbnail.png	98493	4	98493	
+82.171750	[WA]	/system/recent_images/15_task_thumbnail.png	98497	8	98497	
+82.171800	[WA]	/system/recent_images/15_task_thumbnail.png	98505	4096	98505	
+82.171876	[WA]	/system/recent_images/15_task_thumbnail.png	102601	4096	102601	
+82.171981	[WA]	/system/recent_images/15_task_thumbnail.png	106697	4	106697	
+82.248272	[WA]	/system/recent_images/15_task_thumbnail.png	106701	8	106701	
+82.248343	[WA]	/system/recent_images/15_task_thumbnail.png	106709	4096	106709	
+82.248425	[WA]	/system/recent_images/15_task_thumbnail.png	110805	4096	110805	
+82.248532	[WA]	/system/recent_images/15_task_thumbnail.png	114901	4	114901	
+82.248736	[WA]	/system/recent_images/15_task_thumbnail.png	114905	8	114905	
+82.248786	[WA]	/system/recent_images/15_task_thumbnail.png	114913	4096	114913	
+82.248864	[WA]	/system/recent_images/15_task_thumbnail.png	119009	4096	119009	
+82.248968	[WA]	/system/recent_images/15_task_thumbnail.png	123105	4	123105	
+82.249021	[WA]	/system/recent_images/15_task_thumbnail.png	123109	8	123109	
+82.249072	[WA]	/system/recent_images/15_task_thumbnail.png	123117	4096	123117	
+82.249147	[WA]	/system/recent_images/15_task_thumbnail.png	127213	4096	127213	
+82.249251	[WA]	/system/recent_images/15_task_thumbnail.png	131309	4	131309	
+82.321605	[WA]	/system/recent_images/15_task_thumbnail.png	131313	8	131313	
+82.321674	[WA]	/system/recent_images/15_task_thumbnail.png	131321	4096	131321	
+82.321755	[WA]	/system/recent_images/15_task_thumbnail.png	135417	4096	135417	
+82.321861	[WA]	/system/recent_images/15_task_thumbnail.png	139513	4	139513	
+82.322064	[WA]	/system/recent_images/15_task_thumbnail.png	139517	8	139517	
+82.322115	[WA]	/system/recent_images/15_task_thumbnail.png	139525	4096	139525	
+82.322191	[WA]	/system/recent_images/15_task_thumbnail.png	143621	4096	143621	
+82.322295	[WA]	/system/recent_images/15_task_thumbnail.png	147717	4	147717	
+82.396036	[WA]	/system/recent_images/15_task_thumbnail.png	147721	8	147721	
+82.396106	[WA]	/system/recent_images/15_task_thumbnail.png	147729	4096	147729	
+82.396189	[WA]	/system/recent_images/15_task_thumbnail.png	151825	4096	151825	
+82.396297	[WA]	/system/recent_images/15_task_thumbnail.png	155921	4	155921	
+82.396500	[WA]	/system/recent_images/15_task_thumbnail.png	155925	8	155925	
+82.396553	[WA]	/system/recent_images/15_task_thumbnail.png	155933	4096	155933	
+82.396631	[WA]	/system/recent_images/15_task_thumbnail.png	160029	4096	160029	
+82.396741	[WA]	/system/recent_images/15_task_thumbnail.png	164125	4	164125	
+82.396793	[WA]	/system/recent_images/15_task_thumbnail.png	164129	8	164129	
+82.396844	[WA]	/system/recent_images/15_task_thumbnail.png	164137	4096	164137	
+82.396920	[WA]	/system/recent_images/15_task_thumbnail.png	168233	4096	168233	
+82.397025	[WA]	/system/recent_images/15_task_thumbnail.png	172329	4	172329	
+82.468782	[WA]	/system/recent_images/15_task_thumbnail.png	172333	8	172333	
+82.468854	[WA]	/system/recent_images/15_task_thumbnail.png	172341	4096	172341	
+82.468936	[WA]	/system/recent_images/15_task_thumbnail.png	176437	4096	176437	
+82.469046	[WA]	/system/recent_images/15_task_thumbnail.png	180533	4	180533	
+82.469248	[WA]	/system/recent_images/15_task_thumbnail.png	180537	8	180537	
+82.469300	[WA]	/system/recent_images/15_task_thumbnail.png	180545	4096	180545	
+82.469376	[WA]	/system/recent_images/15_task_thumbnail.png	184641	4096	184641	
+82.469481	[WA]	/system/recent_images/15_task_thumbnail.png	188737	4	188737	
+82.469533	[WA]	/system/recent_images/15_task_thumbnail.png	188741	8	188741	
+82.469584	[WA]	/system/recent_images/15_task_thumbnail.png	188749	4096	188749	
+82.469664	[WA]	/system/recent_images/15_task_thumbnail.png	192845	4096	192845	
+82.469768	[WA]	/system/recent_images/15_task_thumbnail.png	196941	4	196941	
+24.832776	[RN]	/system/usagestats/0/screen_on_time	/system/usagestats/0/screen_on_time.bak	
+24.833153	[CR]	/system/usagestats/0/screen_on_time	
+24.833279	[WA]	/system/usagestats/0/screen_on_time	0	8	0	
+24.833382	[FS]	/system/usagestats/0/screen_on_time	0	
+24.846331	[UN]	/system/usagestats/0/screen_on_time.bak	
+30.236461	[CR]	/media/0/Android/data/com.google.android.youtube/cache/cache-987752180probe	
+30.237137	[UN]	/media/0/Android/data/com.google.android.youtube/cache/cache-987752180probe	
+30.474652	[RN]	/media/0/Android/data/com.google.android.youtube/cache/exo/cached_content_index.exi	/media/0/Android/data/com.google.android.youtube/cache/exo/cached_content_index.exi.bak	
+30.476148	[CR]	/media/0/Android/data/com.google.android.youtube/cache/exo/cached_content_index.exi	
+30.477161	[WA]	/media/0/Android/data/com.google.android.youtube/cache/exo/cached_content_index.exi	0	1534	0	
+30.477504	[FS]	/media/0/Android/data/com.google.android.youtube/cache/exo/cached_content_index.exi	0	
+30.484640	[UN]	/media/0/Android/data/com.google.android.youtube/cache/exo/cached_content_index.exi.bak	
+42.212522	[RN]	/system/usagestats/0/daily/1507593600000	/system/usagestats/0/daily/1507593600000.bak	
+42.213776	[CR]	/system/usagestats/0/daily/1507593600000	
+42.216558	[WA]	/system/usagestats/0/daily/1507593600000	0	8189	0	
+42.217863	[WA]	/system/usagestats/0/daily/1507593600000	8189	8166	8189	
+42.219243	[WA]	/system/usagestats/0/daily/1507593600000	16355	8191	16355	
+42.220508	[WA]	/system/usagestats/0/daily/1507593600000	24546	8184	24546	
+42.221789	[WA]	/system/usagestats/0/daily/1507593600000	32730	8180	32730	
+42.223714	[WA]	/system/usagestats/0/daily/1507593600000	40910	8184	40910	
+42.225285	[WA]	/system/usagestats/0/daily/1507593600000	49094	8186	49094	
+42.226275	[WA]	/system/usagestats/0/daily/1507593600000	57280	8181	57280	
+42.227392	[WA]	/system/usagestats/0/daily/1507593600000	65461	5992	65461	
+42.227515	[FS]	/system/usagestats/0/daily/1507593600000	0	
+42.240367	[UN]	/system/usagestats/0/daily/1507593600000.bak	
+42.241786	[RN]	/system/usagestats/0/weekly/1507161603615	/system/usagestats/0/weekly/1507161603615.bak	
+42.242000	[CR]	/system/usagestats/0/weekly/1507161603615	
+42.245709	[WA]	/system/usagestats/0/weekly/1507161603615	0	8186	0	
+42.246212	[WA]	/system/usagestats/0/weekly/1507161603615	8186	240	8186	
+42.246306	[FS]	/system/usagestats/0/weekly/1507161603615	0	
+42.251123	[UN]	/system/usagestats/0/weekly/1507161603615.bak	
+42.251972	[RN]	/system/usagestats/0/monthly/1505952003615	/system/usagestats/0/monthly/1505952003615.bak	
+42.252414	[CR]	/system/usagestats/0/monthly/1505952003615	
+42.255091	[WA]	/system/usagestats/0/monthly/1505952003615	0	8190	0	
+42.255766	[WA]	/system/usagestats/0/monthly/1505952003615	8190	1917	8190	
+42.255860	[FS]	/system/usagestats/0/monthly/1505952003615	0	
+42.262729	[UN]	/system/usagestats/0/monthly/1505952003615.bak	
+42.263651	[RN]	/system/usagestats/0/yearly/1502458468760	/system/usagestats/0/yearly/1502458468760.bak	
+42.264110	[CR]	/system/usagestats/0/yearly/1502458468760	
+42.266019	[WA]	/system/usagestats/0/yearly/1502458468760	0	8192	0	
+42.267403	[WA]	/system/usagestats/0/yearly/1502458468760	8192	8176	8192	
+42.268792	[WA]	/system/usagestats/0/yearly/1502458468760	16368	5116	16368	
+42.268916	[FS]	/system/usagestats/0/yearly/1502458468760	0	
+42.274179	[CR]	/system/recent_tasks/15_task.xml	
+42.274314	[WA]	/system/recent_tasks/15_task.xml	0	1034	0	
+42.274403	[WA]	/system/recent_tasks/15_task.xml	1034	1	1034	
+42.274453	[FS]	/system/recent_tasks/15_task.xml	0	
+42.286740	[UN]	/system/usagestats/0/yearly/1502458468760.bak	
+44.258354	[RN]	/system/users/0/runtime-permissions.xml	/system/users/0/runtime-permissions.xml.bak	
+44.258810	[CR]	/system/users/0/runtime-permissions.xml	
+44.273385	[WA]	/system/users/0/runtime-permissions.xml	0	8192	0	
+44.278799	[WA]	/system/users/0/runtime-permissions.xml	8192	8155	8192	
+44.278933	[FS]	/system/users/0/runtime-permissions.xml	0	
+44.288199	[UN]	/system/users/0/runtime-permissions.xml.bak	
+44.348891	[UN]	/cam_socket1	
+47.955536	[CR]	/media/0/DCIM/Camera/VID_20171010_214149.mp4	
+47.956041	[FS]	/media/0/DCIM/Camera/VID_20171010_214149.mp4	0	
+49.088806	[UN]	/media/0/DCIM/Camera/VID_20171010_214149.mp4	
+54.227575	[WO]	/system/notification_log.db-journal	0	512	49760	
+54.227645	[WO]	/system/notification_log.db-journal	512	4	49760	
+54.227667	[WO]	/system/notification_log.db-journal	516	4096	49760	
+54.227702	[WO]	/system/notification_log.db-journal	4612	4	49760	
+54.227736	[WO]	/system/notification_log.db-journal	4616	4	49760	
+54.227756	[WO]	/system/notification_log.db-journal	4620	4096	49760	
+54.227790	[WO]	/system/notification_log.db-journal	8716	4	49760	
+54.227841	[WO]	/system/notification_log.db-journal	8720	4	49760	
+54.227860	[WO]	/system/notification_log.db-journal	8724	4096	49760	
+54.227893	[WO]	/system/notification_log.db-journal	12820	4	49760	
+54.227924	[FS]	/system/notification_log.db-journal	1	
+54.230867	[FS]	/system	1	
+54.236653	[WO]	/system/notification_log.db-journal	0	12	49760	
+54.236738	[FS]	/system/notification_log.db-journal	1	
+54.239776	[WO]	/system/notification_log.db	0	4096	49152	
+54.239829	[WO]	/system/notification_log.db	16384	4096	49152	
+54.239857	[WO]	/system/notification_log.db	45056	4096	49152	
+54.239892	[FS]	/system/notification_log.db	1	
+54.242487	[WO]	/system/notification_log.db-journal	0	28	49760	
+54.242526	[FS]	/system/notification_log.db-journal	1	
+55.926838	[CR]	/media/0/DCIM/Camera/IMG_20171010_214155.jpg	
+55.953188	[WA]	/media/0/DCIM/Camera/IMG_20171010_214155.jpg	0	65062	0	
+55.954566	[WA]	/media/0/DCIM/Camera/IMG_20171010_214155.jpg	65062	65536	65062	
+55.959618	[WA]	/media/0/DCIM/Camera/IMG_20171010_214155.jpg	130598	65536	130598	
+55.966527	[WA]	/media/0/DCIM/Camera/IMG_20171010_214155.jpg	196134	65536	196134	
+55.967453	[WA]	/media/0/DCIM/Camera/IMG_20171010_214155.jpg	261670	65536	261670	
+55.968333	[WA]	/media/0/DCIM/Camera/IMG_20171010_214155.jpg	327206	65536	327206	
+55.969215	[WA]	/media/0/DCIM/Camera/IMG_20171010_214155.jpg	392742	65536	392742	
+55.970660	[WA]	/media/0/DCIM/Camera/IMG_20171010_214155.jpg	458278	65536	458278	
+55.971551	[WA]	/media/0/DCIM/Camera/IMG_20171010_214155.jpg	523814	65536	523814	
+55.972433	[WA]	/media/0/DCIM/Camera/IMG_20171010_214155.jpg	589350	65536	589350	
+55.973454	[WA]	/media/0/DCIM/Camera/IMG_20171010_214155.jpg	654886	65536	654886	
+55.974347	[WA]	/media/0/DCIM/Camera/IMG_20171010_214155.jpg	720422	65536	720422	
+55.975243	[WA]	/media/0/DCIM/Camera/IMG_20171010_214155.jpg	785958	65536	785958	
+55.976132	[WA]	/media/0/DCIM/Camera/IMG_20171010_214155.jpg	851494	65536	851494	
+55.977027	[WA]	/media/0/DCIM/Camera/IMG_20171010_214155.jpg	917030	65536	917030	
+55.977920	[WA]	/media/0/DCIM/Camera/IMG_20171010_214155.jpg	982566	65536	982566	
+55.978814	[WA]	/media/0/DCIM/Camera/IMG_20171010_214155.jpg	1048102	65536	1048102	
+55.979771	[WA]	/media/0/DCIM/Camera/IMG_20171010_214155.jpg	1113638	65536	1113638	
+55.980659	[WA]	/media/0/DCIM/Camera/IMG_20171010_214155.jpg	1179174	65536	1179174	
+55.981571	[WA]	/media/0/DCIM/Camera/IMG_20171010_214155.jpg	1244710	65536	1244710	
+55.982470	[WA]	/media/0/DCIM/Camera/IMG_20171010_214155.jpg	1310246	65536	1310246	
+55.983499	[WA]	/media/0/DCIM/Camera/IMG_20171010_214155.jpg	1375782	65536	1375782	
+55.984395	[WA]	/media/0/DCIM/Camera/IMG_20171010_214155.jpg	1441318	65536	1441318	
+55.985658	[WA]	/media/0/DCIM/Camera/IMG_20171010_214155.jpg	1506854	65536	1506854	
+55.986540	[WA]	/media/0/DCIM/Camera/IMG_20171010_214155.jpg	1572390	65536	1572390	
+55.987470	[WA]	/media/0/DCIM/Camera/IMG_20171010_214155.jpg	1637926	65536	1637926	
+55.988368	[WA]	/media/0/DCIM/Camera/IMG_20171010_214155.jpg	1703462	65536	1703462	
+55.989259	[WA]	/media/0/DCIM/Camera/IMG_20171010_214155.jpg	1768998	65536	1768998	
+55.990549	[WA]	/media/0/DCIM/Camera/IMG_20171010_214155.jpg	1834534	65536	1834534	
+55.991810	[WA]	/media/0/DCIM/Camera/IMG_20171010_214155.jpg	1900070	65536	1900070	
+55.992890	[WA]	/media/0/DCIM/Camera/IMG_20171010_214155.jpg	1965606	65536	1965606	
+55.993979	[WA]	/media/0/DCIM/Camera/IMG_20171010_214155.jpg	2031142	37170	2031142	
+56.009119	[WO]	/system/notification_log.db-journal	0	512	49760	
+56.009162	[WO]	/system/notification_log.db-journal	512	4	49760	
+56.009183	[WO]	/system/notification_log.db-journal	516	4096	49760	
+56.009218	[WO]	/system/notification_log.db-journal	4612	4	49760	
+56.009252	[WO]	/system/notification_log.db-journal	4616	4	49760	
+56.009271	[WO]	/system/notification_log.db-journal	4620	4096	49760	
+56.009303	[WO]	/system/notification_log.db-journal	8716	4	49760	
+56.009353	[WO]	/system/notification_log.db-journal	8720	4	49760	
+56.009373	[WO]	/system/notification_log.db-journal	8724	4096	49760	
+56.009405	[WO]	/system/notification_log.db-journal	12820	4	49760	
+56.009436	[FS]	/system/notification_log.db-journal	1	
+56.027600	[FS]	/system	1	
+56.036923	[WO]	/system/notification_log.db-journal	0	12	49760	
+56.036964	[FS]	/system/notification_log.db-journal	1	
+56.039027	[WO]	/system/notification_log.db	0	4096	49152	
+56.039067	[WO]	/system/notification_log.db	16384	4096	49152	
+56.039502	[WO]	/system/notification_log.db	45056	4096	49152	
+56.040100	[FS]	/system/notification_log.db	1	
+56.046904	[WO]	/system/notification_log.db-journal	0	28	49760	
+56.047257	[FS]	/system/notification_log.db-journal	1	
+60.268791	[UN]	/cam_socket2	
+69.878133	[WO]	/system/notification_log.db-journal	0	512	49760	
+69.878203	[WO]	/system/notification_log.db-journal	512	4	49760	
+69.878225	[WO]	/system/notification_log.db-journal	516	4096	49760	
+69.878260	[WO]	/system/notification_log.db-journal	4612	4	49760	
+69.878294	[WO]	/system/notification_log.db-journal	4616	4	49760	
+69.878313	[WO]	/system/notification_log.db-journal	4620	4096	49760	
+69.878347	[WO]	/system/notification_log.db-journal	8716	4	49760	
+69.878398	[WO]	/system/notification_log.db-journal	8720	4	49760	
+69.878419	[WO]	/system/notification_log.db-journal	8724	4096	49760	
+69.878451	[WO]	/system/notification_log.db-journal	12820	4	49760	
+69.878482	[FS]	/system/notification_log.db-journal	1	
+69.889874	[FS]	/system	1	
+69.898731	[WO]	/system/notification_log.db-journal	0	12	49760	
+69.898798	[FS]	/system/notification_log.db-journal	1	
+69.900286	[WO]	/system/notification_log.db	0	4096	49152	
+69.900677	[WO]	/system/notification_log.db	16384	4096	49152	
+69.900749	[WO]	/system/notification_log.db	45056	4096	49152	
+69.900781	[FS]	/system/notification_log.db	1	
+69.904863	[WO]	/system/notification_log.db-journal	0	28	49760	
+69.905435	[FS]	/system/notification_log.db-journal	1	
+70.389013	[CR]	/media/0/DCIM/Camera/IMG_20171010_214211.jpg	
+70.391052	[WO]	/system/notification_log.db-journal	0	512	49760	
+70.391112	[WO]	/system/notification_log.db-journal	512	4	49760	
+70.391133	[WO]	/system/notification_log.db-journal	516	4096	49760	
+70.391421	[WO]	/system/notification_log.db-journal	4612	4	49760	
+70.391466	[WO]	/system/notification_log.db-journal	4616	4	49760	
+70.391487	[WO]	/system/notification_log.db-journal	4620	4096	49760	
+70.391520	[WO]	/system/notification_log.db-journal	8716	4	49760	
+70.391652	[WO]	/system/notification_log.db-journal	8720	4	49760	
+70.391675	[WO]	/system/notification_log.db-journal	8724	4096	49760	
+70.391709	[WO]	/system/notification_log.db-journal	12820	4	49760	
+70.391742	[FS]	/system/notification_log.db-journal	1	
+70.392925	[WA]	/media/0/DCIM/Camera/IMG_20171010_214211.jpg	0	64925	0	
+70.394982	[WA]	/media/0/DCIM/Camera/IMG_20171010_214211.jpg	64925	65536	64925	
+70.397799	[WA]	/media/0/DCIM/Camera/IMG_20171010_214211.jpg	130461	65536	130461	
+70.398751	[WA]	/media/0/DCIM/Camera/IMG_20171010_214211.jpg	195997	33525	195997	
+70.399583	[FS]	/system	1	
+70.410438	[WO]	/system/notification_log.db-journal	0	12	49760	
+70.410482	[FS]	/system/notification_log.db-journal	1	
+70.414674	[WO]	/system/notification_log.db	0	4096	49152	
+70.414775	[WO]	/system/notification_log.db	16384	4096	49152	
+70.414803	[WO]	/system/notification_log.db	45056	4096	49152	
+70.414883	[FS]	/system/notification_log.db	1	
+70.418390	[WO]	/system/notification_log.db-journal	0	28	49760	
+70.418473	[FS]	/system/notification_log.db-journal	1	
+76.609545	[UN]	/cam_socket2	
+79.324916	[RN]	/system/usagestats/0/screen_on_time	/system/usagestats/0/screen_on_time.bak	
+79.325221	[CR]	/system/usagestats/0/screen_on_time	
+79.325331	[WA]	/system/usagestats/0/screen_on_time	0	8	0	
+79.325426	[FS]	/system/usagestats/0/screen_on_time	0	
+79.341337	[UN]	/system/usagestats/0/screen_on_time.bak	
+81.833389	[CR]	/system/recent_images/15_task_thumbnail.png	
+81.833557	[WA]	/system/recent_images/15_task_thumbnail.png	0	8	0	
+81.833652	[WA]	/system/recent_images/15_task_thumbnail.png	8	8	8	
+81.833706	[WA]	/system/recent_images/15_task_thumbnail.png	16	13	16	
+81.833759	[WA]	/system/recent_images/15_task_thumbnail.png	29	4	29	
+81.833808	[WA]	/system/recent_images/15_task_thumbnail.png	33	8	33	
+81.833858	[WA]	/system/recent_images/15_task_thumbnail.png	41	4	41	
+81.833908	[WA]	/system/recent_images/15_task_thumbnail.png	45	4	45	
+81.888611	[WA]	/system/recent_images/15_task_thumbnail.png	49	8	49	
+81.888677	[WA]	/system/recent_images/15_task_thumbnail.png	57	4096	57	
+81.888758	[WA]	/system/recent_images/15_task_thumbnail.png	4153	4096	4153	
+81.888868	[WA]	/system/recent_images/15_task_thumbnail.png	8249	4	8249	
+81.888921	[WA]	/system/recent_images/15_task_thumbnail.png	8253	8	8253	
+81.888971	[WA]	/system/recent_images/15_task_thumbnail.png	8261	4096	8261	
+81.889047	[WA]	/system/recent_images/15_task_thumbnail.png	12357	4096	12357	
+81.889152	[WA]	/system/recent_images/15_task_thumbnail.png	16453	4	16453	
+81.947507	[WA]	/system/recent_images/15_task_thumbnail.png	16457	8	16457	
+81.947580	[WA]	/system/recent_images/15_task_thumbnail.png	16465	4096	16465	
+81.947661	[WA]	/system/recent_images/15_task_thumbnail.png	20561	4096	20561	
+81.947769	[WA]	/system/recent_images/15_task_thumbnail.png	24657	4	24657	
+81.947972	[WA]	/system/recent_images/15_task_thumbnail.png	24661	8	24661	
+81.948023	[WA]	/system/recent_images/15_task_thumbnail.png	24669	4096	24669	
+81.948100	[WA]	/system/recent_images/15_task_thumbnail.png	28765	4096	28765	
+81.948204	[WA]	/system/recent_images/15_task_thumbnail.png	32861	4	32861	
+81.948255	[WA]	/system/recent_images/15_task_thumbnail.png	32865	8	32865	
+81.948305	[WA]	/system/recent_images/15_task_thumbnail.png	32873	4096	32873	
+81.948380	[WA]	/system/recent_images/15_task_thumbnail.png	36969	4096	36969	
+81.948483	[WA]	/system/recent_images/15_task_thumbnail.png	41065	4	41065	
+82.017227	[WA]	/system/recent_images/15_task_thumbnail.png	41069	8	41069	
+82.017297	[WA]	/system/recent_images/15_task_thumbnail.png	41077	4096	41077	
+82.017378	[WA]	/system/recent_images/15_task_thumbnail.png	45173	4096	45173	
+82.017485	[WA]	/system/recent_images/15_task_thumbnail.png	49269	4	49269	
+82.017692	[WA]	/system/recent_images/15_task_thumbnail.png	49273	8	49273	
+82.017742	[WA]	/system/recent_images/15_task_thumbnail.png	49281	4096	49281	
+82.017824	[WA]	/system/recent_images/15_task_thumbnail.png	53377	4096	53377	
+82.017930	[WA]	/system/recent_images/15_task_thumbnail.png	57473	4	57473	
+82.092782	[WA]	/system/recent_images/15_task_thumbnail.png	57477	8	57477	
+82.092851	[WA]	/system/recent_images/15_task_thumbnail.png	57485	4096	57485	
+82.092933	[WA]	/system/recent_images/15_task_thumbnail.png	61581	4096	61581	
+82.093039	[WA]	/system/recent_images/15_task_thumbnail.png	65677	4	65677	
+82.093242	[WA]	/system/recent_images/15_task_thumbnail.png	65681	8	65681	
+82.093292	[WA]	/system/recent_images/15_task_thumbnail.png	65689	4096	65689	
+82.093368	[WA]	/system/recent_images/15_task_thumbnail.png	69785	4096	69785	
+82.093473	[WA]	/system/recent_images/15_task_thumbnail.png	73881	4	73881	
+82.093524	[WA]	/system/recent_images/15_task_thumbnail.png	73885	8	73885	
+82.093574	[WA]	/system/recent_images/15_task_thumbnail.png	73893	4096	73893	
+82.093649	[WA]	/system/recent_images/15_task_thumbnail.png	77989	4096	77989	
+82.093754	[WA]	/system/recent_images/15_task_thumbnail.png	82085	4	82085	
+82.171006	[WA]	/system/recent_images/15_task_thumbnail.png	82089	8	82089	
+82.171077	[WA]	/system/recent_images/15_task_thumbnail.png	82097	4096	82097	
+82.171158	[WA]	/system/recent_images/15_task_thumbnail.png	86193	4096	86193	
+82.171264	[WA]	/system/recent_images/15_task_thumbnail.png	90289	4	90289	
+82.171467	[WA]	/system/recent_images/15_task_thumbnail.png	90293	8	90293	
+82.171517	[WA]	/system/recent_images/15_task_thumbnail.png	90301	4096	90301	
+82.171593	[WA]	/system/recent_images/15_task_thumbnail.png	94397	4096	94397	
+82.171698	[WA]	/system/recent_images/15_task_thumbnail.png	98493	4	98493	
+82.171750	[WA]	/system/recent_images/15_task_thumbnail.png	98497	8	98497	
+82.171800	[WA]	/system/recent_images/15_task_thumbnail.png	98505	4096	98505	
+82.171876	[WA]	/system/recent_images/15_task_thumbnail.png	102601	4096	102601	
+82.171981	[WA]	/system/recent_images/15_task_thumbnail.png	106697	4	106697	
+82.248272	[WA]	/system/recent_images/15_task_thumbnail.png	106701	8	106701	
+82.248343	[WA]	/system/recent_images/15_task_thumbnail.png	106709	4096	106709	
+82.248425	[WA]	/system/recent_images/15_task_thumbnail.png	110805	4096	110805	
+82.248532	[WA]	/system/recent_images/15_task_thumbnail.png	114901	4	114901	
+82.248736	[WA]	/system/recent_images/15_task_thumbnail.png	114905	8	114905	
+82.248786	[WA]	/system/recent_images/15_task_thumbnail.png	114913	4096	114913	
+82.248864	[WA]	/system/recent_images/15_task_thumbnail.png	119009	4096	119009	
+82.248968	[WA]	/system/recent_images/15_task_thumbnail.png	123105	4	123105	
+82.249021	[WA]	/system/recent_images/15_task_thumbnail.png	123109	8	123109	
+82.249072	[WA]	/system/recent_images/15_task_thumbnail.png	123117	4096	123117	
+82.249147	[WA]	/system/recent_images/15_task_thumbnail.png	127213	4096	127213	
+82.249251	[WA]	/system/recent_images/15_task_thumbnail.png	131309	4	131309	
+82.321605	[WA]	/system/recent_images/15_task_thumbnail.png	131313	8	131313	
+82.321674	[WA]	/system/recent_images/15_task_thumbnail.png	131321	4096	131321	
+82.321755	[WA]	/system/recent_images/15_task_thumbnail.png	135417	4096	135417	
+82.321861	[WA]	/system/recent_images/15_task_thumbnail.png	139513	4	139513	
+82.322064	[WA]	/system/recent_images/15_task_thumbnail.png	139517	8	139517	
+82.322115	[WA]	/system/recent_images/15_task_thumbnail.png	139525	4096	139525	
+82.322191	[WA]	/system/recent_images/15_task_thumbnail.png	143621	4096	143621	
+82.322295	[WA]	/system/recent_images/15_task_thumbnail.png	147717	4	147717	
+82.396036	[WA]	/system/recent_images/15_task_thumbnail.png	147721	8	147721	
+82.396106	[WA]	/system/recent_images/15_task_thumbnail.png	147729	4096	147729	
+82.396189	[WA]	/system/recent_images/15_task_thumbnail.png	151825	4096	151825	
+82.396297	[WA]	/system/recent_images/15_task_thumbnail.png	155921	4	155921	
+82.396500	[WA]	/system/recent_images/15_task_thumbnail.png	155925	8	155925	
+82.396553	[WA]	/system/recent_images/15_task_thumbnail.png	155933	4096	155933	
+82.396631	[WA]	/system/recent_images/15_task_thumbnail.png	160029	4096	160029	
+82.396741	[WA]	/system/recent_images/15_task_thumbnail.png	164125	4	164125	
+82.396793	[WA]	/system/recent_images/15_task_thumbnail.png	164129	8	164129	
+82.396844	[WA]	/system/recent_images/15_task_thumbnail.png	164137	4096	164137	
+82.396920	[WA]	/system/recent_images/15_task_thumbnail.png	168233	4096	168233	
+82.397025	[WA]	/system/recent_images/15_task_thumbnail.png	172329	4	172329	
+82.468782	[WA]	/system/recent_images/15_task_thumbnail.png	172333	8	172333	
+82.468854	[WA]	/system/recent_images/15_task_thumbnail.png	172341	4096	172341	
+82.468936	[WA]	/system/recent_images/15_task_thumbnail.png	176437	4096	176437	
+82.469046	[WA]	/system/recent_images/15_task_thumbnail.png	180533	4	180533	
+82.469248	[WA]	/system/recent_images/15_task_thumbnail.png	180537	8	180537	
+82.469300	[WA]	/system/recent_images/15_task_thumbnail.png	180545	4096	180545	
+82.469376	[WA]	/system/recent_images/15_task_thumbnail.png	184641	4096	184641	
+82.469481	[WA]	/system/recent_images/15_task_thumbnail.png	188737	4	188737	
+82.469533	[WA]	/system/recent_images/15_task_thumbnail.png	188741	8	188741	
+82.469584	[WA]	/system/recent_images/15_task_thumbnail.png	188749	4096	188749	
+82.469664	[WA]	/system/recent_images/15_task_thumbnail.png	192845	4096	192845	
+82.469768	[WA]	/system/recent_images/15_task_thumbnail.png	196941	4	196941	
+24.832776	[RN]	/system/usagestats/0/screen_on_time	/system/usagestats/0/screen_on_time.bak	
+24.833153	[CR]	/system/usagestats/0/screen_on_time	
+24.833279	[WA]	/system/usagestats/0/screen_on_time	0	8	0	
+24.833382	[FS]	/system/usagestats/0/screen_on_time	0	
+24.846331	[UN]	/system/usagestats/0/screen_on_time.bak	
+30.236461	[CR]	/media/0/Android/data/com.google.android.youtube/cache/cache-987752180probe	
+30.237137	[UN]	/media/0/Android/data/com.google.android.youtube/cache/cache-987752180probe	
+30.474652	[RN]	/media/0/Android/data/com.google.android.youtube/cache/exo/cached_content_index.exi	/media/0/Android/data/com.google.android.youtube/cache/exo/cached_content_index.exi.bak	
+30.476148	[CR]	/media/0/Android/data/com.google.android.youtube/cache/exo/cached_content_index.exi	
+30.477161	[WA]	/media/0/Android/data/com.google.android.youtube/cache/exo/cached_content_index.exi	0	1534	0	
+30.477504	[FS]	/media/0/Android/data/com.google.android.youtube/cache/exo/cached_content_index.exi	0	
+30.484640	[UN]	/media/0/Android/data/com.google.android.youtube/cache/exo/cached_content_index.exi.bak	
+42.212522	[RN]	/system/usagestats/0/daily/1507593600000	/system/usagestats/0/daily/1507593600000.bak	
+42.213776	[CR]	/system/usagestats/0/daily/1507593600000	
+42.216558	[WA]	/system/usagestats/0/daily/1507593600000	0	8189	0	
+42.217863	[WA]	/system/usagestats/0/daily/1507593600000	8189	8166	8189	
+42.219243	[WA]	/system/usagestats/0/daily/1507593600000	16355	8191	16355	
+42.220508	[WA]	/system/usagestats/0/daily/1507593600000	24546	8184	24546	
+42.221789	[WA]	/system/usagestats/0/daily/1507593600000	32730	8180	32730	
+42.223714	[WA]	/system/usagestats/0/daily/1507593600000	40910	8184	40910	
+42.225285	[WA]	/system/usagestats/0/daily/1507593600000	49094	8186	49094	
+42.226275	[WA]	/system/usagestats/0/daily/1507593600000	57280	8181	57280	
+42.227392	[WA]	/system/usagestats/0/daily/1507593600000	65461	5992	65461	
+42.227515	[FS]	/system/usagestats/0/daily/1507593600000	0	
+42.240367	[UN]	/system/usagestats/0/daily/1507593600000.bak	
+42.241786	[RN]	/system/usagestats/0/weekly/1507161603615	/system/usagestats/0/weekly/1507161603615.bak	
+42.242000	[CR]	/system/usagestats/0/weekly/1507161603615	
+42.245709	[WA]	/system/usagestats/0/weekly/1507161603615	0	8186	0	
+42.246212	[WA]	/system/usagestats/0/weekly/1507161603615	8186	240	8186	
+42.246306	[FS]	/system/usagestats/0/weekly/1507161603615	0	
+42.251123	[UN]	/system/usagestats/0/weekly/1507161603615.bak	
+42.251972	[RN]	/system/usagestats/0/monthly/1505952003615	/system/usagestats/0/monthly/1505952003615.bak	
+42.252414	[CR]	/system/usagestats/0/monthly/1505952003615	
+42.255091	[WA]	/system/usagestats/0/monthly/1505952003615	0	8190	0	
+42.255766	[WA]	/system/usagestats/0/monthly/1505952003615	8190	1917	8190	
+42.255860	[FS]	/system/usagestats/0/monthly/1505952003615	0	
+42.262729	[UN]	/system/usagestats/0/monthly/1505952003615.bak	
+42.263651	[RN]	/system/usagestats/0/yearly/1502458468760	/system/usagestats/0/yearly/1502458468760.bak	
+42.264110	[CR]	/system/usagestats/0/yearly/1502458468760	
+42.266019	[WA]	/system/usagestats/0/yearly/1502458468760	0	8192	0	
+42.267403	[WA]	/system/usagestats/0/yearly/1502458468760	8192	8176	8192	
+42.268792	[WA]	/system/usagestats/0/yearly/1502458468760	16368	5116	16368	
+42.268916	[FS]	/system/usagestats/0/yearly/1502458468760	0	
+42.274179	[CR]	/system/recent_tasks/15_task.xml	
+42.274314	[WA]	/system/recent_tasks/15_task.xml	0	1034	0	
+42.274403	[WA]	/system/recent_tasks/15_task.xml	1034	1	1034	
+42.274453	[FS]	/system/recent_tasks/15_task.xml	0	
+42.286740	[UN]	/system/usagestats/0/yearly/1502458468760.bak	
+44.258354	[RN]	/system/users/0/runtime-permissions.xml	/system/users/0/runtime-permissions.xml.bak	
+44.258810	[CR]	/system/users/0/runtime-permissions.xml	
+44.273385	[WA]	/system/users/0/runtime-permissions.xml	0	8192	0	
+44.278799	[WA]	/system/users/0/runtime-permissions.xml	8192	8155	8192	
+44.278933	[FS]	/system/users/0/runtime-permissions.xml	0	
+44.288199	[UN]	/system/users/0/runtime-permissions.xml.bak	
+44.348891	[UN]	/cam_socket1	
+47.955536	[CR]	/media/0/DCIM/Camera/VID_20171010_214149.mp4	
+47.956041	[FS]	/media/0/DCIM/Camera/VID_20171010_214149.mp4	0	
+49.088806	[UN]	/media/0/DCIM/Camera/VID_20171010_214149.mp4	
+54.227575	[WO]	/system/notification_log.db-journal	0	512	49760	
+54.227645	[WO]	/system/notification_log.db-journal	512	4	49760	
+54.227667	[WO]	/system/notification_log.db-journal	516	4096	49760	
+54.227702	[WO]	/system/notification_log.db-journal	4612	4	49760	
+54.227736	[WO]	/system/notification_log.db-journal	4616	4	49760	
+54.227756	[WO]	/system/notification_log.db-journal	4620	4096	49760	
+54.227790	[WO]	/system/notification_log.db-journal	8716	4	49760	
+54.227841	[WO]	/system/notification_log.db-journal	8720	4	49760	
+54.227860	[WO]	/system/notification_log.db-journal	8724	4096	49760	
+54.227893	[WO]	/system/notification_log.db-journal	12820	4	49760	
+54.227924	[FS]	/system/notification_log.db-journal	1	
+54.230867	[FS]	/system	1	
+54.236653	[WO]	/system/notification_log.db-journal	0	12	49760	
+54.236738	[FS]	/system/notification_log.db-journal	1	
+54.239776	[WO]	/system/notification_log.db	0	4096	49152	
+54.239829	[WO]	/system/notification_log.db	16384	4096	49152	
+54.239857	[WO]	/system/notification_log.db	45056	4096	49152	
+54.239892	[FS]	/system/notification_log.db	1	
+54.242487	[WO]	/system/notification_log.db-journal	0	28	49760	
+54.242526	[FS]	/system/notification_log.db-journal	1	
+55.926838	[CR]	/media/0/DCIM/Camera/IMG_20171010_214155.jpg	
+55.953188	[WA]	/media/0/DCIM/Camera/IMG_20171010_214155.jpg	0	65062	0	
+55.954566	[WA]	/media/0/DCIM/Camera/IMG_20171010_214155.jpg	65062	65536	65062	
+55.959618	[WA]	/media/0/DCIM/Camera/IMG_20171010_214155.jpg	130598	65536	130598	
+55.966527	[WA]	/media/0/DCIM/Camera/IMG_20171010_214155.jpg	196134	65536	196134	
+55.967453	[WA]	/media/0/DCIM/Camera/IMG_20171010_214155.jpg	261670	65536	261670	
+55.968333	[WA]	/media/0/DCIM/Camera/IMG_20171010_214155.jpg	327206	65536	327206	
+55.969215	[WA]	/media/0/DCIM/Camera/IMG_20171010_214155.jpg	392742	65536	392742	
+55.970660	[WA]	/media/0/DCIM/Camera/IMG_20171010_214155.jpg	458278	65536	458278	
+55.971551	[WA]	/media/0/DCIM/Camera/IMG_20171010_214155.jpg	523814	65536	523814	
+55.972433	[WA]	/media/0/DCIM/Camera/IMG_20171010_214155.jpg	589350	65536	589350	
+55.973454	[WA]	/media/0/DCIM/Camera/IMG_20171010_214155.jpg	654886	65536	654886	
+55.974347	[WA]	/media/0/DCIM/Camera/IMG_20171010_214155.jpg	720422	65536	720422	
+55.975243	[WA]	/media/0/DCIM/Camera/IMG_20171010_214155.jpg	785958	65536	785958	
+55.976132	[WA]	/media/0/DCIM/Camera/IMG_20171010_214155.jpg	851494	65536	851494	
+55.977027	[WA]	/media/0/DCIM/Camera/IMG_20171010_214155.jpg	917030	65536	917030	
+55.977920	[WA]	/media/0/DCIM/Camera/IMG_20171010_214155.jpg	982566	65536	982566	
+55.978814	[WA]	/media/0/DCIM/Camera/IMG_20171010_214155.jpg	1048102	65536	1048102	
+55.979771	[WA]	/media/0/DCIM/Camera/IMG_20171010_214155.jpg	1113638	65536	1113638	
+55.980659	[WA]	/media/0/DCIM/Camera/IMG_20171010_214155.jpg	1179174	65536	1179174	
+55.981571	[WA]	/media/0/DCIM/Camera/IMG_20171010_214155.jpg	1244710	65536	1244710	
+55.982470	[WA]	/media/0/DCIM/Camera/IMG_20171010_214155.jpg	1310246	65536	1310246	
+55.983499	[WA]	/media/0/DCIM/Camera/IMG_20171010_214155.jpg	1375782	65536	1375782	
+55.984395	[WA]	/media/0/DCIM/Camera/IMG_20171010_214155.jpg	1441318	65536	1441318	
+55.985658	[WA]	/media/0/DCIM/Camera/IMG_20171010_214155.jpg	1506854	65536	1506854	
+55.986540	[WA]	/media/0/DCIM/Camera/IMG_20171010_214155.jpg	1572390	65536	1572390	
+55.987470	[WA]	/media/0/DCIM/Camera/IMG_20171010_214155.jpg	1637926	65536	1637926	
+55.988368	[WA]	/media/0/DCIM/Camera/IMG_20171010_214155.jpg	1703462	65536	1703462	
+55.989259	[WA]	/media/0/DCIM/Camera/IMG_20171010_214155.jpg	1768998	65536	1768998	
+55.990549	[WA]	/media/0/DCIM/Camera/IMG_20171010_214155.jpg	1834534	65536	1834534	
+55.991810	[WA]	/media/0/DCIM/Camera/IMG_20171010_214155.jpg	1900070	65536	1900070	
+55.992890	[WA]	/media/0/DCIM/Camera/IMG_20171010_214155.jpg	1965606	65536	1965606	
+55.993979	[WA]	/media/0/DCIM/Camera/IMG_20171010_214155.jpg	2031142	37170	2031142	
+56.009119	[WO]	/system/notification_log.db-journal	0	512	49760	
+56.009162	[WO]	/system/notification_log.db-journal	512	4	49760	
+56.009183	[WO]	/system/notification_log.db-journal	516	4096	49760	
+56.009218	[WO]	/system/notification_log.db-journal	4612	4	49760	
+56.009252	[WO]	/system/notification_log.db-journal	4616	4	49760	
+56.009271	[WO]	/system/notification_log.db-journal	4620	4096	49760	
+56.009303	[WO]	/system/notification_log.db-journal	8716	4	49760	
+56.009353	[WO]	/system/notification_log.db-journal	8720	4	49760	
+56.009373	[WO]	/system/notification_log.db-journal	8724	4096	49760	
+56.009405	[WO]	/system/notification_log.db-journal	12820	4	49760	
+56.009436	[FS]	/system/notification_log.db-journal	1	
+56.027600	[FS]	/system	1	
+56.036923	[WO]	/system/notification_log.db-journal	0	12	49760	
+56.036964	[FS]	/system/notification_log.db-journal	1	
+56.039027	[WO]	/system/notification_log.db	0	4096	49152	
+56.039067	[WO]	/system/notification_log.db	16384	4096	49152	
+56.039502	[WO]	/system/notification_log.db	45056	4096	49152	
+56.040100	[FS]	/system/notification_log.db	1	
+56.046904	[WO]	/system/notification_log.db-journal	0	28	49760	
+56.047257	[FS]	/system/notification_log.db-journal	1	
+60.268791	[UN]	/cam_socket2	
+69.878133	[WO]	/system/notification_log.db-journal	0	512	49760	
+69.878203	[WO]	/system/notification_log.db-journal	512	4	49760	
+69.878225	[WO]	/system/notification_log.db-journal	516	4096	49760	
+69.878260	[WO]	/system/notification_log.db-journal	4612	4	49760	
+69.878294	[WO]	/system/notification_log.db-journal	4616	4	49760	
+69.878313	[WO]	/system/notification_log.db-journal	4620	4096	49760	
+69.878347	[WO]	/system/notification_log.db-journal	8716	4	49760	
+69.878398	[WO]	/system/notification_log.db-journal	8720	4	49760	
+69.878419	[WO]	/system/notification_log.db-journal	8724	4096	49760	
+69.878451	[WO]	/system/notification_log.db-journal	12820	4	49760	
+69.878482	[FS]	/system/notification_log.db-journal	1	
+69.889874	[FS]	/system	1	
+69.898731	[WO]	/system/notification_log.db-journal	0	12	49760	
+69.898798	[FS]	/system/notification_log.db-journal	1	
+69.900286	[WO]	/system/notification_log.db	0	4096	49152	
+69.900677	[WO]	/system/notification_log.db	16384	4096	49152	
+69.900749	[WO]	/system/notification_log.db	45056	4096	49152	
+69.900781	[FS]	/system/notification_log.db	1	
+69.904863	[WO]	/system/notification_log.db-journal	0	28	49760	
+69.905435	[FS]	/system/notification_log.db-journal	1	
+70.389013	[CR]	/media/0/DCIM/Camera/IMG_20171010_214211.jpg	
+70.391052	[WO]	/system/notification_log.db-journal	0	512	49760	
+70.391112	[WO]	/system/notification_log.db-journal	512	4	49760	
+70.391133	[WO]	/system/notification_log.db-journal	516	4096	49760	
+70.391421	[WO]	/system/notification_log.db-journal	4612	4	49760	
+70.391466	[WO]	/system/notification_log.db-journal	4616	4	49760	
+70.391487	[WO]	/system/notification_log.db-journal	4620	4096	49760	
+70.391520	[WO]	/system/notification_log.db-journal	8716	4	49760	
+70.391652	[WO]	/system/notification_log.db-journal	8720	4	49760	
+70.391675	[WO]	/system/notification_log.db-journal	8724	4096	49760	
+70.391709	[WO]	/system/notification_log.db-journal	12820	4	49760	
+70.391742	[FS]	/system/notification_log.db-journal	1	
+70.392925	[WA]	/media/0/DCIM/Camera/IMG_20171010_214211.jpg	0	64925	0	
+70.394982	[WA]	/media/0/DCIM/Camera/IMG_20171010_214211.jpg	64925	65536	64925	
+70.397799	[WA]	/media/0/DCIM/Camera/IMG_20171010_214211.jpg	130461	65536	130461	
+70.398751	[WA]	/media/0/DCIM/Camera/IMG_20171010_214211.jpg	195997	33525	195997	
+70.399583	[FS]	/system	1	
+70.410438	[WO]	/system/notification_log.db-journal	0	12	49760	
+70.410482	[FS]	/system/notification_log.db-journal	1	
+70.414674	[WO]	/system/notification_log.db	0	4096	49152	
+70.414775	[WO]	/system/notification_log.db	16384	4096	49152	
+70.414803	[WO]	/system/notification_log.db	45056	4096	49152	
+70.414883	[FS]	/system/notification_log.db	1	
+70.418390	[WO]	/system/notification_log.db-journal	0	28	49760	
+70.418473	[FS]	/system/notification_log.db-journal	1	
+76.609545	[UN]	/cam_socket2	
+79.324916	[RN]	/system/usagestats/0/screen_on_time	/system/usagestats/0/screen_on_time.bak	
+79.325221	[CR]	/system/usagestats/0/screen_on_time	
+79.325331	[WA]	/system/usagestats/0/screen_on_time	0	8	0	
+79.325426	[FS]	/system/usagestats/0/screen_on_time	0	
+79.341337	[UN]	/system/usagestats/0/screen_on_time.bak	
+81.833389	[CR]	/system/recent_images/15_task_thumbnail.png	
+81.833557	[WA]	/system/recent_images/15_task_thumbnail.png	0	8	0	
+81.833652	[WA]	/system/recent_images/15_task_thumbnail.png	8	8	8	
+81.833706	[WA]	/system/recent_images/15_task_thumbnail.png	16	13	16	
+81.833759	[WA]	/system/recent_images/15_task_thumbnail.png	29	4	29	
+81.833808	[WA]	/system/recent_images/15_task_thumbnail.png	33	8	33	
+81.833858	[WA]	/system/recent_images/15_task_thumbnail.png	41	4	41	
+81.833908	[WA]	/system/recent_images/15_task_thumbnail.png	45	4	45	
+81.888611	[WA]	/system/recent_images/15_task_thumbnail.png	49	8	49	
+81.888677	[WA]	/system/recent_images/15_task_thumbnail.png	57	4096	57	
+81.888758	[WA]	/system/recent_images/15_task_thumbnail.png	4153	4096	4153	
+81.888868	[WA]	/system/recent_images/15_task_thumbnail.png	8249	4	8249	
+81.888921	[WA]	/system/recent_images/15_task_thumbnail.png	8253	8	8253	
+81.888971	[WA]	/system/recent_images/15_task_thumbnail.png	8261	4096	8261	
+81.889047	[WA]	/system/recent_images/15_task_thumbnail.png	12357	4096	12357	
+81.889152	[WA]	/system/recent_images/15_task_thumbnail.png	16453	4	16453	
+81.947507	[WA]	/system/recent_images/15_task_thumbnail.png	16457	8	16457	
+81.947580	[WA]	/system/recent_images/15_task_thumbnail.png	16465	4096	16465	
+81.947661	[WA]	/system/recent_images/15_task_thumbnail.png	20561	4096	20561	
+81.947769	[WA]	/system/recent_images/15_task_thumbnail.png	24657	4	24657	
+81.947972	[WA]	/system/recent_images/15_task_thumbnail.png	24661	8	24661	
+81.948023	[WA]	/system/recent_images/15_task_thumbnail.png	24669	4096	24669	
+81.948100	[WA]	/system/recent_images/15_task_thumbnail.png	28765	4096	28765	
+81.948204	[WA]	/system/recent_images/15_task_thumbnail.png	32861	4	32861	
+81.948255	[WA]	/system/recent_images/15_task_thumbnail.png	32865	8	32865	
+81.948305	[WA]	/system/recent_images/15_task_thumbnail.png	32873	4096	32873	
+81.948380	[WA]	/system/recent_images/15_task_thumbnail.png	36969	4096	36969	
+81.948483	[WA]	/system/recent_images/15_task_thumbnail.png	41065	4	41065	
+82.017227	[WA]	/system/recent_images/15_task_thumbnail.png	41069	8	41069	
+82.017297	[WA]	/system/recent_images/15_task_thumbnail.png	41077	4096	41077	
+82.017378	[WA]	/system/recent_images/15_task_thumbnail.png	45173	4096	45173	
+82.017485	[WA]	/system/recent_images/15_task_thumbnail.png	49269	4	49269	
+82.017692	[WA]	/system/recent_images/15_task_thumbnail.png	49273	8	49273	
+82.017742	[WA]	/system/recent_images/15_task_thumbnail.png	49281	4096	49281	
+82.017824	[WA]	/system/recent_images/15_task_thumbnail.png	53377	4096	53377	
+82.017930	[WA]	/system/recent_images/15_task_thumbnail.png	57473	4	57473	
+82.092782	[WA]	/system/recent_images/15_task_thumbnail.png	57477	8	57477	
+82.092851	[WA]	/system/recent_images/15_task_thumbnail.png	57485	4096	57485	
+82.092933	[WA]	/system/recent_images/15_task_thumbnail.png	61581	4096	61581	
+82.093039	[WA]	/system/recent_images/15_task_thumbnail.png	65677	4	65677	
+82.093242	[WA]	/system/recent_images/15_task_thumbnail.png	65681	8	65681	
+82.093292	[WA]	/system/recent_images/15_task_thumbnail.png	65689	4096	65689	
+82.093368	[WA]	/system/recent_images/15_task_thumbnail.png	69785	4096	69785	
+82.093473	[WA]	/system/recent_images/15_task_thumbnail.png	73881	4	73881	
+82.093524	[WA]	/system/recent_images/15_task_thumbnail.png	73885	8	73885	
+82.093574	[WA]	/system/recent_images/15_task_thumbnail.png	73893	4096	73893	
+82.093649	[WA]	/system/recent_images/15_task_thumbnail.png	77989	4096	77989	
+82.093754	[WA]	/system/recent_images/15_task_thumbnail.png	82085	4	82085	
+82.171006	[WA]	/system/recent_images/15_task_thumbnail.png	82089	8	82089	
+82.171077	[WA]	/system/recent_images/15_task_thumbnail.png	82097	4096	82097	
+82.171158	[WA]	/system/recent_images/15_task_thumbnail.png	86193	4096	86193	
+82.171264	[WA]	/system/recent_images/15_task_thumbnail.png	90289	4	90289	
+82.171467	[WA]	/system/recent_images/15_task_thumbnail.png	90293	8	90293	
+82.171517	[WA]	/system/recent_images/15_task_thumbnail.png	90301	4096	90301	
+82.171593	[WA]	/system/recent_images/15_task_thumbnail.png	94397	4096	94397	
+82.171698	[WA]	/system/recent_images/15_task_thumbnail.png	98493	4	98493	
+82.171750	[WA]	/system/recent_images/15_task_thumbnail.png	98497	8	98497	
+82.171800	[WA]	/system/recent_images/15_task_thumbnail.png	98505	4096	98505	
+82.171876	[WA]	/system/recent_images/15_task_thumbnail.png	102601	4096	102601	
+82.171981	[WA]	/system/recent_images/15_task_thumbnail.png	106697	4	106697	
+82.248272	[WA]	/system/recent_images/15_task_thumbnail.png	106701	8	106701	
+82.248343	[WA]	/system/recent_images/15_task_thumbnail.png	106709	4096	106709	
+82.248425	[WA]	/system/recent_images/15_task_thumbnail.png	110805	4096	110805	
+82.248532	[WA]	/system/recent_images/15_task_thumbnail.png	114901	4	114901	
+82.248736	[WA]	/system/recent_images/15_task_thumbnail.png	114905	8	114905	
+82.248786	[WA]	/system/recent_images/15_task_thumbnail.png	114913	4096	114913	
+82.248864	[WA]	/system/recent_images/15_task_thumbnail.png	119009	4096	119009	
+82.248968	[WA]	/system/recent_images/15_task_thumbnail.png	123105	4	123105	
+82.249021	[WA]	/system/recent_images/15_task_thumbnail.png	123109	8	123109	
+82.249072	[WA]	/system/recent_images/15_task_thumbnail.png	123117	4096	123117	
+82.249147	[WA]	/system/recent_images/15_task_thumbnail.png	127213	4096	127213	
+82.249251	[WA]	/system/recent_images/15_task_thumbnail.png	131309	4	131309	
+82.321605	[WA]	/system/recent_images/15_task_thumbnail.png	131313	8	131313	
+82.321674	[WA]	/system/recent_images/15_task_thumbnail.png	131321	4096	131321	
+82.321755	[WA]	/system/recent_images/15_task_thumbnail.png	135417	4096	135417	
+82.321861	[WA]	/system/recent_images/15_task_thumbnail.png	139513	4	139513	
+82.322064	[WA]	/system/recent_images/15_task_thumbnail.png	139517	8	139517	
+82.322115	[WA]	/system/recent_images/15_task_thumbnail.png	139525	4096	139525	
+82.322191	[WA]	/system/recent_images/15_task_thumbnail.png	143621	4096	143621	
+82.322295	[WA]	/system/recent_images/15_task_thumbnail.png	147717	4	147717	
+82.396036	[WA]	/system/recent_images/15_task_thumbnail.png	147721	8	147721	
+82.396106	[WA]	/system/recent_images/15_task_thumbnail.png	147729	4096	147729	
+82.396189	[WA]	/system/recent_images/15_task_thumbnail.png	151825	4096	151825	
+82.396297	[WA]	/system/recent_images/15_task_thumbnail.png	155921	4	155921	
+82.396500	[WA]	/system/recent_images/15_task_thumbnail.png	155925	8	155925	
+82.396553	[WA]	/system/recent_images/15_task_thumbnail.png	155933	4096	155933	
+82.396631	[WA]	/system/recent_images/15_task_thumbnail.png	160029	4096	160029	
+82.396741	[WA]	/system/recent_images/15_task_thumbnail.png	164125	4	164125	
+82.396793	[WA]	/system/recent_images/15_task_thumbnail.png	164129	8	164129	
+82.396844	[WA]	/system/recent_images/15_task_thumbnail.png	164137	4096	164137	
+82.396920	[WA]	/system/recent_images/15_task_thumbnail.png	168233	4096	168233	
+82.397025	[WA]	/system/recent_images/15_task_thumbnail.png	172329	4	172329	
+82.468782	[WA]	/system/recent_images/15_task_thumbnail.png	172333	8	172333	
+82.468854	[WA]	/system/recent_images/15_task_thumbnail.png	172341	4096	172341	
+82.468936	[WA]	/system/recent_images/15_task_thumbnail.png	176437	4096	176437	
+82.469046	[WA]	/system/recent_images/15_task_thumbnail.png	180533	4	180533	
+82.469248	[WA]	/system/recent_images/15_task_thumbnail.png	180537	8	180537	
+82.469300	[WA]	/system/recent_images/15_task_thumbnail.png	180545	4096	180545	
+82.469376	[WA]	/system/recent_images/15_task_thumbnail.png	184641	4096	184641	
+82.469481	[WA]	/system/recent_images/15_task_thumbnail.png	188737	4	188737	
+82.469533	[WA]	/system/recent_images/15_task_thumbnail.png	188741	8	188741	
+82.469584	[WA]	/system/recent_images/15_task_thumbnail.png	188749	4096	188749	
+82.469664	[WA]	/system/recent_images/15_task_thumbnail.png	192845	4096	192845	
+82.469768	[WA]	/system/recent_images/15_task_thumbnail.png	196941	4	196941	
